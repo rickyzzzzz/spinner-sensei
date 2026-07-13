@@ -1,0 +1,15 @@
+{
+  "name": "spinner-sensei",
+  "description": "Spinner Sensei — turn your Claude Code spinner into rotating language-learning flashcards.",
+  "owner": {
+    "name": "rickyzzzzz",
+    "url": "https://github.com/rickyzzzzz"
+  },
+  "plugins": [
+    {
+      "name": "spinner-sensei",
+      "source": "./",
+      "description": "Learn a language from your Claude Code spinner — rotating vocabulary flashcards while Claude works."
+    }
+  ]
+}

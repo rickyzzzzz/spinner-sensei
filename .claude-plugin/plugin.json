@@ -1,0 +1,41 @@
+{
+  "name": "spinner-sensei",
+  "displayName": "Spinner Sensei",
+  "version": "1.0.0",
+  "description": "Learn a language from your Claude Code spinner — rotating vocabulary flashcards while Claude works. Zero token cost for rotation.",
+  "author": {
+    "name": "rickyzzzzz",
+    "url": "https://github.com/rickyzzzzz"
+  },
+  "repository": "https://github.com/rickyzzzzz/spinner-sensei",
+  "license": "MIT",
+  "keywords": ["language-learning", "japanese", "spinner", "flashcards"],
+  "userConfig": {
+    "target_language": {
+      "type": "string",
+      "title": "Target language",
+      "description": "The language you want to learn. Only 'japanese' ships with a bundled word pool; other languages are generated on demand by /spinner-sensei:configure.",
+      "default": "japanese"
+    },
+    "level": {
+      "type": "string",
+      "title": "Difficulty level",
+      "description": "Which words to show: N5 (beginner), N4, N3, or 'all' to mix every level. Exact-level filter for the bundled Japanese pool.",
+      "default": "N5"
+    },
+    "meaning_language": {
+      "type": "string",
+      "title": "Meaning language(s)",
+      "description": "Language(s) to show meanings in, comma-separated for more than one (e.g. 'english, chinese'). Supported for the bundled pool: english, chinese.",
+      "default": "english"
+    },
+    "words_per_batch": {
+      "type": "number",
+      "title": "Words per rotation",
+      "description": "How many fresh vocabulary words to load into the spinner each rotation.",
+      "default": 20,
+      "min": 5,
+      "max": 60
+    }
+  }
+}

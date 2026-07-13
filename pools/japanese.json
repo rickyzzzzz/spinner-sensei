@@ -1,0 +1,3229 @@
+[
+  {
+    "w": "考え中",
+    "r": "kangae-chū",
+    "en": "thinking",
+    "zh": "思考中",
+    "level": "N5"
+  },
+  {
+    "w": "調べる",
+    "r": "shiraberu",
+    "en": "to investigate",
+    "zh": "调查",
+    "level": "N4"
+  },
+  {
+    "w": "探す",
+    "r": "sagasu",
+    "en": "to search",
+    "zh": "寻找",
+    "level": "N4"
+  },
+  {
+    "w": "書く",
+    "r": "kaku",
+    "en": "to write",
+    "zh": "写",
+    "level": "N5"
+  },
+  {
+    "w": "読む",
+    "r": "yomu",
+    "en": "to read",
+    "zh": "读",
+    "level": "N5"
+  },
+  {
+    "w": "作る",
+    "r": "tsukuru",
+    "en": "to make",
+    "zh": "制作",
+    "level": "N5"
+  },
+  {
+    "w": "直す",
+    "r": "naosu",
+    "en": "to fix",
+    "zh": "修理",
+    "level": "N4"
+  },
+  {
+    "w": "待つ",
+    "r": "matsu",
+    "en": "to wait",
+    "zh": "等待",
+    "level": "N5"
+  },
+  {
+    "w": "頑張る",
+    "r": "ganbaru",
+    "en": "to do one's best",
+    "zh": "努力",
+    "level": "N4"
+  },
+  {
+    "w": "勉強",
+    "r": "benkyō",
+    "en": "study",
+    "zh": "学习",
+    "level": "N5"
+  },
+  {
+    "w": "準備",
+    "r": "junbi",
+    "en": "preparation",
+    "zh": "准备",
+    "level": "N4"
+  },
+  {
+    "w": "確認",
+    "r": "kakunin",
+    "en": "confirmation",
+    "zh": "确认",
+    "level": "N3"
+  },
+  {
+    "w": "検索",
+    "r": "kensaku",
+    "en": "search/lookup",
+    "zh": "搜索",
+    "level": "N3"
+  },
+  {
+    "w": "翻訳",
+    "r": "hon'yaku",
+    "en": "translation",
+    "zh": "翻译",
+    "level": "N3"
+  },
+  {
+    "w": "整理",
+    "r": "seiri",
+    "en": "organizing",
+    "zh": "整理",
+    "level": "N3"
+  },
+  {
+    "w": "計算",
+    "r": "keisan",
+    "en": "calculation",
+    "zh": "计算",
+    "level": "N4"
+  },
+  {
+    "w": "分析",
+    "r": "bunseki",
+    "en": "analysis",
+    "zh": "分析",
+    "level": "N3"
+  },
+  {
+    "w": "実行",
+    "r": "jikkō",
+    "en": "execution",
+    "zh": "执行",
+    "level": "N3"
+  },
+  {
+    "w": "修正",
+    "r": "shūsei",
+    "en": "correction",
+    "zh": "修正",
+    "level": "N3"
+  },
+  {
+    "w": "完成",
+    "r": "kansei",
+    "en": "completion",
+    "zh": "完成",
+    "level": "N3"
+  },
+  {
+    "w": "開発",
+    "r": "kaihatsu",
+    "en": "development",
+    "zh": "开发",
+    "level": "N3"
+  },
+  {
+    "w": "設計",
+    "r": "sekkei",
+    "en": "design",
+    "zh": "设计",
+    "level": "N3"
+  },
+  {
+    "w": "試す",
+    "r": "tamesu",
+    "en": "to try",
+    "zh": "尝试",
+    "level": "N3"
+  },
+  {
+    "w": "学ぶ",
+    "r": "manabu",
+    "en": "to learn",
+    "zh": "学习",
+    "level": "N4"
+  },
+  {
+    "w": "進む",
+    "r": "susumu",
+    "en": "to advance",
+    "zh": "前进",
+    "level": "N4"
+  },
+  {
+    "w": "続ける",
+    "r": "tsuzukeru",
+    "en": "to continue",
+    "zh": "继续",
+    "level": "N4"
+  },
+  {
+    "w": "始める",
+    "r": "hajimeru",
+    "en": "to begin",
+    "zh": "开始",
+    "level": "N5"
+  },
+  {
+    "w": "終わる",
+    "r": "owaru",
+    "en": "to finish",
+    "zh": "结束",
+    "level": "N5"
+  },
+  {
+    "w": "集中",
+    "r": "shūchū",
+    "en": "concentration",
+    "zh": "专注",
+    "level": "N3"
+  },
+  {
+    "w": "工夫",
+    "r": "kufū",
+    "en": "ingenuity/devising",
+    "zh": "设法",
+    "level": "N3"
+  },
+  {
+    "w": "挑戦",
+    "r": "chōsen",
+    "en": "challenge",
+    "zh": "挑战",
+    "level": "N3"
+  },
+  {
+    "w": "改善",
+    "r": "kaizen",
+    "en": "improvement",
+    "zh": "改善",
+    "level": "N3"
+  },
+  {
+    "w": "発見",
+    "r": "hakken",
+    "en": "discovery",
+    "zh": "发现",
+    "level": "N3"
+  },
+  {
+    "w": "解決",
+    "r": "kaiketsu",
+    "en": "solving",
+    "zh": "解决",
+    "level": "N3"
+  },
+  {
+    "w": "質問",
+    "r": "shitsumon",
+    "en": "question",
+    "zh": "提问",
+    "level": "N5"
+  },
+  {
+    "w": "答える",
+    "r": "kotaeru",
+    "en": "to answer",
+    "zh": "回答",
+    "level": "N4"
+  },
+  {
+    "w": "手伝う",
+    "r": "tetsudau",
+    "en": "to help",
+    "zh": "帮忙",
+    "level": "N4"
+  },
+  {
+    "w": "探検",
+    "r": "tanken",
+    "en": "exploration",
+    "zh": "探险",
+    "level": "N3"
+  },
+  {
+    "w": "想像",
+    "r": "sōzō",
+    "en": "imagination",
+    "zh": "想象",
+    "level": "N3"
+  },
+  {
+    "w": "夢中",
+    "r": "muchū",
+    "en": "absorbed in",
+    "zh": "入迷",
+    "level": "N3"
+  },
+  {
+    "w": "一生懸命",
+    "r": "isshōkenmei",
+    "en": "with all one's might",
+    "zh": "拼命",
+    "level": "N4"
+  },
+  {
+    "w": "検討",
+    "r": "kentō",
+    "en": "consideration",
+    "zh": "研究考虑",
+    "level": "N3"
+  },
+  {
+    "w": "構築",
+    "r": "kōchiku",
+    "en": "building/constructing",
+    "zh": "构建",
+    "level": "N3"
+  },
+  {
+    "w": "調整",
+    "r": "chōsei",
+    "en": "adjustment",
+    "zh": "调整",
+    "level": "N3"
+  },
+  {
+    "w": "復習",
+    "r": "fukushū",
+    "en": "review",
+    "zh": "复习",
+    "level": "N4"
+  },
+  {
+    "w": "練習",
+    "r": "renshū",
+    "en": "practice",
+    "zh": "练习",
+    "level": "N5"
+  },
+  {
+    "w": "成長",
+    "r": "seichō",
+    "en": "growth",
+    "zh": "成长",
+    "level": "N3"
+  },
+  {
+    "w": "理解",
+    "r": "rikai",
+    "en": "understanding",
+    "zh": "理解",
+    "level": "N3"
+  },
+  {
+    "w": "行く",
+    "r": "iku",
+    "en": "to go",
+    "zh": "去",
+    "level": "N5"
+  },
+  {
+    "w": "来る",
+    "r": "kuru",
+    "en": "to come",
+    "zh": "来",
+    "level": "N5"
+  },
+  {
+    "w": "見る",
+    "r": "miru",
+    "en": "to see",
+    "zh": "看",
+    "level": "N5"
+  },
+  {
+    "w": "聞く",
+    "r": "kiku",
+    "en": "to listen/ask",
+    "zh": "听/问",
+    "level": "N5"
+  },
+  {
+    "w": "話す",
+    "r": "hanasu",
+    "en": "to speak",
+    "zh": "说话",
+    "level": "N5"
+  },
+  {
+    "w": "食べる",
+    "r": "taberu",
+    "en": "to eat",
+    "zh": "吃",
+    "level": "N5"
+  },
+  {
+    "w": "飲む",
+    "r": "nomu",
+    "en": "to drink",
+    "zh": "喝",
+    "level": "N5"
+  },
+  {
+    "w": "買う",
+    "r": "kau",
+    "en": "to buy",
+    "zh": "买",
+    "level": "N5"
+  },
+  {
+    "w": "売る",
+    "r": "uru",
+    "en": "to sell",
+    "zh": "卖",
+    "level": "N4"
+  },
+  {
+    "w": "歩く",
+    "r": "aruku",
+    "en": "to walk",
+    "zh": "走路",
+    "level": "N5"
+  },
+  {
+    "w": "走る",
+    "r": "hashiru",
+    "en": "to run",
+    "zh": "跑",
+    "level": "N5"
+  },
+  {
+    "w": "泳ぐ",
+    "r": "oyogu",
+    "en": "to swim",
+    "zh": "游泳",
+    "level": "N5"
+  },
+  {
+    "w": "寝る",
+    "r": "neru",
+    "en": "to sleep",
+    "zh": "睡觉",
+    "level": "N5"
+  },
+  {
+    "w": "起きる",
+    "r": "okiru",
+    "en": "to wake up",
+    "zh": "起床",
+    "level": "N5"
+  },
+  {
+    "w": "休む",
+    "r": "yasumu",
+    "en": "to rest",
+    "zh": "休息",
+    "level": "N5"
+  },
+  {
+    "w": "働く",
+    "r": "hataraku",
+    "en": "to work",
+    "zh": "工作",
+    "level": "N5"
+  },
+  {
+    "w": "遊ぶ",
+    "r": "asobu",
+    "en": "to play",
+    "zh": "玩",
+    "level": "N5"
+  },
+  {
+    "w": "会う",
+    "r": "au",
+    "en": "to meet",
+    "zh": "见面",
+    "level": "N5"
+  },
+  {
+    "w": "使う",
+    "r": "tsukau",
+    "en": "to use",
+    "zh": "使用",
+    "level": "N5"
+  },
+  {
+    "w": "持つ",
+    "r": "motsu",
+    "en": "to hold",
+    "zh": "拿",
+    "level": "N5"
+  },
+  {
+    "w": "取る",
+    "r": "toru",
+    "en": "to take",
+    "zh": "取",
+    "level": "N5"
+  },
+  {
+    "w": "送る",
+    "r": "okuru",
+    "en": "to send",
+    "zh": "寄送",
+    "level": "N4"
+  },
+  {
+    "w": "教える",
+    "r": "oshieru",
+    "en": "to teach",
+    "zh": "教",
+    "level": "N5"
+  },
+  {
+    "w": "習う",
+    "r": "narau",
+    "en": "to learn from someone",
+    "zh": "学习",
+    "level": "N5"
+  },
+  {
+    "w": "覚える",
+    "r": "oboeru",
+    "en": "to memorize",
+    "zh": "记住",
+    "level": "N4"
+  },
+  {
+    "w": "忘れる",
+    "r": "wasureru",
+    "en": "to forget",
+    "zh": "忘记",
+    "level": "N5"
+  },
+  {
+    "w": "思う",
+    "r": "omou",
+    "en": "to think/feel",
+    "zh": "认为",
+    "level": "N5"
+  },
+  {
+    "w": "知る",
+    "r": "shiru",
+    "en": "to know",
+    "zh": "知道",
+    "level": "N5"
+  },
+  {
+    "w": "分かる",
+    "r": "wakaru",
+    "en": "to understand",
+    "zh": "明白",
+    "level": "N5"
+  },
+  {
+    "w": "入る",
+    "r": "hairu",
+    "en": "to enter",
+    "zh": "进入",
+    "level": "N5"
+  },
+  {
+    "w": "出る",
+    "r": "deru",
+    "en": "to exit",
+    "zh": "出去",
+    "level": "N5"
+  },
+  {
+    "w": "開ける",
+    "r": "akeru",
+    "en": "to open",
+    "zh": "打开",
+    "level": "N5"
+  },
+  {
+    "w": "閉める",
+    "r": "shimeru",
+    "en": "to close",
+    "zh": "关闭",
+    "level": "N5"
+  },
+  {
+    "w": "立つ",
+    "r": "tatsu",
+    "en": "to stand",
+    "zh": "站",
+    "level": "N5"
+  },
+  {
+    "w": "座る",
+    "r": "suwaru",
+    "en": "to sit",
+    "zh": "坐",
+    "level": "N5"
+  },
+  {
+    "w": "帰る",
+    "r": "kaeru",
+    "en": "to return home",
+    "zh": "回家",
+    "level": "N5"
+  },
+  {
+    "w": "着る",
+    "r": "kiru",
+    "en": "to wear",
+    "zh": "穿",
+    "level": "N5"
+  },
+  {
+    "w": "洗う",
+    "r": "arau",
+    "en": "to wash",
+    "zh": "洗",
+    "level": "N5"
+  },
+  {
+    "w": "料理",
+    "r": "ryōri",
+    "en": "cooking",
+    "zh": "做饭",
+    "level": "N5"
+  },
+  {
+    "w": "掃除",
+    "r": "sōji",
+    "en": "cleaning",
+    "zh": "打扫",
+    "level": "N5"
+  },
+  {
+    "w": "洗濯",
+    "r": "sentaku",
+    "en": "laundry",
+    "zh": "洗衣",
+    "level": "N5"
+  },
+  {
+    "w": "買い物",
+    "r": "kaimono",
+    "en": "shopping",
+    "zh": "购物",
+    "level": "N5"
+  },
+  {
+    "w": "旅行",
+    "r": "ryokō",
+    "en": "travel",
+    "zh": "旅行",
+    "level": "N5"
+  },
+  {
+    "w": "散歩",
+    "r": "sanpo",
+    "en": "a stroll",
+    "zh": "散步",
+    "level": "N5"
+  },
+  {
+    "w": "運転",
+    "r": "unten",
+    "en": "driving",
+    "zh": "开车",
+    "level": "N4"
+  },
+  {
+    "w": "電話",
+    "r": "denwa",
+    "en": "phone call",
+    "zh": "电话",
+    "level": "N5"
+  },
+  {
+    "w": "写真",
+    "r": "shashin",
+    "en": "photograph",
+    "zh": "照片",
+    "level": "N5"
+  },
+  {
+    "w": "時間",
+    "r": "jikan",
+    "en": "time",
+    "zh": "时间",
+    "level": "N5"
+  },
+  {
+    "w": "今日",
+    "r": "kyō",
+    "en": "today",
+    "zh": "今天",
+    "level": "N5"
+  },
+  {
+    "w": "明日",
+    "r": "ashita",
+    "en": "tomorrow",
+    "zh": "明天",
+    "level": "N5"
+  },
+  {
+    "w": "昨日",
+    "r": "kinō",
+    "en": "yesterday",
+    "zh": "昨天",
+    "level": "N5"
+  },
+  {
+    "w": "朝",
+    "r": "asa",
+    "en": "morning",
+    "zh": "早上",
+    "level": "N5"
+  },
+  {
+    "w": "昼",
+    "r": "hiru",
+    "en": "noon/daytime",
+    "zh": "中午",
+    "level": "N5"
+  },
+  {
+    "w": "夜",
+    "r": "yoru",
+    "en": "night",
+    "zh": "晚上",
+    "level": "N5"
+  },
+  {
+    "w": "天気",
+    "r": "tenki",
+    "en": "weather",
+    "zh": "天气",
+    "level": "N5"
+  },
+  {
+    "w": "雨",
+    "r": "ame",
+    "en": "rain",
+    "zh": "雨",
+    "level": "N5"
+  },
+  {
+    "w": "雪",
+    "r": "yuki",
+    "en": "snow",
+    "zh": "雪",
+    "level": "N5"
+  },
+  {
+    "w": "空",
+    "r": "sora",
+    "en": "sky",
+    "zh": "天空",
+    "level": "N5"
+  },
+  {
+    "w": "海",
+    "r": "umi",
+    "en": "sea",
+    "zh": "海",
+    "level": "N5"
+  },
+  {
+    "w": "山",
+    "r": "yama",
+    "en": "mountain",
+    "zh": "山",
+    "level": "N5"
+  },
+  {
+    "w": "川",
+    "r": "kawa",
+    "en": "river",
+    "zh": "河",
+    "level": "N5"
+  },
+  {
+    "w": "花",
+    "r": "hana",
+    "en": "flower",
+    "zh": "花",
+    "level": "N5"
+  },
+  {
+    "w": "木",
+    "r": "ki",
+    "en": "tree",
+    "zh": "树",
+    "level": "N5"
+  },
+  {
+    "w": "犬",
+    "r": "inu",
+    "en": "dog",
+    "zh": "狗",
+    "level": "N5"
+  },
+  {
+    "w": "猫",
+    "r": "neko",
+    "en": "cat",
+    "zh": "猫",
+    "level": "N5"
+  },
+  {
+    "w": "鳥",
+    "r": "tori",
+    "en": "bird",
+    "zh": "鸟",
+    "level": "N5"
+  },
+  {
+    "w": "魚",
+    "r": "sakana",
+    "en": "fish",
+    "zh": "鱼",
+    "level": "N5"
+  },
+  {
+    "w": "家",
+    "r": "ie",
+    "en": "house",
+    "zh": "家",
+    "level": "N5"
+  },
+  {
+    "w": "部屋",
+    "r": "heya",
+    "en": "room",
+    "zh": "房间",
+    "level": "N5"
+  },
+  {
+    "w": "会社",
+    "r": "kaisha",
+    "en": "company",
+    "zh": "公司",
+    "level": "N5"
+  },
+  {
+    "w": "学校",
+    "r": "gakkō",
+    "en": "school",
+    "zh": "学校",
+    "level": "N5"
+  },
+  {
+    "w": "病院",
+    "r": "byōin",
+    "en": "hospital",
+    "zh": "医院",
+    "level": "N5"
+  },
+  {
+    "w": "駅",
+    "r": "eki",
+    "en": "station",
+    "zh": "车站",
+    "level": "N5"
+  },
+  {
+    "w": "電車",
+    "r": "densha",
+    "en": "train",
+    "zh": "电车",
+    "level": "N5"
+  },
+  {
+    "w": "飛行機",
+    "r": "hikōki",
+    "en": "airplane",
+    "zh": "飞机",
+    "level": "N5"
+  },
+  {
+    "w": "車",
+    "r": "kuruma",
+    "en": "car",
+    "zh": "汽车",
+    "level": "N5"
+  },
+  {
+    "w": "自転車",
+    "r": "jitensha",
+    "en": "bicycle",
+    "zh": "自行车",
+    "level": "N5"
+  },
+  {
+    "w": "道",
+    "r": "michi",
+    "en": "road",
+    "zh": "道路",
+    "level": "N5"
+  },
+  {
+    "w": "店",
+    "r": "mise",
+    "en": "shop",
+    "zh": "商店",
+    "level": "N5"
+  },
+  {
+    "w": "銀行",
+    "r": "ginkō",
+    "en": "bank",
+    "zh": "银行",
+    "level": "N5"
+  },
+  {
+    "w": "お金",
+    "r": "okane",
+    "en": "money",
+    "zh": "钱",
+    "level": "N5"
+  },
+  {
+    "w": "仕事",
+    "r": "shigoto",
+    "en": "work/job",
+    "zh": "工作",
+    "level": "N5"
+  },
+  {
+    "w": "友達",
+    "r": "tomodachi",
+    "en": "friend",
+    "zh": "朋友",
+    "level": "N5"
+  },
+  {
+    "w": "家族",
+    "r": "kazoku",
+    "en": "family",
+    "zh": "家人",
+    "level": "N5"
+  },
+  {
+    "w": "子供",
+    "r": "kodomo",
+    "en": "child",
+    "zh": "孩子",
+    "level": "N5"
+  },
+  {
+    "w": "赤ちゃん",
+    "r": "akachan",
+    "en": "baby",
+    "zh": "婴儿",
+    "level": "N4"
+  },
+  {
+    "w": "名前",
+    "r": "namae",
+    "en": "name",
+    "zh": "名字",
+    "level": "N5"
+  },
+  {
+    "w": "言葉",
+    "r": "kotoba",
+    "en": "word/language",
+    "zh": "词语",
+    "level": "N4"
+  },
+  {
+    "w": "日本語",
+    "r": "nihongo",
+    "en": "Japanese language",
+    "zh": "日语",
+    "level": "N5"
+  },
+  {
+    "w": "英語",
+    "r": "eigo",
+    "en": "English language",
+    "zh": "英语",
+    "level": "N5"
+  },
+  {
+    "w": "中国語",
+    "r": "chūgokugo",
+    "en": "Chinese language",
+    "zh": "中文",
+    "level": "N5"
+  },
+  {
+    "w": "本",
+    "r": "hon",
+    "en": "book",
+    "zh": "书",
+    "level": "N5"
+  },
+  {
+    "w": "映画",
+    "r": "eiga",
+    "en": "movie",
+    "zh": "电影",
+    "level": "N5"
+  },
+  {
+    "w": "音楽",
+    "r": "ongaku",
+    "en": "music",
+    "zh": "音乐",
+    "level": "N5"
+  },
+  {
+    "w": "歌",
+    "r": "uta",
+    "en": "song",
+    "zh": "歌",
+    "level": "N5"
+  },
+  {
+    "w": "絵",
+    "r": "e",
+    "en": "picture/painting",
+    "zh": "画",
+    "level": "N5"
+  },
+  {
+    "w": "色",
+    "r": "iro",
+    "en": "color",
+    "zh": "颜色",
+    "level": "N5"
+  },
+  {
+    "w": "声",
+    "r": "koe",
+    "en": "voice",
+    "zh": "声音",
+    "level": "N4"
+  },
+  {
+    "w": "音",
+    "r": "oto",
+    "en": "sound",
+    "zh": "声响",
+    "level": "N4"
+  },
+  {
+    "w": "光",
+    "r": "hikari",
+    "en": "light",
+    "zh": "光",
+    "level": "N4"
+  },
+  {
+    "w": "影",
+    "r": "kage",
+    "en": "shadow",
+    "zh": "影子",
+    "level": "N3"
+  },
+  {
+    "w": "水",
+    "r": "mizu",
+    "en": "water",
+    "zh": "水",
+    "level": "N5"
+  },
+  {
+    "w": "火",
+    "r": "hi",
+    "en": "fire",
+    "zh": "火",
+    "level": "N4"
+  },
+  {
+    "w": "空気",
+    "r": "kūki",
+    "en": "air",
+    "zh": "空气",
+    "level": "N4"
+  },
+  {
+    "w": "食べ物",
+    "r": "tabemono",
+    "en": "food",
+    "zh": "食物",
+    "level": "N5"
+  },
+  {
+    "w": "飲み物",
+    "r": "nomimono",
+    "en": "beverage",
+    "zh": "饮料",
+    "level": "N5"
+  },
+  {
+    "w": "ご飯",
+    "r": "gohan",
+    "en": "rice/meal",
+    "zh": "米饭",
+    "level": "N5"
+  },
+  {
+    "w": "パン",
+    "r": "pan",
+    "en": "bread",
+    "zh": "面包",
+    "level": "N5"
+  },
+  {
+    "w": "肉",
+    "r": "niku",
+    "en": "meat",
+    "zh": "肉",
+    "level": "N5"
+  },
+  {
+    "w": "野菜",
+    "r": "yasai",
+    "en": "vegetables",
+    "zh": "蔬菜",
+    "level": "N5"
+  },
+  {
+    "w": "果物",
+    "r": "kudamono",
+    "en": "fruit",
+    "zh": "水果",
+    "level": "N5"
+  },
+  {
+    "w": "お茶",
+    "r": "ocha",
+    "en": "tea",
+    "zh": "茶",
+    "level": "N5"
+  },
+  {
+    "w": "コーヒー",
+    "r": "kōhī",
+    "en": "coffee",
+    "zh": "咖啡",
+    "level": "N5"
+  },
+  {
+    "w": "牛乳",
+    "r": "gyūnyū",
+    "en": "milk",
+    "zh": "牛奶",
+    "level": "N5"
+  },
+  {
+    "w": "卵",
+    "r": "tamago",
+    "en": "egg",
+    "zh": "鸡蛋",
+    "level": "N5"
+  },
+  {
+    "w": "塩",
+    "r": "shio",
+    "en": "salt",
+    "zh": "盐",
+    "level": "N5"
+  },
+  {
+    "w": "砂糖",
+    "r": "satō",
+    "en": "sugar",
+    "zh": "糖",
+    "level": "N5"
+  },
+  {
+    "w": "大きい",
+    "r": "ōkii",
+    "en": "big",
+    "zh": "大",
+    "level": "N5"
+  },
+  {
+    "w": "小さい",
+    "r": "chiisai",
+    "en": "small",
+    "zh": "小",
+    "level": "N5"
+  },
+  {
+    "w": "新しい",
+    "r": "atarashii",
+    "en": "new",
+    "zh": "新",
+    "level": "N5"
+  },
+  {
+    "w": "古い",
+    "r": "furui",
+    "en": "old (things)",
+    "zh": "旧",
+    "level": "N5"
+  },
+  {
+    "w": "高い",
+    "r": "takai",
+    "en": "tall/expensive",
+    "zh": "高/贵",
+    "level": "N5"
+  },
+  {
+    "w": "安い",
+    "r": "yasui",
+    "en": "cheap",
+    "zh": "便宜",
+    "level": "N5"
+  },
+  {
+    "w": "良い",
+    "r": "yoi",
+    "en": "good",
+    "zh": "好",
+    "level": "N5"
+  },
+  {
+    "w": "悪い",
+    "r": "warui",
+    "en": "bad",
+    "zh": "坏",
+    "level": "N5"
+  },
+  {
+    "w": "早い",
+    "r": "hayai",
+    "en": "early",
+    "zh": "早",
+    "level": "N5"
+  },
+  {
+    "w": "速い",
+    "r": "hayai",
+    "en": "fast",
+    "zh": "快",
+    "level": "N5"
+  },
+  {
+    "w": "遅い",
+    "r": "osoi",
+    "en": "slow/late",
+    "zh": "慢/晚",
+    "level": "N5"
+  },
+  {
+    "w": "近い",
+    "r": "chikai",
+    "en": "near",
+    "zh": "近",
+    "level": "N5"
+  },
+  {
+    "w": "遠い",
+    "r": "tōi",
+    "en": "far",
+    "zh": "远",
+    "level": "N5"
+  },
+  {
+    "w": "暑い",
+    "r": "atsui",
+    "en": "hot (weather)",
+    "zh": "热",
+    "level": "N5"
+  },
+  {
+    "w": "寒い",
+    "r": "samui",
+    "en": "cold (weather)",
+    "zh": "冷",
+    "level": "N5"
+  },
+  {
+    "w": "暖かい",
+    "r": "atatakai",
+    "en": "warm",
+    "zh": "温暖",
+    "level": "N5"
+  },
+  {
+    "w": "涼しい",
+    "r": "suzushii",
+    "en": "cool (weather)",
+    "zh": "凉爽",
+    "level": "N5"
+  },
+  {
+    "w": "忙しい",
+    "r": "isogashii",
+    "en": "busy",
+    "zh": "忙",
+    "level": "N5"
+  },
+  {
+    "w": "暇",
+    "r": "hima",
+    "en": "free time",
+    "zh": "空闲",
+    "level": "N5"
+  },
+  {
+    "w": "楽しい",
+    "r": "tanoshii",
+    "en": "fun",
+    "zh": "快乐",
+    "level": "N5"
+  },
+  {
+    "w": "嬉しい",
+    "r": "ureshii",
+    "en": "happy/glad",
+    "zh": "高兴",
+    "level": "N4"
+  },
+  {
+    "w": "悲しい",
+    "r": "kanashii",
+    "en": "sad",
+    "zh": "悲伤",
+    "level": "N4"
+  },
+  {
+    "w": "面白い",
+    "r": "omoshiroi",
+    "en": "interesting",
+    "zh": "有趣",
+    "level": "N5"
+  },
+  {
+    "w": "つまらない",
+    "r": "tsumaranai",
+    "en": "boring",
+    "zh": "无聊",
+    "level": "N5"
+  },
+  {
+    "w": "難しい",
+    "r": "muzukashii",
+    "en": "difficult",
+    "zh": "难",
+    "level": "N5"
+  },
+  {
+    "w": "易しい",
+    "r": "yasashii",
+    "en": "easy",
+    "zh": "容易",
+    "level": "N5"
+  },
+  {
+    "w": "優しい",
+    "r": "yasashii",
+    "en": "kind/gentle",
+    "zh": "温柔",
+    "level": "N4"
+  },
+  {
+    "w": "強い",
+    "r": "tsuyoi",
+    "en": "strong",
+    "zh": "强",
+    "level": "N5"
+  },
+  {
+    "w": "弱い",
+    "r": "yowai",
+    "en": "weak",
+    "zh": "弱",
+    "level": "N4"
+  },
+  {
+    "w": "重い",
+    "r": "omoi",
+    "en": "heavy",
+    "zh": "重",
+    "level": "N5"
+  },
+  {
+    "w": "軽い",
+    "r": "karui",
+    "en": "light (weight)",
+    "zh": "轻",
+    "level": "N5"
+  },
+  {
+    "w": "美味しい",
+    "r": "oishii",
+    "en": "delicious",
+    "zh": "好吃",
+    "level": "N5"
+  },
+  {
+    "w": "甘い",
+    "r": "amai",
+    "en": "sweet",
+    "zh": "甜",
+    "level": "N5"
+  },
+  {
+    "w": "辛い",
+    "r": "karai",
+    "en": "spicy",
+    "zh": "辣",
+    "level": "N4"
+  },
+  {
+    "w": "静か",
+    "r": "shizuka",
+    "en": "quiet",
+    "zh": "安静",
+    "level": "N5"
+  },
+  {
+    "w": "賑やか",
+    "r": "nigiyaka",
+    "en": "lively",
+    "zh": "热闹",
+    "level": "N5"
+  },
+  {
+    "w": "綺麗",
+    "r": "kirei",
+    "en": "beautiful/clean",
+    "zh": "漂亮/干净",
+    "level": "N5"
+  },
+  {
+    "w": "可愛い",
+    "r": "kawaii",
+    "en": "cute",
+    "zh": "可爱",
+    "level": "N4"
+  },
+  {
+    "w": "元気",
+    "r": "genki",
+    "en": "healthy/energetic",
+    "zh": "有精神",
+    "level": "N5"
+  },
+  {
+    "w": "大切",
+    "r": "taisetsu",
+    "en": "important/precious",
+    "zh": "重要",
+    "level": "N4"
+  },
+  {
+    "w": "便利",
+    "r": "benri",
+    "en": "convenient",
+    "zh": "方便",
+    "level": "N5"
+  },
+  {
+    "w": "有名",
+    "r": "yūmei",
+    "en": "famous",
+    "zh": "有名",
+    "level": "N5"
+  },
+  {
+    "w": "大丈夫",
+    "r": "daijōbu",
+    "en": "okay/all right",
+    "zh": "没问题",
+    "level": "N5"
+  },
+  {
+    "w": "上手",
+    "r": "jōzu",
+    "en": "skilled",
+    "zh": "擅长",
+    "level": "N5"
+  },
+  {
+    "w": "下手",
+    "r": "heta",
+    "en": "unskilled",
+    "zh": "不擅长",
+    "level": "N5"
+  },
+  {
+    "w": "好き",
+    "r": "suki",
+    "en": "to like",
+    "zh": "喜欢",
+    "level": "N5"
+  },
+  {
+    "w": "嫌い",
+    "r": "kirai",
+    "en": "to dislike",
+    "zh": "讨厌",
+    "level": "N5"
+  },
+  {
+    "w": "経験",
+    "r": "keiken",
+    "en": "experience",
+    "zh": "经验",
+    "level": "N4"
+  },
+  {
+    "w": "約束",
+    "r": "yakusoku",
+    "en": "promise",
+    "zh": "约定",
+    "level": "N4"
+  },
+  {
+    "w": "予定",
+    "r": "yotei",
+    "en": "plan/schedule",
+    "zh": "预定",
+    "level": "N4"
+  },
+  {
+    "w": "意味",
+    "r": "imi",
+    "en": "meaning",
+    "zh": "意思",
+    "level": "N5"
+  },
+  {
+    "w": "説明",
+    "r": "setsumei",
+    "en": "explanation",
+    "zh": "说明",
+    "level": "N4"
+  },
+  {
+    "w": "相談",
+    "r": "sōdan",
+    "en": "consultation",
+    "zh": "商量",
+    "level": "N4"
+  },
+  {
+    "w": "連絡",
+    "r": "renraku",
+    "en": "contact",
+    "zh": "联系",
+    "level": "N4"
+  },
+  {
+    "w": "案内",
+    "r": "annai",
+    "en": "guidance",
+    "zh": "向导",
+    "level": "N4"
+  },
+  {
+    "w": "紹介",
+    "r": "shōkai",
+    "en": "introduction",
+    "zh": "介绍",
+    "level": "N4"
+  },
+  {
+    "w": "招待",
+    "r": "shōtai",
+    "en": "invitation",
+    "zh": "邀请",
+    "level": "N4"
+  },
+  {
+    "w": "遠慮",
+    "r": "enryo",
+    "en": "holding back/reserve",
+    "zh": "客气",
+    "level": "N3"
+  },
+  {
+    "w": "我慢",
+    "r": "gaman",
+    "en": "endurance/patience",
+    "zh": "忍耐",
+    "level": "N3"
+  },
+  {
+    "w": "安心",
+    "r": "anshin",
+    "en": "relief/peace of mind",
+    "zh": "安心",
+    "level": "N4"
+  },
+  {
+    "w": "心配",
+    "r": "shinpai",
+    "en": "worry",
+    "zh": "担心",
+    "level": "N4"
+  },
+  {
+    "w": "注意",
+    "r": "chūi",
+    "en": "caution/attention",
+    "zh": "注意",
+    "level": "N4"
+  },
+  {
+    "w": "危険",
+    "r": "kiken",
+    "en": "danger",
+    "zh": "危险",
+    "level": "N4"
+  },
+  {
+    "w": "安全",
+    "r": "anzen",
+    "en": "safety",
+    "zh": "安全",
+    "level": "N4"
+  },
+  {
+    "w": "自由",
+    "r": "jiyū",
+    "en": "freedom",
+    "zh": "自由",
+    "level": "N3"
+  },
+  {
+    "w": "自然",
+    "r": "shizen",
+    "en": "nature",
+    "zh": "自然",
+    "level": "N3"
+  },
+  {
+    "w": "社会",
+    "r": "shakai",
+    "en": "society",
+    "zh": "社会",
+    "level": "N3"
+  },
+  {
+    "w": "文化",
+    "r": "bunka",
+    "en": "culture",
+    "zh": "文化",
+    "level": "N4"
+  },
+  {
+    "w": "歴史",
+    "r": "rekishi",
+    "en": "history",
+    "zh": "历史",
+    "level": "N4"
+  },
+  {
+    "w": "経済",
+    "r": "keizai",
+    "en": "economy",
+    "zh": "经济",
+    "level": "N3"
+  },
+  {
+    "w": "科学",
+    "r": "kagaku",
+    "en": "science",
+    "zh": "科学",
+    "level": "N3"
+  },
+  {
+    "w": "技術",
+    "r": "gijutsu",
+    "en": "technology",
+    "zh": "技术",
+    "level": "N3"
+  },
+  {
+    "w": "情報",
+    "r": "jōhō",
+    "en": "information",
+    "zh": "信息",
+    "level": "N4"
+  },
+  {
+    "w": "知識",
+    "r": "chishiki",
+    "en": "knowledge",
+    "zh": "知识",
+    "level": "N3"
+  },
+  {
+    "w": "記憶",
+    "r": "kioku",
+    "en": "memory",
+    "zh": "记忆",
+    "level": "N3"
+  },
+  {
+    "w": "意見",
+    "r": "iken",
+    "en": "opinion",
+    "zh": "意见",
+    "level": "N4"
+  },
+  {
+    "w": "理由",
+    "r": "riyū",
+    "en": "reason",
+    "zh": "理由",
+    "level": "N4"
+  },
+  {
+    "w": "結果",
+    "r": "kekka",
+    "en": "result",
+    "zh": "结果",
+    "level": "N3"
+  },
+  {
+    "w": "原因",
+    "r": "gen'in",
+    "en": "cause",
+    "zh": "原因",
+    "level": "N3"
+  },
+  {
+    "w": "目的",
+    "r": "mokuteki",
+    "en": "purpose",
+    "zh": "目的",
+    "level": "N3"
+  },
+  {
+    "w": "方法",
+    "r": "hōhō",
+    "en": "method",
+    "zh": "方法",
+    "level": "N4"
+  },
+  {
+    "w": "問題",
+    "r": "mondai",
+    "en": "problem",
+    "zh": "问题",
+    "level": "N5"
+  },
+  {
+    "w": "答え",
+    "r": "kotae",
+    "en": "answer",
+    "zh": "答案",
+    "level": "N4"
+  },
+  {
+    "w": "宿題",
+    "r": "shukudai",
+    "en": "homework",
+    "zh": "作业",
+    "level": "N5"
+  },
+  {
+    "w": "試験",
+    "r": "shiken",
+    "en": "exam",
+    "zh": "考试",
+    "level": "N4"
+  },
+  {
+    "w": "成績",
+    "r": "seiseki",
+    "en": "grades/results",
+    "zh": "成绩",
+    "level": "N3"
+  },
+  {
+    "w": "卒業",
+    "r": "sotsugyō",
+    "en": "graduation",
+    "zh": "毕业",
+    "level": "N4"
+  },
+  {
+    "w": "就職",
+    "r": "shūshoku",
+    "en": "getting a job",
+    "zh": "就业",
+    "level": "N3"
+  },
+  {
+    "w": "面接",
+    "r": "mensetsu",
+    "en": "job interview",
+    "zh": "面试",
+    "level": "N3"
+  },
+  {
+    "w": "会議",
+    "r": "kaigi",
+    "en": "meeting",
+    "zh": "会议",
+    "level": "N4"
+  },
+  {
+    "w": "出張",
+    "r": "shutchō",
+    "en": "business trip",
+    "zh": "出差",
+    "level": "N3"
+  },
+  {
+    "w": "残業",
+    "r": "zangyō",
+    "en": "overtime work",
+    "zh": "加班",
+    "level": "N3"
+  },
+  {
+    "w": "給料",
+    "r": "kyūryō",
+    "en": "salary",
+    "zh": "工资",
+    "level": "N3"
+  },
+  {
+    "w": "貯金",
+    "r": "chokin",
+    "en": "savings",
+    "zh": "存款",
+    "level": "N3"
+  },
+  {
+    "w": "投資",
+    "r": "tōshi",
+    "en": "investment",
+    "zh": "投资",
+    "level": "N3"
+  },
+  {
+    "w": "株",
+    "r": "kabu",
+    "en": "stocks",
+    "zh": "股票",
+    "level": "N3"
+  },
+  {
+    "w": "値段",
+    "r": "nedan",
+    "en": "price",
+    "zh": "价格",
+    "level": "N4"
+  },
+  {
+    "w": "割引",
+    "r": "waribiki",
+    "en": "discount",
+    "zh": "折扣",
+    "level": "N3"
+  },
+  {
+    "w": "無料",
+    "r": "muryō",
+    "en": "free of charge",
+    "zh": "免费",
+    "level": "N4"
+  },
+  {
+    "w": "大学",
+    "r": "daigaku",
+    "en": "university",
+    "zh": "大学",
+    "level": "N5"
+  },
+  {
+    "w": "先生",
+    "r": "sensei",
+    "en": "teacher",
+    "zh": "老师",
+    "level": "N5"
+  },
+  {
+    "w": "学生",
+    "r": "gakusei",
+    "en": "student",
+    "zh": "学生",
+    "level": "N5"
+  },
+  {
+    "w": "医者",
+    "r": "isha",
+    "en": "doctor",
+    "zh": "医生",
+    "level": "N5"
+  },
+  {
+    "w": "母",
+    "r": "haha",
+    "en": "(my) mother",
+    "zh": "母亲",
+    "level": "N5"
+  },
+  {
+    "w": "父",
+    "r": "chichi",
+    "en": "(my) father",
+    "zh": "父亲",
+    "level": "N5"
+  },
+  {
+    "w": "兄",
+    "r": "ani",
+    "en": "older brother",
+    "zh": "哥哥",
+    "level": "N5"
+  },
+  {
+    "w": "姉",
+    "r": "ane",
+    "en": "older sister",
+    "zh": "姐姐",
+    "level": "N5"
+  },
+  {
+    "w": "弟",
+    "r": "otōto",
+    "en": "younger brother",
+    "zh": "弟弟",
+    "level": "N5"
+  },
+  {
+    "w": "妹",
+    "r": "imōto",
+    "en": "younger sister",
+    "zh": "妹妹",
+    "level": "N5"
+  },
+  {
+    "w": "男",
+    "r": "otoko",
+    "en": "man",
+    "zh": "男人",
+    "level": "N5"
+  },
+  {
+    "w": "女",
+    "r": "onna",
+    "en": "woman",
+    "zh": "女人",
+    "level": "N5"
+  },
+  {
+    "w": "人",
+    "r": "hito",
+    "en": "person",
+    "zh": "人",
+    "level": "N5"
+  },
+  {
+    "w": "手",
+    "r": "te",
+    "en": "hand",
+    "zh": "手",
+    "level": "N5"
+  },
+  {
+    "w": "足",
+    "r": "ashi",
+    "en": "foot/leg",
+    "zh": "脚",
+    "level": "N5"
+  },
+  {
+    "w": "目",
+    "r": "me",
+    "en": "eye",
+    "zh": "眼睛",
+    "level": "N5"
+  },
+  {
+    "w": "耳",
+    "r": "mimi",
+    "en": "ear",
+    "zh": "耳朵",
+    "level": "N5"
+  },
+  {
+    "w": "口",
+    "r": "kuchi",
+    "en": "mouth",
+    "zh": "嘴",
+    "level": "N5"
+  },
+  {
+    "w": "頭",
+    "r": "atama",
+    "en": "head",
+    "zh": "头",
+    "level": "N5"
+  },
+  {
+    "w": "顔",
+    "r": "kao",
+    "en": "face",
+    "zh": "脸",
+    "level": "N5"
+  },
+  {
+    "w": "体",
+    "r": "karada",
+    "en": "body",
+    "zh": "身体",
+    "level": "N5"
+  },
+  {
+    "w": "紙",
+    "r": "kami",
+    "en": "paper",
+    "zh": "纸",
+    "level": "N5"
+  },
+  {
+    "w": "鉛筆",
+    "r": "enpitsu",
+    "en": "pencil",
+    "zh": "铅笔",
+    "level": "N5"
+  },
+  {
+    "w": "机",
+    "r": "tsukue",
+    "en": "desk",
+    "zh": "桌子",
+    "level": "N5"
+  },
+  {
+    "w": "椅子",
+    "r": "isu",
+    "en": "chair",
+    "zh": "椅子",
+    "level": "N5"
+  },
+  {
+    "w": "窓",
+    "r": "mado",
+    "en": "window",
+    "zh": "窗户",
+    "level": "N5"
+  },
+  {
+    "w": "傘",
+    "r": "kasa",
+    "en": "umbrella",
+    "zh": "雨伞",
+    "level": "N5"
+  },
+  {
+    "w": "靴",
+    "r": "kutsu",
+    "en": "shoes",
+    "zh": "鞋",
+    "level": "N5"
+  },
+  {
+    "w": "服",
+    "r": "fuku",
+    "en": "clothes",
+    "zh": "衣服",
+    "level": "N5"
+  },
+  {
+    "w": "帽子",
+    "r": "bōshi",
+    "en": "hat",
+    "zh": "帽子",
+    "level": "N5"
+  },
+  {
+    "w": "時計",
+    "r": "tokei",
+    "en": "clock/watch",
+    "zh": "钟表",
+    "level": "N5"
+  },
+  {
+    "w": "新聞",
+    "r": "shinbun",
+    "en": "newspaper",
+    "zh": "报纸",
+    "level": "N5"
+  },
+  {
+    "w": "手紙",
+    "r": "tegami",
+    "en": "letter",
+    "zh": "信",
+    "level": "N5"
+  },
+  {
+    "w": "切符",
+    "r": "kippu",
+    "en": "ticket",
+    "zh": "车票",
+    "level": "N5"
+  },
+  {
+    "w": "地図",
+    "r": "chizu",
+    "en": "map",
+    "zh": "地图",
+    "level": "N5"
+  },
+  {
+    "w": "台所",
+    "r": "daidokoro",
+    "en": "kitchen",
+    "zh": "厨房",
+    "level": "N5"
+  },
+  {
+    "w": "庭",
+    "r": "niwa",
+    "en": "garden",
+    "zh": "院子",
+    "level": "N5"
+  },
+  {
+    "w": "星",
+    "r": "hoshi",
+    "en": "star",
+    "zh": "星星",
+    "level": "N5"
+  },
+  {
+    "w": "月",
+    "r": "tsuki",
+    "en": "moon",
+    "zh": "月亮",
+    "level": "N5"
+  },
+  {
+    "w": "太陽",
+    "r": "taiyō",
+    "en": "sun",
+    "zh": "太阳",
+    "level": "N5"
+  },
+  {
+    "w": "森",
+    "r": "mori",
+    "en": "forest",
+    "zh": "森林",
+    "level": "N5"
+  },
+  {
+    "w": "池",
+    "r": "ike",
+    "en": "pond",
+    "zh": "池塘",
+    "level": "N5"
+  },
+  {
+    "w": "場所",
+    "r": "basho",
+    "en": "place",
+    "zh": "地方",
+    "level": "N4"
+  },
+  {
+    "w": "世界",
+    "r": "sekai",
+    "en": "world",
+    "zh": "世界",
+    "level": "N4"
+  },
+  {
+    "w": "予約",
+    "r": "yoyaku",
+    "en": "reservation",
+    "zh": "预约",
+    "level": "N4"
+  },
+  {
+    "w": "用意",
+    "r": "yōi",
+    "en": "preparation",
+    "zh": "准备",
+    "level": "N4"
+  },
+  {
+    "w": "生活",
+    "r": "seikatsu",
+    "en": "daily life",
+    "zh": "生活",
+    "level": "N4"
+  },
+  {
+    "w": "趣味",
+    "r": "shumi",
+    "en": "hobby",
+    "zh": "爱好",
+    "level": "N4"
+  },
+  {
+    "w": "興味",
+    "r": "kyōmi",
+    "en": "interest",
+    "zh": "兴趣",
+    "level": "N4"
+  },
+  {
+    "w": "都合",
+    "r": "tsugō",
+    "en": "convenience/circumstances",
+    "zh": "方便与否",
+    "level": "N4"
+  },
+  {
+    "w": "気持ち",
+    "r": "kimochi",
+    "en": "feeling",
+    "zh": "心情",
+    "level": "N4"
+  },
+  {
+    "w": "気分",
+    "r": "kibun",
+    "en": "mood",
+    "zh": "情绪",
+    "level": "N4"
+  },
+  {
+    "w": "具合",
+    "r": "guai",
+    "en": "condition/state",
+    "zh": "状况",
+    "level": "N4"
+  },
+  {
+    "w": "反対",
+    "r": "hantai",
+    "en": "opposition",
+    "zh": "反对",
+    "level": "N4"
+  },
+  {
+    "w": "賛成",
+    "r": "sansei",
+    "en": "agreement",
+    "zh": "赞成",
+    "level": "N4"
+  },
+  {
+    "w": "失敗",
+    "r": "shippai",
+    "en": "failure",
+    "zh": "失败",
+    "level": "N4"
+  },
+  {
+    "w": "成功",
+    "r": "seikō",
+    "en": "success",
+    "zh": "成功",
+    "level": "N4"
+  },
+  {
+    "w": "交通",
+    "r": "kōtsū",
+    "en": "traffic",
+    "zh": "交通",
+    "level": "N4"
+  },
+  {
+    "w": "信号",
+    "r": "shingō",
+    "en": "traffic signal",
+    "zh": "信号灯",
+    "level": "N4"
+  },
+  {
+    "w": "空港",
+    "r": "kūkō",
+    "en": "airport",
+    "zh": "机场",
+    "level": "N4"
+  },
+  {
+    "w": "港",
+    "r": "minato",
+    "en": "harbor",
+    "zh": "港口",
+    "level": "N4"
+  },
+  {
+    "w": "国",
+    "r": "kuni",
+    "en": "country",
+    "zh": "国家",
+    "level": "N4"
+  },
+  {
+    "w": "田舎",
+    "r": "inaka",
+    "en": "countryside",
+    "zh": "乡下",
+    "level": "N4"
+  },
+  {
+    "w": "都市",
+    "r": "toshi",
+    "en": "city",
+    "zh": "城市",
+    "level": "N4"
+  },
+  {
+    "w": "村",
+    "r": "mura",
+    "en": "village",
+    "zh": "村庄",
+    "level": "N4"
+  },
+  {
+    "w": "町",
+    "r": "machi",
+    "en": "town",
+    "zh": "城镇",
+    "level": "N4"
+  },
+  {
+    "w": "島",
+    "r": "shima",
+    "en": "island",
+    "zh": "岛",
+    "level": "N4"
+  },
+  {
+    "w": "湖",
+    "r": "mizuumi",
+    "en": "lake",
+    "zh": "湖",
+    "level": "N4"
+  },
+  {
+    "w": "坂",
+    "r": "saka",
+    "en": "slope",
+    "zh": "坡",
+    "level": "N4"
+  },
+  {
+    "w": "橋",
+    "r": "hashi",
+    "en": "bridge",
+    "zh": "桥",
+    "level": "N4"
+  },
+  {
+    "w": "建物",
+    "r": "tatemono",
+    "en": "building",
+    "zh": "建筑物",
+    "level": "N4"
+  },
+  {
+    "w": "屋上",
+    "r": "okujō",
+    "en": "rooftop",
+    "zh": "屋顶",
+    "level": "N4"
+  },
+  {
+    "w": "地下",
+    "r": "chika",
+    "en": "underground",
+    "zh": "地下",
+    "level": "N4"
+  },
+  {
+    "w": "受付",
+    "r": "uketsuke",
+    "en": "reception",
+    "zh": "接待处",
+    "level": "N4"
+  },
+  {
+    "w": "事務所",
+    "r": "jimusho",
+    "en": "office",
+    "zh": "办公室",
+    "level": "N4"
+  },
+  {
+    "w": "工場",
+    "r": "kōjō",
+    "en": "factory",
+    "zh": "工厂",
+    "level": "N4"
+  },
+  {
+    "w": "農業",
+    "r": "nōgyō",
+    "en": "agriculture",
+    "zh": "农业",
+    "level": "N4"
+  },
+  {
+    "w": "選ぶ",
+    "r": "erabu",
+    "en": "to choose",
+    "zh": "选择",
+    "level": "N4"
+  },
+  {
+    "w": "決める",
+    "r": "kimeru",
+    "en": "to decide",
+    "zh": "决定",
+    "level": "N4"
+  },
+  {
+    "w": "比べる",
+    "r": "kuraberu",
+    "en": "to compare",
+    "zh": "比较",
+    "level": "N4"
+  },
+  {
+    "w": "増える",
+    "r": "fueru",
+    "en": "to increase",
+    "zh": "增加",
+    "level": "N4"
+  },
+  {
+    "w": "減る",
+    "r": "heru",
+    "en": "to decrease",
+    "zh": "减少",
+    "level": "N4"
+  },
+  {
+    "w": "変わる",
+    "r": "kawaru",
+    "en": "to change (intr.)",
+    "zh": "变化",
+    "level": "N4"
+  },
+  {
+    "w": "変える",
+    "r": "kaeru",
+    "en": "to change (tr.)",
+    "zh": "改变",
+    "level": "N4"
+  },
+  {
+    "w": "集める",
+    "r": "atsumeru",
+    "en": "to collect",
+    "zh": "收集",
+    "level": "N4"
+  },
+  {
+    "w": "集まる",
+    "r": "atsumaru",
+    "en": "to gather",
+    "zh": "聚集",
+    "level": "N4"
+  },
+  {
+    "w": "育てる",
+    "r": "sodateru",
+    "en": "to raise",
+    "zh": "培养",
+    "level": "N4"
+  },
+  {
+    "w": "育つ",
+    "r": "sodatsu",
+    "en": "to grow up",
+    "zh": "成长",
+    "level": "N4"
+  },
+  {
+    "w": "死ぬ",
+    "r": "shinu",
+    "en": "to die",
+    "zh": "死",
+    "level": "N4"
+  },
+  {
+    "w": "生きる",
+    "r": "ikiru",
+    "en": "to live",
+    "zh": "活",
+    "level": "N4"
+  },
+  {
+    "w": "動く",
+    "r": "ugoku",
+    "en": "to move (intr.)",
+    "zh": "动",
+    "level": "N4"
+  },
+  {
+    "w": "止まる",
+    "r": "tomaru",
+    "en": "to stop (intr.)",
+    "zh": "停止",
+    "level": "N4"
+  },
+  {
+    "w": "止める",
+    "r": "tomeru",
+    "en": "to stop (tr.)",
+    "zh": "停下",
+    "level": "N4"
+  },
+  {
+    "w": "続く",
+    "r": "tsuzuku",
+    "en": "to continue (intr.)",
+    "zh": "持续",
+    "level": "N4"
+  },
+  {
+    "w": "通る",
+    "r": "tōru",
+    "en": "to pass through",
+    "zh": "通过",
+    "level": "N4"
+  },
+  {
+    "w": "通う",
+    "r": "kayou",
+    "en": "to commute",
+    "zh": "往返",
+    "level": "N4"
+  },
+  {
+    "w": "渡る",
+    "r": "wataru",
+    "en": "to cross",
+    "zh": "过（马路）",
+    "level": "N4"
+  },
+  {
+    "w": "渡す",
+    "r": "watasu",
+    "en": "to hand over",
+    "zh": "交给",
+    "level": "N4"
+  },
+  {
+    "w": "曲がる",
+    "r": "magaru",
+    "en": "to turn/bend",
+    "zh": "拐弯",
+    "level": "N4"
+  },
+  {
+    "w": "運ぶ",
+    "r": "hakobu",
+    "en": "to carry",
+    "zh": "搬运",
+    "level": "N4"
+  },
+  {
+    "w": "拾う",
+    "r": "hirou",
+    "en": "to pick up",
+    "zh": "捡",
+    "level": "N4"
+  },
+  {
+    "w": "捨てる",
+    "r": "suteru",
+    "en": "to throw away",
+    "zh": "扔",
+    "level": "N4"
+  },
+  {
+    "w": "投げる",
+    "r": "nageru",
+    "en": "to throw",
+    "zh": "投",
+    "level": "N4"
+  },
+  {
+    "w": "押す",
+    "r": "osu",
+    "en": "to push",
+    "zh": "推",
+    "level": "N4"
+  },
+  {
+    "w": "引く",
+    "r": "hiku",
+    "en": "to pull",
+    "zh": "拉",
+    "level": "N4"
+  },
+  {
+    "w": "打つ",
+    "r": "utsu",
+    "en": "to hit/strike",
+    "zh": "打",
+    "level": "N4"
+  },
+  {
+    "w": "触る",
+    "r": "sawaru",
+    "en": "to touch",
+    "zh": "摸",
+    "level": "N4"
+  },
+  {
+    "w": "貼る",
+    "r": "haru",
+    "en": "to paste/stick",
+    "zh": "贴",
+    "level": "N4"
+  },
+  {
+    "w": "折る",
+    "r": "oru",
+    "en": "to fold/break",
+    "zh": "折",
+    "level": "N4"
+  },
+  {
+    "w": "割る",
+    "r": "waru",
+    "en": "to break/divide",
+    "zh": "打碎",
+    "level": "N4"
+  },
+  {
+    "w": "片付ける",
+    "r": "katazukeru",
+    "en": "to tidy up",
+    "zh": "收拾",
+    "level": "N4"
+  },
+  {
+    "w": "並ぶ",
+    "r": "narabu",
+    "en": "to line up",
+    "zh": "排队",
+    "level": "N4"
+  },
+  {
+    "w": "並べる",
+    "r": "naraberu",
+    "en": "to arrange",
+    "zh": "排列",
+    "level": "N4"
+  },
+  {
+    "w": "深い",
+    "r": "fukai",
+    "en": "deep",
+    "zh": "深",
+    "level": "N4"
+  },
+  {
+    "w": "浅い",
+    "r": "asai",
+    "en": "shallow",
+    "zh": "浅",
+    "level": "N4"
+  },
+  {
+    "w": "太い",
+    "r": "futoi",
+    "en": "thick (round)",
+    "zh": "粗",
+    "level": "N4"
+  },
+  {
+    "w": "細い",
+    "r": "hosoi",
+    "en": "thin/narrow",
+    "zh": "细",
+    "level": "N4"
+  },
+  {
+    "w": "広い",
+    "r": "hiroi",
+    "en": "spacious",
+    "zh": "宽敞",
+    "level": "N4"
+  },
+  {
+    "w": "狭い",
+    "r": "semai",
+    "en": "narrow",
+    "zh": "窄",
+    "level": "N4"
+  },
+  {
+    "w": "硬い",
+    "r": "katai",
+    "en": "hard",
+    "zh": "硬",
+    "level": "N4"
+  },
+  {
+    "w": "柔らかい",
+    "r": "yawarakai",
+    "en": "soft",
+    "zh": "软",
+    "level": "N4"
+  },
+  {
+    "w": "苦い",
+    "r": "nigai",
+    "en": "bitter",
+    "zh": "苦",
+    "level": "N4"
+  },
+  {
+    "w": "眠い",
+    "r": "nemui",
+    "en": "sleepy",
+    "zh": "困",
+    "level": "N4"
+  },
+  {
+    "w": "苦しい",
+    "r": "kurushii",
+    "en": "painful/hard",
+    "zh": "难受",
+    "level": "N4"
+  },
+  {
+    "w": "寂しい",
+    "r": "samishii",
+    "en": "lonely",
+    "zh": "寂寞",
+    "level": "N4"
+  },
+  {
+    "w": "怖い",
+    "r": "kowai",
+    "en": "scary",
+    "zh": "可怕",
+    "level": "N4"
+  },
+  {
+    "w": "恥ずかしい",
+    "r": "hazukashii",
+    "en": "embarrassing",
+    "zh": "害羞",
+    "level": "N4"
+  },
+  {
+    "w": "珍しい",
+    "r": "mezurashii",
+    "en": "rare/unusual",
+    "zh": "稀奇",
+    "level": "N4"
+  },
+  {
+    "w": "正しい",
+    "r": "tadashii",
+    "en": "correct",
+    "zh": "正确",
+    "level": "N4"
+  },
+  {
+    "w": "危ない",
+    "r": "abunai",
+    "en": "dangerous",
+    "zh": "危险",
+    "level": "N4"
+  },
+  {
+    "w": "特別",
+    "r": "tokubetsu",
+    "en": "special",
+    "zh": "特别",
+    "level": "N4"
+  },
+  {
+    "w": "十分",
+    "r": "jūbun",
+    "en": "sufficient",
+    "zh": "充分",
+    "level": "N4"
+  },
+  {
+    "w": "複雑",
+    "r": "fukuzatsu",
+    "en": "complicated",
+    "zh": "复杂",
+    "level": "N4"
+  },
+  {
+    "w": "簡単",
+    "r": "kantan",
+    "en": "simple/easy",
+    "zh": "简单",
+    "level": "N4"
+  },
+  {
+    "w": "丁寧",
+    "r": "teinei",
+    "en": "polite/careful",
+    "zh": "客气周到",
+    "level": "N4"
+  },
+  {
+    "w": "真面目",
+    "r": "majime",
+    "en": "serious/diligent",
+    "zh": "认真",
+    "level": "N4"
+  },
+  {
+    "w": "親切",
+    "r": "shinsetsu",
+    "en": "kind",
+    "zh": "亲切",
+    "level": "N4"
+  },
+  {
+    "w": "立派",
+    "r": "rippa",
+    "en": "splendid",
+    "zh": "出色",
+    "level": "N4"
+  },
+  {
+    "w": "邪魔",
+    "r": "jama",
+    "en": "hindrance/nuisance",
+    "zh": "妨碍",
+    "level": "N4"
+  },
+  {
+    "w": "得意",
+    "r": "tokui",
+    "en": "one's strong point",
+    "zh": "擅长",
+    "level": "N4"
+  },
+  {
+    "w": "苦手",
+    "r": "nigate",
+    "en": "weak point/dislike",
+    "zh": "不擅长",
+    "level": "N4"
+  },
+  {
+    "w": "無理",
+    "r": "muri",
+    "en": "impossible/unreasonable",
+    "zh": "勉强",
+    "level": "N4"
+  },
+  {
+    "w": "経営",
+    "r": "keiei",
+    "en": "management",
+    "zh": "经营",
+    "level": "N3"
+  },
+  {
+    "w": "政治",
+    "r": "seiji",
+    "en": "politics",
+    "zh": "政治",
+    "level": "N3"
+  },
+  {
+    "w": "法律",
+    "r": "hōritsu",
+    "en": "law",
+    "zh": "法律",
+    "level": "N3"
+  },
+  {
+    "w": "制度",
+    "r": "seido",
+    "en": "system/institution",
+    "zh": "制度",
+    "level": "N3"
+  },
+  {
+    "w": "関係",
+    "r": "kankei",
+    "en": "relationship",
+    "zh": "关系",
+    "level": "N3"
+  },
+  {
+    "w": "影響",
+    "r": "eikyō",
+    "en": "influence",
+    "zh": "影响",
+    "level": "N3"
+  },
+  {
+    "w": "状態",
+    "r": "jōtai",
+    "en": "state/condition",
+    "zh": "状态",
+    "level": "N3"
+  },
+  {
+    "w": "状況",
+    "r": "jōkyō",
+    "en": "situation",
+    "zh": "情况",
+    "level": "N3"
+  },
+  {
+    "w": "環境",
+    "r": "kankyō",
+    "en": "environment",
+    "zh": "环境",
+    "level": "N3"
+  },
+  {
+    "w": "条件",
+    "r": "jōken",
+    "en": "condition/requirement",
+    "zh": "条件",
+    "level": "N3"
+  },
+  {
+    "w": "内容",
+    "r": "naiyō",
+    "en": "content",
+    "zh": "内容",
+    "level": "N3"
+  },
+  {
+    "w": "種類",
+    "r": "shurui",
+    "en": "kind/type",
+    "zh": "种类",
+    "level": "N3"
+  },
+  {
+    "w": "性格",
+    "r": "seikaku",
+    "en": "personality",
+    "zh": "性格",
+    "level": "N3"
+  },
+  {
+    "w": "態度",
+    "r": "taido",
+    "en": "attitude",
+    "zh": "态度",
+    "level": "N3"
+  },
+  {
+    "w": "表現",
+    "r": "hyōgen",
+    "en": "expression",
+    "zh": "表现",
+    "level": "N3"
+  },
+  {
+    "w": "判断",
+    "r": "handan",
+    "en": "judgment",
+    "zh": "判断",
+    "level": "N3"
+  },
+  {
+    "w": "決定",
+    "r": "kettei",
+    "en": "decision",
+    "zh": "决定",
+    "level": "N3"
+  },
+  {
+    "w": "選択",
+    "r": "sentaku",
+    "en": "choice/selection",
+    "zh": "选择",
+    "level": "N3"
+  },
+  {
+    "w": "実現",
+    "r": "jitsugen",
+    "en": "realization",
+    "zh": "实现",
+    "level": "N3"
+  },
+  {
+    "w": "発生",
+    "r": "hassei",
+    "en": "occurrence",
+    "zh": "发生",
+    "level": "N3"
+  },
+  {
+    "w": "発達",
+    "r": "hattatsu",
+    "en": "development",
+    "zh": "发达",
+    "level": "N3"
+  },
+  {
+    "w": "発展",
+    "r": "hatten",
+    "en": "expansion/growth",
+    "zh": "发展",
+    "level": "N3"
+  },
+  {
+    "w": "進歩",
+    "r": "shinpo",
+    "en": "progress",
+    "zh": "进步",
+    "level": "N3"
+  },
+  {
+    "w": "増加",
+    "r": "zōka",
+    "en": "increase",
+    "zh": "增加",
+    "level": "N3"
+  },
+  {
+    "w": "減少",
+    "r": "genshō",
+    "en": "decrease",
+    "zh": "减少",
+    "level": "N3"
+  },
+  {
+    "w": "変更",
+    "r": "henkō",
+    "en": "change/alteration",
+    "zh": "变更",
+    "level": "N3"
+  },
+  {
+    "w": "比較",
+    "r": "hikaku",
+    "en": "comparison",
+    "zh": "比较",
+    "level": "N3"
+  },
+  {
+    "w": "区別",
+    "r": "kubetsu",
+    "en": "distinction",
+    "zh": "区别",
+    "level": "N3"
+  },
+  {
+    "w": "平均",
+    "r": "heikin",
+    "en": "average",
+    "zh": "平均",
+    "level": "N3"
+  },
+  {
+    "w": "計画",
+    "r": "keikaku",
+    "en": "plan",
+    "zh": "计划",
+    "level": "N3"
+  },
+  {
+    "w": "目標",
+    "r": "mokuhyō",
+    "en": "goal/target",
+    "zh": "目标",
+    "level": "N3"
+  },
+  {
+    "w": "予測",
+    "r": "yosoku",
+    "en": "prediction",
+    "zh": "预测",
+    "level": "N3"
+  },
+  {
+    "w": "期待",
+    "r": "kitai",
+    "en": "expectation",
+    "zh": "期待",
+    "level": "N3"
+  },
+  {
+    "w": "努力",
+    "r": "doryoku",
+    "en": "effort",
+    "zh": "努力",
+    "level": "N3"
+  },
+  {
+    "w": "責任",
+    "r": "sekinin",
+    "en": "responsibility",
+    "zh": "责任",
+    "level": "N3"
+  },
+  {
+    "w": "能力",
+    "r": "nōryoku",
+    "en": "ability",
+    "zh": "能力",
+    "level": "N3"
+  },
+  {
+    "w": "効果",
+    "r": "kōka",
+    "en": "effect",
+    "zh": "效果",
+    "level": "N3"
+  },
+  {
+    "w": "効率",
+    "r": "kōritsu",
+    "en": "efficiency",
+    "zh": "效率",
+    "level": "N3"
+  },
+  {
+    "w": "利益",
+    "r": "rieki",
+    "en": "profit",
+    "zh": "利益",
+    "level": "N3"
+  },
+  {
+    "w": "費用",
+    "r": "hiyō",
+    "en": "expense/cost",
+    "zh": "费用",
+    "level": "N3"
+  },
+  {
+    "w": "予算",
+    "r": "yosan",
+    "en": "budget",
+    "zh": "预算",
+    "level": "N3"
+  },
+  {
+    "w": "収入",
+    "r": "shūnyū",
+    "en": "income",
+    "zh": "收入",
+    "level": "N3"
+  },
+  {
+    "w": "税金",
+    "r": "zeikin",
+    "en": "tax",
+    "zh": "税",
+    "level": "N3"
+  },
+  {
+    "w": "貿易",
+    "r": "bōeki",
+    "en": "trade",
+    "zh": "贸易",
+    "level": "N3"
+  },
+  {
+    "w": "産業",
+    "r": "sangyō",
+    "en": "industry",
+    "zh": "产业",
+    "level": "N3"
+  },
+  {
+    "w": "企業",
+    "r": "kigyō",
+    "en": "enterprise/company",
+    "zh": "企业",
+    "level": "N3"
+  },
+  {
+    "w": "商品",
+    "r": "shōhin",
+    "en": "goods/merchandise",
+    "zh": "商品",
+    "level": "N3"
+  },
+  {
+    "w": "製品",
+    "r": "seihin",
+    "en": "product",
+    "zh": "产品",
+    "level": "N3"
+  },
+  {
+    "w": "資料",
+    "r": "shiryō",
+    "en": "materials/data",
+    "zh": "资料",
+    "level": "N3"
+  },
+  {
+    "w": "記録",
+    "r": "kiroku",
+    "en": "record",
+    "zh": "记录",
+    "level": "N3"
+  },
+  {
+    "w": "調査",
+    "r": "chōsa",
+    "en": "survey/investigation",
+    "zh": "调查",
+    "level": "N3"
+  },
+  {
+    "w": "研究",
+    "r": "kenkyū",
+    "en": "research",
+    "zh": "研究",
+    "level": "N3"
+  },
+  {
+    "w": "実験",
+    "r": "jikken",
+    "en": "experiment",
+    "zh": "实验",
+    "level": "N3"
+  },
+  {
+    "w": "発表",
+    "r": "happyō",
+    "en": "presentation/announcement",
+    "zh": "发表",
+    "level": "N3"
+  },
+  {
+    "w": "報告",
+    "r": "hōkoku",
+    "en": "report",
+    "zh": "报告",
+    "level": "N3"
+  }
+]

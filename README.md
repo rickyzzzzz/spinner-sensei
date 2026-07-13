@@ -3,6 +3,8 @@
 Turn your Claude Code spinner into a language tutor. While Claude works, the
 little spinner verb becomes a vocabulary flashcard:
 
+![Claude Code spinner showing a Japanese vocabulary flashcard: 食べる (taberu) — to eat · 吃](assets/spinner-demo.png)
+
 ```
 勉強 (benkyō) — study · 学习
 一生懸命 (isshōkenmei) — with all one's might · 拼命

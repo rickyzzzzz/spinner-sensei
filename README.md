@@ -52,8 +52,8 @@ Run `/spinner-sensei:configure` any time to:
   - `cadence_days` — 1 = daily, 7 = weekly, etc.
   - `display_format` — `full` (`勉強 (benkyō) — study`), `recognition`
     (`勉強 (benkyō)`), `no_romaji` (`勉強 — study`), or `with_example`
-    (`勉強 (benkyō) · 毎日勉強します (mainichi benkyō shimasu) I study every day`)
-    to add an example sentence.
+    (`勉強 (benkyō) — study · 学习 · 毎日勉強します (mainichi benkyō shimasu) I study every day`)
+    to add an example sentence on top of the meaning gloss.
   - `spinner_mode` — `append` (adds to Claude's built-in verbs) or `replace`.
   - `review_ratio` — fraction of each batch resurfaced from seen words (0.0–0.9).
 - **Generate a pool** for a new language (Spanish, Korean, French, …).

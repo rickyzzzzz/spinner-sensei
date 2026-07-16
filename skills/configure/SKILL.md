@@ -43,11 +43,10 @@ options, then to defaults):
 
 `display_format`: `full` = `勉強 (benkyō) — study · 学习`; `recognition` =
 `勉強 (benkyō)`; `no_romaji` = `勉強 — study`; `with_example` =
-`勉強 (benkyō) · 毎日勉強します (mainichi benkyō shimasu) I study every day`
-(word + an example sentence with its reading and translation; the standalone
-word gloss is dropped so the single spinner line stays compact — the sentence's
-translation carries the meaning. Needs `ex`/`exr`/`ex_<lang>` on the pool entry;
-entries without an example fall back to `full`).
+`勉強 (benkyō) — study · 学习 · 毎日勉強します (mainichi benkyō shimasu) I study every day`
+(the full word gloss plus an example sentence with its reading and translation —
+you get both the word's own meaning and it in context. Needs `ex`/`exr`/`ex_<lang>`
+on the pool entry; entries without an example fall back to `full`).
 
 ## How to apply a change (do this after every write)
 

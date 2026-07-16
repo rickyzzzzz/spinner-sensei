@@ -156,7 +156,8 @@ def format_entry(entry, meaning_list, display_format):
         ex_gloss = " · ".join(ex_glosses)
         if ex_gloss:
             sentence = f"{sentence} {ex_gloss}"
-        return f"{head} · {sentence}"
+        head_with_meaning = f"{head} — {meaning_str}" if meaning_str else head
+        return f"{head_with_meaning} · {sentence}"
 
     if display_format == "recognition":
         return head

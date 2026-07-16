@@ -5,6 +5,15 @@ All notable changes to Spinner Sensei are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] — 2026-07-15
+
+### Changed
+- `with_example` now includes the word's own meaning gloss before the example
+  sentence, so you get both the standalone definition and it in context
+  (`勉強 (benkyō) — study · 学习 · 毎日勉強します (mainichi benkyō shimasu) I study every day`).
+  Previously the standalone gloss was dropped and only the sentence translation
+  carried the meaning.
+
 ## [1.1.0] — 2026-07-15
 
 ### Added

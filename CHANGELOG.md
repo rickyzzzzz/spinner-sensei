@@ -5,6 +5,18 @@ All notable changes to Spinner Sensei are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] — 2026-07-15
+
+### Added
+- `with_example` display format — shows a word alongside an example sentence
+  with its reading and translation
+  (`勉強 (benkyō) · 毎日勉強します (mainichi benkyō shimasu) I study every day`).
+  Opt-in via `/spinner-sensei:configure`; the default `full` format is unchanged.
+- Optional pool schema fields `ex` / `exr` / `ex_en` / `ex_zh` (example sentence,
+  its reading, and per-language translations). Entries without an example fall
+  back to the `full` rendering.
+- Full example-sentence backfill of the bundled Japanese pool (all ~461 entries).
+
 ## [1.0.0] — 2026-07-12
 
 ### Added

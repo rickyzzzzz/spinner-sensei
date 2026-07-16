@@ -17,7 +17,8 @@ a tiny local Python script — **zero token cost**, no network calls.
 ## What it does
 
 - Ships a bundled Japanese pool of ~460 words, tagged by JLPT level (N5/N4/N3),
-  each with English and Chinese (simplified) meanings and macron rōmaji.
+  each with English and Chinese (simplified) meanings, macron rōmaji, and an
+  example sentence (surfaced by the `with_example` display format).
 - Walks the pool sequentially so you don't see the same word twice until you've
   been through the whole thing, then wraps — with a configurable slice of each
   batch resurfaced from words you've already seen (spaced review).
@@ -50,7 +51,9 @@ Run `/spinner-sensei:configure` any time to:
 - **Change** any setting — including ones not asked at install:
   - `cadence_days` — 1 = daily, 7 = weekly, etc.
   - `display_format` — `full` (`勉強 (benkyō) — study`), `recognition`
-    (`勉強 (benkyō)`), or `no_romaji` (`勉強 — study`).
+    (`勉強 (benkyō)`), `no_romaji` (`勉強 — study`), or `with_example`
+    (`勉強 (benkyō) · 毎日勉強します (mainichi benkyō shimasu) I study every day`)
+    to add an example sentence.
   - `spinner_mode` — `append` (adds to Claude's built-in verbs) or `replace`.
   - `review_ratio` — fraction of each batch resurfaced from seen words (0.0–0.9).
 - **Generate a pool** for a new language (Spanish, Korean, French, …).

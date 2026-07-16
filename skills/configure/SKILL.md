@@ -34,7 +34,7 @@ options, then to defaults):
   "meaning_language": "english", // comma-separated, e.g. "english, chinese"
   "words_per_batch": 20,         // 1–60
   "cadence_days": 7,             // 1 = daily, 7 = weekly
-  "display_format": "full",      // full | recognition | no_romaji
+  "display_format": "full",      // full | recognition | no_romaji | with_example
   "spinner_mode": "append",      // append | replace
   "review_ratio": 0.2,           // 0.0–0.9 fraction resampled from seen words
   "paused": false
@@ -42,7 +42,12 @@ options, then to defaults):
 ```
 
 `display_format`: `full` = `勉強 (benkyō) — study · 学习`; `recognition` =
-`勉強 (benkyō)`; `no_romaji` = `勉強 — study`.
+`勉強 (benkyō)`; `no_romaji` = `勉強 — study`; `with_example` =
+`勉強 (benkyō) · 毎日勉強します (mainichi benkyō shimasu) I study every day`
+(word + an example sentence with its reading and translation; the standalone
+word gloss is dropped so the single spinner line stays compact — the sentence's
+translation carries the meaning. Needs `ex`/`exr`/`ex_<lang>` on the pool entry;
+entries without an example fall back to `full`).
 
 ## How to apply a change (do this after every write)
 
@@ -66,8 +71,9 @@ setting and note where it comes from (config.json > enable-time > default).
 
 ### Change a setting
 Any key in the schema above. Validate ranges (`words_per_batch` 1–60,
-`review_ratio` 0.0–0.9, `level` in N5/N4/N3/all, `display_format` and
-`spinner_mode` in their enums). Write config.json, then force-rotate.
+`review_ratio` 0.0–0.9, `level` in N5/N4/N3/all, `display_format` in
+full/recognition/no_romaji/with_example, `spinner_mode` in its enum). Write
+config.json, then force-rotate.
 
 ### Generate a pool for a new language
 The bundled pool covers Japanese only. For any other language the user wants,
@@ -75,15 +81,21 @@ author `${CLAUDE_PLUGIN_DATA}/pools/<language>.json` yourself as a JSON array of
 entries in this structured format:
 
 ```json
-[{"w": "hablar", "r": "", "en": "to speak", "zh": "说", "level": "A1"}]
+[{"w": "hablar", "r": "", "en": "to speak", "zh": "说", "level": "A1",
+  "ex": "Quiero hablar contigo.", "exr": "", "ex_en": "I want to speak with you.", "ex_zh": "我想和你说话。"}]
 ```
 
 - `w` = the word/phrase in the target language; `r` = reading/romanization
   (leave `""` if not applicable, e.g. Spanish); include a meaning key for each
   of the user's configured `meaning_language`s (`en` for english, `zh` for
   chinese); `level` = a difficulty tag (use the language's own scale, or `A1`/`A2`/`B1`, or just `all`).
+- Optional example-sentence keys (used by `display_format: with_example`):
+  `ex` = a short natural sentence using the word; `exr` = its reading/romanization
+  (`""` if not applicable); `ex_<lang>` = the sentence's translation per
+  meaning language (`ex_en`, `ex_zh`). Omit these keys and `with_example` falls
+  back to `full` for that entry.
 - Author ~300+ good entries, most-common words first. Correctness matters — this
-  teaches people. Double-check readings and meanings.
+  teaches people. Double-check readings, meanings, and example sentences.
 - Then set `target_language` to that language in config.json and force-rotate.
 
 ### Add custom words

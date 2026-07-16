@@ -4,3226 +4,5070 @@
     "r": "kangae-chū",
     "en": "thinking",
     "zh": "思考中",
-    "level": "N5"
+    "level": "N5",
+    "ex": "今考え中です。",
+    "exr": "ima kangae-chū desu.",
+    "ex_en": "I'm thinking right now.",
+    "ex_zh": "我正在思考。"
   },
   {
     "w": "調べる",
     "r": "shiraberu",
     "en": "to investigate",
     "zh": "调查",
-    "level": "N4"
+    "level": "N4",
+    "ex": "言葉を調べます。",
+    "exr": "kotoba o shirabemasu.",
+    "ex_en": "I look up the word.",
+    "ex_zh": "查一下词。"
   },
   {
     "w": "探す",
     "r": "sagasu",
     "en": "to search",
     "zh": "寻找",
-    "level": "N4"
+    "level": "N4",
+    "ex": "鍵を探しています。",
+    "exr": "kagi o sagashite imasu.",
+    "ex_en": "I'm looking for my keys.",
+    "ex_zh": "我在找钥匙。"
   },
   {
     "w": "書く",
     "r": "kaku",
     "en": "to write",
     "zh": "写",
-    "level": "N5"
+    "level": "N5",
+    "ex": "手紙を書きます。",
+    "exr": "tegami o kakimasu.",
+    "ex_en": "I write a letter.",
+    "ex_zh": "我写信。"
   },
   {
     "w": "読む",
     "r": "yomu",
     "en": "to read",
     "zh": "读",
-    "level": "N5"
+    "level": "N5",
+    "ex": "本を読みます。",
+    "exr": "hon o yomimasu.",
+    "ex_en": "I read a book.",
+    "ex_zh": "我读书。"
   },
   {
     "w": "作る",
     "r": "tsukuru",
     "en": "to make",
     "zh": "制作",
-    "level": "N5"
+    "level": "N5",
+    "ex": "料理を作ります。",
+    "exr": "ryōri o tsukurimasu.",
+    "ex_en": "I make food.",
+    "ex_zh": "我做菜。"
   },
   {
     "w": "直す",
     "r": "naosu",
     "en": "to fix",
     "zh": "修理",
-    "level": "N4"
+    "level": "N4",
+    "ex": "車を直します。",
+    "exr": "kuruma o naoshimasu.",
+    "ex_en": "I fix the car.",
+    "ex_zh": "我修车。"
   },
   {
     "w": "待つ",
     "r": "matsu",
     "en": "to wait",
     "zh": "等待",
-    "level": "N5"
+    "level": "N5",
+    "ex": "ここで待ちます。",
+    "exr": "koko de machimasu.",
+    "ex_en": "I'll wait here.",
+    "ex_zh": "我在这里等。"
   },
   {
     "w": "頑張る",
     "r": "ganbaru",
     "en": "to do one's best",
     "zh": "努力",
-    "level": "N4"
+    "level": "N4",
+    "ex": "明日も頑張ります。",
+    "exr": "ashita mo ganbarimasu.",
+    "ex_en": "I'll do my best tomorrow too.",
+    "ex_zh": "明天也加油。"
   },
   {
     "w": "勉強",
     "r": "benkyō",
     "en": "study",
     "zh": "学习",
-    "level": "N5"
+    "level": "N5",
+    "ex": "毎日日本語を勉強します。",
+    "exr": "mainichi nihongo o benkyō shimasu.",
+    "ex_en": "I study Japanese every day.",
+    "ex_zh": "我每天学习日语。"
   },
   {
     "w": "準備",
     "r": "junbi",
     "en": "preparation",
     "zh": "准备",
-    "level": "N4"
+    "level": "N4",
+    "ex": "旅行の準備をします。",
+    "exr": "ryokō no junbi o shimasu.",
+    "ex_en": "I prepare for the trip.",
+    "ex_zh": "做旅行的准备。"
   },
   {
     "w": "確認",
     "r": "kakunin",
     "en": "confirmation",
     "zh": "确认",
-    "level": "N3"
+    "level": "N3",
+    "ex": "予定を確認します。",
+    "exr": "yotei o kakunin shimasu.",
+    "ex_en": "I confirm the schedule.",
+    "ex_zh": "确认一下日程。"
   },
   {
     "w": "検索",
     "r": "kensaku",
     "en": "search/lookup",
     "zh": "搜索",
-    "level": "N3"
+    "level": "N3",
+    "ex": "ネットで検索します。",
+    "exr": "netto de kensaku shimasu.",
+    "ex_en": "I search on the internet.",
+    "ex_zh": "在网上搜索。"
   },
   {
     "w": "翻訳",
     "r": "hon'yaku",
     "en": "translation",
     "zh": "翻译",
-    "level": "N3"
+    "level": "N3",
+    "ex": "文章を翻訳します。",
+    "exr": "bunshō o hon'yaku shimasu.",
+    "ex_en": "I translate the text.",
+    "ex_zh": "翻译文章。"
   },
   {
     "w": "整理",
     "r": "seiri",
     "en": "organizing",
     "zh": "整理",
-    "level": "N3"
+    "level": "N3",
+    "ex": "机の上を整理します。",
+    "exr": "tsukue no ue o seiri shimasu.",
+    "ex_en": "I tidy up my desk.",
+    "ex_zh": "整理桌面。"
   },
   {
     "w": "計算",
     "r": "keisan",
     "en": "calculation",
     "zh": "计算",
-    "level": "N4"
+    "level": "N4",
+    "ex": "値段を計算します。",
+    "exr": "nedan o keisan shimasu.",
+    "ex_en": "I calculate the price.",
+    "ex_zh": "计算价格。"
   },
   {
     "w": "分析",
     "r": "bunseki",
     "en": "analysis",
     "zh": "分析",
-    "level": "N3"
+    "level": "N3",
+    "ex": "データを分析します。",
+    "exr": "dēta o bunseki shimasu.",
+    "ex_en": "I analyze the data.",
+    "ex_zh": "分析数据。"
   },
   {
     "w": "実行",
     "r": "jikkō",
     "en": "execution",
     "zh": "执行",
-    "level": "N3"
+    "level": "N3",
+    "ex": "計画を実行します。",
+    "exr": "keikaku o jikkō shimasu.",
+    "ex_en": "I carry out the plan.",
+    "ex_zh": "执行计划。"
   },
   {
     "w": "修正",
     "r": "shūsei",
     "en": "correction",
     "zh": "修正",
-    "level": "N3"
+    "level": "N3",
+    "ex": "間違いを修正します。",
+    "exr": "machigai o shūsei shimasu.",
+    "ex_en": "I correct the mistake.",
+    "ex_zh": "修正错误。"
   },
   {
     "w": "完成",
     "r": "kansei",
     "en": "completion",
     "zh": "完成",
-    "level": "N3"
+    "level": "N3",
+    "ex": "作品が完成しました。",
+    "exr": "sakuhin ga kansei shimashita.",
+    "ex_en": "The work is complete.",
+    "ex_zh": "作品完成了。"
   },
   {
     "w": "開発",
     "r": "kaihatsu",
     "en": "development",
     "zh": "开发",
-    "level": "N3"
+    "level": "N3",
+    "ex": "アプリを開発します。",
+    "exr": "apuri o kaihatsu shimasu.",
+    "ex_en": "I develop an app.",
+    "ex_zh": "开发应用。"
   },
   {
     "w": "設計",
     "r": "sekkei",
     "en": "design",
     "zh": "设计",
-    "level": "N3"
+    "level": "N3",
+    "ex": "家を設計します。",
+    "exr": "ie o sekkei shimasu.",
+    "ex_en": "I design a house.",
+    "ex_zh": "设计房子。"
   },
   {
     "w": "試す",
     "r": "tamesu",
     "en": "to try",
     "zh": "尝试",
-    "level": "N3"
+    "level": "N3",
+    "ex": "新しい方法を試します。",
+    "exr": "atarashii hōhō o tameshimasu.",
+    "ex_en": "I try a new method.",
+    "ex_zh": "尝试新方法。"
   },
   {
     "w": "学ぶ",
     "r": "manabu",
     "en": "to learn",
     "zh": "学习",
-    "level": "N4"
+    "level": "N4",
+    "ex": "歴史を学びます。",
+    "exr": "rekishi o manabimasu.",
+    "ex_en": "I learn history.",
+    "ex_zh": "学习历史。"
   },
   {
     "w": "進む",
     "r": "susumu",
     "en": "to advance",
     "zh": "前进",
-    "level": "N4"
+    "level": "N4",
+    "ex": "前へ進みます。",
+    "exr": "mae e susumimasu.",
+    "ex_en": "I move forward.",
+    "ex_zh": "向前进。"
   },
   {
     "w": "続ける",
     "r": "tsuzukeru",
     "en": "to continue",
     "zh": "继续",
-    "level": "N4"
+    "level": "N4",
+    "ex": "練習を続けます。",
+    "exr": "renshū o tsuzukemasu.",
+    "ex_en": "I keep practicing.",
+    "ex_zh": "继续练习。"
   },
   {
     "w": "始める",
     "r": "hajimeru",
     "en": "to begin",
     "zh": "开始",
-    "level": "N5"
+    "level": "N5",
+    "ex": "仕事を始めます。",
+    "exr": "shigoto o hajimemasu.",
+    "ex_en": "I start work.",
+    "ex_zh": "开始工作。"
   },
   {
     "w": "終わる",
     "r": "owaru",
     "en": "to finish",
     "zh": "结束",
-    "level": "N5"
+    "level": "N5",
+    "ex": "授業が終わりました。",
+    "exr": "jugyō ga owarimashita.",
+    "ex_en": "Class has ended.",
+    "ex_zh": "课结束了。"
   },
   {
     "w": "集中",
     "r": "shūchū",
     "en": "concentration",
     "zh": "专注",
-    "level": "N3"
+    "level": "N3",
+    "ex": "仕事に集中します。",
+    "exr": "shigoto ni shūchū shimasu.",
+    "ex_en": "I concentrate on work.",
+    "ex_zh": "专注于工作。"
   },
   {
     "w": "工夫",
     "r": "kufū",
     "en": "ingenuity/devising",
     "zh": "设法",
-    "level": "N3"
+    "level": "N3",
+    "ex": "いろいろ工夫します。",
+    "exr": "iroiro kufū shimasu.",
+    "ex_en": "I devise various ways.",
+    "ex_zh": "想各种办法。"
   },
   {
     "w": "挑戦",
     "r": "chōsen",
     "en": "challenge",
     "zh": "挑战",
-    "level": "N3"
+    "level": "N3",
+    "ex": "新しいことに挑戦します。",
+    "exr": "atarashii koto ni chōsen shimasu.",
+    "ex_en": "I take on new challenges.",
+    "ex_zh": "挑战新事物。"
   },
   {
     "w": "改善",
     "r": "kaizen",
     "en": "improvement",
     "zh": "改善",
-    "level": "N3"
+    "level": "N3",
+    "ex": "品質を改善します。",
+    "exr": "hinshitsu o kaizen shimasu.",
+    "ex_en": "I improve the quality.",
+    "ex_zh": "改善质量。"
   },
   {
     "w": "発見",
     "r": "hakken",
     "en": "discovery",
     "zh": "发现",
-    "level": "N3"
+    "level": "N3",
+    "ex": "新しい星を発見しました。",
+    "exr": "atarashii hoshi o hakken shimashita.",
+    "ex_en": "They discovered a new star.",
+    "ex_zh": "发现了新星。"
   },
   {
     "w": "解決",
     "r": "kaiketsu",
     "en": "solving",
     "zh": "解决",
-    "level": "N3"
+    "level": "N3",
+    "ex": "問題を解決します。",
+    "exr": "mondai o kaiketsu shimasu.",
+    "ex_en": "I solve the problem.",
+    "ex_zh": "解决问题。"
   },
   {
     "w": "質問",
     "r": "shitsumon",
     "en": "question",
     "zh": "提问",
-    "level": "N5"
+    "level": "N5",
+    "ex": "質問があります。",
+    "exr": "shitsumon ga arimasu.",
+    "ex_en": "I have a question.",
+    "ex_zh": "我有问题。"
   },
   {
     "w": "答える",
     "r": "kotaeru",
     "en": "to answer",
     "zh": "回答",
-    "level": "N4"
+    "level": "N4",
+    "ex": "質問に答えます。",
+    "exr": "shitsumon ni kotaemasu.",
+    "ex_en": "I answer the question.",
+    "ex_zh": "回答问题。"
   },
   {
     "w": "手伝う",
     "r": "tetsudau",
     "en": "to help",
     "zh": "帮忙",
-    "level": "N4"
+    "level": "N4",
+    "ex": "母を手伝います。",
+    "exr": "haha o tetsudaimasu.",
+    "ex_en": "I help my mother.",
+    "ex_zh": "帮妈妈的忙。"
   },
   {
     "w": "探検",
     "r": "tanken",
     "en": "exploration",
     "zh": "探险",
-    "level": "N3"
+    "level": "N3",
+    "ex": "森を探検します。",
+    "exr": "mori o tanken shimasu.",
+    "ex_en": "I explore the forest.",
+    "ex_zh": "探险森林。"
   },
   {
     "w": "想像",
     "r": "sōzō",
     "en": "imagination",
     "zh": "想象",
-    "level": "N3"
+    "level": "N3",
+    "ex": "未来を想像します。",
+    "exr": "mirai o sōzō shimasu.",
+    "ex_en": "I imagine the future.",
+    "ex_zh": "想象未来。"
   },
   {
     "w": "夢中",
     "r": "muchū",
     "en": "absorbed in",
     "zh": "入迷",
-    "level": "N3"
+    "level": "N3",
+    "ex": "ゲームに夢中です。",
+    "exr": "gēmu ni muchū desu.",
+    "ex_en": "I'm absorbed in the game.",
+    "ex_zh": "沉迷于游戏。"
   },
   {
     "w": "一生懸命",
     "r": "isshōkenmei",
     "en": "with all one's might",
     "zh": "拼命",
-    "level": "N4"
+    "level": "N4",
+    "ex": "一生懸命働きます。",
+    "exr": "isshōkenmei hatarakimasu.",
+    "ex_en": "I work as hard as I can.",
+    "ex_zh": "拼命工作。"
   },
   {
     "w": "検討",
     "r": "kentō",
     "en": "consideration",
     "zh": "研究考虑",
-    "level": "N3"
+    "level": "N3",
+    "ex": "計画を検討します。",
+    "exr": "keikaku o kentō shimasu.",
+    "ex_en": "I consider the plan.",
+    "ex_zh": "研究一下计划。"
   },
   {
     "w": "構築",
     "r": "kōchiku",
     "en": "building/constructing",
     "zh": "构建",
-    "level": "N3"
+    "level": "N3",
+    "ex": "システムを構築します。",
+    "exr": "shisutemu o kōchiku shimasu.",
+    "ex_en": "I build the system.",
+    "ex_zh": "构建系统。"
   },
   {
     "w": "調整",
     "r": "chōsei",
     "en": "adjustment",
     "zh": "调整",
-    "level": "N3"
+    "level": "N3",
+    "ex": "時間を調整します。",
+    "exr": "jikan o chōsei shimasu.",
+    "ex_en": "I adjust the schedule.",
+    "ex_zh": "调整时间。"
   },
   {
     "w": "復習",
     "r": "fukushū",
     "en": "review",
     "zh": "复习",
-    "level": "N4"
+    "level": "N4",
+    "ex": "今日の授業を復習します。",
+    "exr": "kyō no jugyō o fukushū shimasu.",
+    "ex_en": "I review today's lesson.",
+    "ex_zh": "复习今天的课。"
   },
   {
     "w": "練習",
     "r": "renshū",
     "en": "practice",
     "zh": "练习",
-    "level": "N5"
+    "level": "N5",
+    "ex": "ピアノを練習します。",
+    "exr": "piano o renshū shimasu.",
+    "ex_en": "I practice the piano.",
+    "ex_zh": "练习钢琴。"
   },
   {
     "w": "成長",
     "r": "seichō",
     "en": "growth",
     "zh": "成长",
-    "level": "N3"
+    "level": "N3",
+    "ex": "子供が成長します。",
+    "exr": "kodomo ga seichō shimasu.",
+    "ex_en": "Children grow.",
+    "ex_zh": "孩子在成长。"
   },
   {
     "w": "理解",
     "r": "rikai",
     "en": "understanding",
     "zh": "理解",
-    "level": "N3"
+    "level": "N3",
+    "ex": "説明を理解しました。",
+    "exr": "setsumei o rikai shimashita.",
+    "ex_en": "I understood the explanation.",
+    "ex_zh": "理解了说明。"
   },
   {
     "w": "行く",
     "r": "iku",
     "en": "to go",
     "zh": "去",
-    "level": "N5"
+    "level": "N5",
+    "ex": "学校へ行きます。",
+    "exr": "gakkō e ikimasu.",
+    "ex_en": "I go to school.",
+    "ex_zh": "我去学校。"
   },
   {
     "w": "来る",
     "r": "kuru",
     "en": "to come",
     "zh": "来",
-    "level": "N5"
+    "level": "N5",
+    "ex": "友達が来ます。",
+    "exr": "tomodachi ga kimasu.",
+    "ex_en": "A friend is coming.",
+    "ex_zh": "朋友来。"
   },
   {
     "w": "見る",
     "r": "miru",
     "en": "to see",
     "zh": "看",
-    "level": "N5"
+    "level": "N5",
+    "ex": "映画を見ます。",
+    "exr": "eiga o mimasu.",
+    "ex_en": "I watch a movie.",
+    "ex_zh": "我看电影。"
   },
   {
     "w": "聞く",
     "r": "kiku",
     "en": "to listen/ask",
     "zh": "听/问",
-    "level": "N5"
+    "level": "N5",
+    "ex": "音楽を聞きます。",
+    "exr": "ongaku o kikimasu.",
+    "ex_en": "I listen to music.",
+    "ex_zh": "我听音乐。"
   },
   {
     "w": "話す",
     "r": "hanasu",
     "en": "to speak",
     "zh": "说话",
-    "level": "N5"
+    "level": "N5",
+    "ex": "日本語を話します。",
+    "exr": "nihongo o hanashimasu.",
+    "ex_en": "I speak Japanese.",
+    "ex_zh": "我说日语。"
   },
   {
     "w": "食べる",
     "r": "taberu",
     "en": "to eat",
     "zh": "吃",
-    "level": "N5"
+    "level": "N5",
+    "ex": "朝ご飯を食べます。",
+    "exr": "asagohan o tabemasu.",
+    "ex_en": "I eat breakfast.",
+    "ex_zh": "我吃早饭。"
   },
   {
     "w": "飲む",
     "r": "nomu",
     "en": "to drink",
     "zh": "喝",
-    "level": "N5"
+    "level": "N5",
+    "ex": "水を飲みます。",
+    "exr": "mizu o nomimasu.",
+    "ex_en": "I drink water.",
+    "ex_zh": "我喝水。"
   },
   {
     "w": "買う",
     "r": "kau",
     "en": "to buy",
     "zh": "买",
-    "level": "N5"
+    "level": "N5",
+    "ex": "パンを買います。",
+    "exr": "pan o kaimasu.",
+    "ex_en": "I buy bread.",
+    "ex_zh": "我买面包。"
   },
   {
     "w": "売る",
     "r": "uru",
     "en": "to sell",
     "zh": "卖",
-    "level": "N4"
+    "level": "N4",
+    "ex": "車を売ります。",
+    "exr": "kuruma o urimasu.",
+    "ex_en": "I sell my car.",
+    "ex_zh": "我卖车。"
   },
   {
     "w": "歩く",
     "r": "aruku",
     "en": "to walk",
     "zh": "走路",
-    "level": "N5"
+    "level": "N5",
+    "ex": "駅まで歩きます。",
+    "exr": "eki made arukimasu.",
+    "ex_en": "I walk to the station.",
+    "ex_zh": "走到车站。"
   },
   {
     "w": "走る",
     "r": "hashiru",
     "en": "to run",
     "zh": "跑",
-    "level": "N5"
+    "level": "N5",
+    "ex": "公園を走ります。",
+    "exr": "kōen o hashirimasu.",
+    "ex_en": "I run in the park.",
+    "ex_zh": "在公园跑步。"
   },
   {
     "w": "泳ぐ",
     "r": "oyogu",
     "en": "to swim",
     "zh": "游泳",
-    "level": "N5"
+    "level": "N5",
+    "ex": "海で泳ぎます。",
+    "exr": "umi de oyogimasu.",
+    "ex_en": "I swim in the sea.",
+    "ex_zh": "在海里游泳。"
   },
   {
     "w": "寝る",
     "r": "neru",
     "en": "to sleep",
     "zh": "睡觉",
-    "level": "N5"
+    "level": "N5",
+    "ex": "早く寝ます。",
+    "exr": "hayaku nemasu.",
+    "ex_en": "I go to bed early.",
+    "ex_zh": "早点睡。"
   },
   {
     "w": "起きる",
     "r": "okiru",
     "en": "to wake up",
     "zh": "起床",
-    "level": "N5"
+    "level": "N5",
+    "ex": "六時に起きます。",
+    "exr": "rokuji ni okimasu.",
+    "ex_en": "I wake up at six.",
+    "ex_zh": "六点起床。"
   },
   {
     "w": "休む",
     "r": "yasumu",
     "en": "to rest",
     "zh": "休息",
-    "level": "N5"
+    "level": "N5",
+    "ex": "家で休みます。",
+    "exr": "ie de yasumimasu.",
+    "ex_en": "I rest at home.",
+    "ex_zh": "在家休息。"
   },
   {
     "w": "働く",
     "r": "hataraku",
     "en": "to work",
     "zh": "工作",
-    "level": "N5"
+    "level": "N5",
+    "ex": "銀行で働きます。",
+    "exr": "ginkō de hatarakimasu.",
+    "ex_en": "I work at a bank.",
+    "ex_zh": "在银行工作。"
   },
   {
     "w": "遊ぶ",
     "r": "asobu",
     "en": "to play",
     "zh": "玩",
-    "level": "N5"
+    "level": "N5",
+    "ex": "公園で遊びます。",
+    "exr": "kōen de asobimasu.",
+    "ex_en": "I play in the park.",
+    "ex_zh": "在公园玩。"
   },
   {
     "w": "会う",
     "r": "au",
     "en": "to meet",
     "zh": "见面",
-    "level": "N5"
+    "level": "N5",
+    "ex": "友達に会います。",
+    "exr": "tomodachi ni aimasu.",
+    "ex_en": "I meet a friend.",
+    "ex_zh": "见朋友。"
   },
   {
     "w": "使う",
     "r": "tsukau",
     "en": "to use",
     "zh": "使用",
-    "level": "N5"
+    "level": "N5",
+    "ex": "箸を使います。",
+    "exr": "hashi o tsukaimasu.",
+    "ex_en": "I use chopsticks.",
+    "ex_zh": "我用筷子。"
   },
   {
     "w": "持つ",
     "r": "motsu",
     "en": "to hold",
     "zh": "拿",
-    "level": "N5"
+    "level": "N5",
+    "ex": "荷物を持ちます。",
+    "exr": "nimotsu o mochimasu.",
+    "ex_en": "I carry the luggage.",
+    "ex_zh": "拿行李。"
   },
   {
     "w": "取る",
     "r": "toru",
     "en": "to take",
     "zh": "取",
-    "level": "N5"
+    "level": "N5",
+    "ex": "塩を取ってください。",
+    "exr": "shio o totte kudasai.",
+    "ex_en": "Please pass the salt.",
+    "ex_zh": "请把盐递给我。"
   },
   {
     "w": "送る",
     "r": "okuru",
     "en": "to send",
     "zh": "寄送",
-    "level": "N4"
+    "level": "N4",
+    "ex": "メールを送ります。",
+    "exr": "mēru o okurimasu.",
+    "ex_en": "I send an email.",
+    "ex_zh": "发邮件。"
   },
   {
     "w": "教える",
     "r": "oshieru",
     "en": "to teach",
     "zh": "教",
-    "level": "N5"
+    "level": "N5",
+    "ex": "英語を教えます。",
+    "exr": "eigo o oshiemasu.",
+    "ex_en": "I teach English.",
+    "ex_zh": "教英语。"
   },
   {
     "w": "習う",
     "r": "narau",
     "en": "to learn from someone",
     "zh": "学习",
-    "level": "N5"
+    "level": "N5",
+    "ex": "ピアノを習います。",
+    "exr": "piano o naraimasu.",
+    "ex_en": "I take piano lessons.",
+    "ex_zh": "学钢琴。"
   },
   {
     "w": "覚える",
     "r": "oboeru",
     "en": "to memorize",
     "zh": "记住",
-    "level": "N4"
+    "level": "N4",
+    "ex": "単語を覚えます。",
+    "exr": "tango o oboemasu.",
+    "ex_en": "I memorize words.",
+    "ex_zh": "记单词。"
   },
   {
     "w": "忘れる",
     "r": "wasureru",
     "en": "to forget",
     "zh": "忘记",
-    "level": "N5"
+    "level": "N5",
+    "ex": "名前を忘れました。",
+    "exr": "namae o wasuremashita.",
+    "ex_en": "I forgot the name.",
+    "ex_zh": "忘了名字。"
   },
   {
     "w": "思う",
     "r": "omou",
     "en": "to think/feel",
     "zh": "认为",
-    "level": "N5"
+    "level": "N5",
+    "ex": "いいと思います。",
+    "exr": "ii to omoimasu.",
+    "ex_en": "I think it's good.",
+    "ex_zh": "我觉得不错。"
   },
   {
     "w": "知る",
     "r": "shiru",
     "en": "to know",
     "zh": "知道",
-    "level": "N5"
+    "level": "N5",
+    "ex": "答えを知っています。",
+    "exr": "kotae o shitte imasu.",
+    "ex_en": "I know the answer.",
+    "ex_zh": "我知道答案。"
   },
   {
     "w": "分かる",
     "r": "wakaru",
     "en": "to understand",
     "zh": "明白",
-    "level": "N5"
+    "level": "N5",
+    "ex": "意味が分かります。",
+    "exr": "imi ga wakarimasu.",
+    "ex_en": "I understand the meaning.",
+    "ex_zh": "我明白意思。"
   },
   {
     "w": "入る",
     "r": "hairu",
     "en": "to enter",
     "zh": "进入",
-    "level": "N5"
+    "level": "N5",
+    "ex": "部屋に入ります。",
+    "exr": "heya ni hairimasu.",
+    "ex_en": "I enter the room.",
+    "ex_zh": "进房间。"
   },
   {
     "w": "出る",
     "r": "deru",
     "en": "to exit",
     "zh": "出去",
-    "level": "N5"
+    "level": "N5",
+    "ex": "家を出ます。",
+    "exr": "ie o demasu.",
+    "ex_en": "I leave the house.",
+    "ex_zh": "出门。"
   },
   {
     "w": "開ける",
     "r": "akeru",
     "en": "to open",
     "zh": "打开",
-    "level": "N5"
+    "level": "N5",
+    "ex": "窓を開けます。",
+    "exr": "mado o akemasu.",
+    "ex_en": "I open the window.",
+    "ex_zh": "开窗。"
   },
   {
     "w": "閉める",
     "r": "shimeru",
     "en": "to close",
     "zh": "关闭",
-    "level": "N5"
+    "level": "N5",
+    "ex": "ドアを閉めます。",
+    "exr": "doa o shimemasu.",
+    "ex_en": "I close the door.",
+    "ex_zh": "关门。"
   },
   {
     "w": "立つ",
     "r": "tatsu",
     "en": "to stand",
     "zh": "站",
-    "level": "N5"
+    "level": "N5",
+    "ex": "ここに立ちます。",
+    "exr": "koko ni tachimasu.",
+    "ex_en": "I stand here.",
+    "ex_zh": "站在这里。"
   },
   {
     "w": "座る",
     "r": "suwaru",
     "en": "to sit",
     "zh": "坐",
-    "level": "N5"
+    "level": "N5",
+    "ex": "椅子に座ります。",
+    "exr": "isu ni suwarimasu.",
+    "ex_en": "I sit on the chair.",
+    "ex_zh": "坐在椅子上。"
   },
   {
     "w": "帰る",
     "r": "kaeru",
     "en": "to return home",
     "zh": "回家",
-    "level": "N5"
+    "level": "N5",
+    "ex": "うちへ帰ります。",
+    "exr": "uchi e kaerimasu.",
+    "ex_en": "I go home.",
+    "ex_zh": "回家。"
   },
   {
     "w": "着る",
     "r": "kiru",
     "en": "to wear",
     "zh": "穿",
-    "level": "N5"
+    "level": "N5",
+    "ex": "コートを着ます。",
+    "exr": "kōto o kimasu.",
+    "ex_en": "I put on a coat.",
+    "ex_zh": "穿外套。"
   },
   {
     "w": "洗う",
     "r": "arau",
     "en": "to wash",
     "zh": "洗",
-    "level": "N5"
+    "level": "N5",
+    "ex": "手を洗います。",
+    "exr": "te o araimasu.",
+    "ex_en": "I wash my hands.",
+    "ex_zh": "洗手。"
   },
   {
     "w": "料理",
     "r": "ryōri",
     "en": "cooking",
     "zh": "做饭",
-    "level": "N5"
+    "level": "N5",
+    "ex": "母は料理が上手です。",
+    "exr": "haha wa ryōri ga jōzu desu.",
+    "ex_en": "My mother cooks well.",
+    "ex_zh": "妈妈很会做菜。"
   },
   {
     "w": "掃除",
     "r": "sōji",
     "en": "cleaning",
     "zh": "打扫",
-    "level": "N5"
+    "level": "N5",
+    "ex": "部屋を掃除します。",
+    "exr": "heya o sōji shimasu.",
+    "ex_en": "I clean the room.",
+    "ex_zh": "打扫房间。"
   },
   {
     "w": "洗濯",
     "r": "sentaku",
     "en": "laundry",
     "zh": "洗衣",
-    "level": "N5"
+    "level": "N5",
+    "ex": "週末に洗濯します。",
+    "exr": "shūmatsu ni sentaku shimasu.",
+    "ex_en": "I do laundry on weekends.",
+    "ex_zh": "周末洗衣服。"
   },
   {
     "w": "買い物",
     "r": "kaimono",
     "en": "shopping",
     "zh": "购物",
-    "level": "N5"
+    "level": "N5",
+    "ex": "スーパーで買い物します。",
+    "exr": "sūpā de kaimono shimasu.",
+    "ex_en": "I shop at the supermarket.",
+    "ex_zh": "在超市购物。"
   },
   {
     "w": "旅行",
     "r": "ryokō",
     "en": "travel",
     "zh": "旅行",
-    "level": "N5"
+    "level": "N5",
+    "ex": "家族と旅行します。",
+    "exr": "kazoku to ryokō shimasu.",
+    "ex_en": "I travel with my family.",
+    "ex_zh": "和家人旅行。"
   },
   {
     "w": "散歩",
     "r": "sanpo",
     "en": "a stroll",
     "zh": "散步",
-    "level": "N5"
+    "level": "N5",
+    "ex": "犬と散歩します。",
+    "exr": "inu to sanpo shimasu.",
+    "ex_en": "I walk with my dog.",
+    "ex_zh": "遛狗散步。"
   },
   {
     "w": "運転",
     "r": "unten",
     "en": "driving",
     "zh": "开车",
-    "level": "N4"
+    "level": "N4",
+    "ex": "車を運転します。",
+    "exr": "kuruma o unten shimasu.",
+    "ex_en": "I drive a car.",
+    "ex_zh": "开车。"
   },
   {
     "w": "電話",
     "r": "denwa",
     "en": "phone call",
     "zh": "电话",
-    "level": "N5"
+    "level": "N5",
+    "ex": "友達に電話します。",
+    "exr": "tomodachi ni denwa shimasu.",
+    "ex_en": "I call a friend.",
+    "ex_zh": "给朋友打电话。"
   },
   {
     "w": "写真",
     "r": "shashin",
     "en": "photograph",
     "zh": "照片",
-    "level": "N5"
+    "level": "N5",
+    "ex": "写真を撮ります。",
+    "exr": "shashin o torimasu.",
+    "ex_en": "I take a photo.",
+    "ex_zh": "拍照片。"
   },
   {
     "w": "時間",
     "r": "jikan",
     "en": "time",
     "zh": "时间",
-    "level": "N5"
+    "level": "N5",
+    "ex": "時間がありません。",
+    "exr": "jikan ga arimasen.",
+    "ex_en": "I have no time.",
+    "ex_zh": "没有时间。"
   },
   {
     "w": "今日",
     "r": "kyō",
     "en": "today",
     "zh": "今天",
-    "level": "N5"
+    "level": "N5",
+    "ex": "今日は寒いです。",
+    "exr": "kyō wa samui desu.",
+    "ex_en": "It's cold today.",
+    "ex_zh": "今天很冷。"
   },
   {
     "w": "明日",
     "r": "ashita",
     "en": "tomorrow",
     "zh": "明天",
-    "level": "N5"
+    "level": "N5",
+    "ex": "明日は休みです。",
+    "exr": "ashita wa yasumi desu.",
+    "ex_en": "Tomorrow is a day off.",
+    "ex_zh": "明天休息。"
   },
   {
     "w": "昨日",
     "r": "kinō",
     "en": "yesterday",
     "zh": "昨天",
-    "level": "N5"
+    "level": "N5",
+    "ex": "昨日雨が降りました。",
+    "exr": "kinō ame ga furimashita.",
+    "ex_en": "It rained yesterday.",
+    "ex_zh": "昨天下雨了。"
   },
   {
     "w": "朝",
     "r": "asa",
     "en": "morning",
     "zh": "早上",
-    "level": "N5"
+    "level": "N5",
+    "ex": "朝早く起きます。",
+    "exr": "asa hayaku okimasu.",
+    "ex_en": "I get up early in the morning.",
+    "ex_zh": "早上早起。"
   },
   {
     "w": "昼",
     "r": "hiru",
     "en": "noon/daytime",
     "zh": "中午",
-    "level": "N5"
+    "level": "N5",
+    "ex": "昼にご飯を食べます。",
+    "exr": "hiru ni gohan o tabemasu.",
+    "ex_en": "I eat at noon.",
+    "ex_zh": "中午吃饭。"
   },
   {
     "w": "夜",
     "r": "yoru",
     "en": "night",
     "zh": "晚上",
-    "level": "N5"
+    "level": "N5",
+    "ex": "夜は静かです。",
+    "exr": "yoru wa shizuka desu.",
+    "ex_en": "Nights are quiet.",
+    "ex_zh": "夜里很安静。"
   },
   {
     "w": "天気",
     "r": "tenki",
     "en": "weather",
     "zh": "天气",
-    "level": "N5"
+    "level": "N5",
+    "ex": "今日はいい天気です。",
+    "exr": "kyō wa ii tenki desu.",
+    "ex_en": "The weather is nice today.",
+    "ex_zh": "今天天气好。"
   },
   {
     "w": "雨",
     "r": "ame",
     "en": "rain",
     "zh": "雨",
-    "level": "N5"
+    "level": "N5",
+    "ex": "雨が降っています。",
+    "exr": "ame ga futte imasu.",
+    "ex_en": "It's raining.",
+    "ex_zh": "正在下雨。"
   },
   {
     "w": "雪",
     "r": "yuki",
     "en": "snow",
     "zh": "雪",
-    "level": "N5"
+    "level": "N5",
+    "ex": "雪が積もりました。",
+    "exr": "yuki ga tsumorimashita.",
+    "ex_en": "Snow has piled up.",
+    "ex_zh": "积雪了。"
   },
   {
     "w": "空",
     "r": "sora",
     "en": "sky",
     "zh": "天空",
-    "level": "N5"
+    "level": "N5",
+    "ex": "空が青いです。",
+    "exr": "sora ga aoi desu.",
+    "ex_en": "The sky is blue.",
+    "ex_zh": "天空很蓝。"
   },
   {
     "w": "海",
     "r": "umi",
     "en": "sea",
     "zh": "海",
-    "level": "N5"
+    "level": "N5",
+    "ex": "海が見えます。",
+    "exr": "umi ga miemasu.",
+    "ex_en": "I can see the sea.",
+    "ex_zh": "能看见海。"
   },
   {
     "w": "山",
     "r": "yama",
     "en": "mountain",
     "zh": "山",
-    "level": "N5"
+    "level": "N5",
+    "ex": "山に登ります。",
+    "exr": "yama ni noborimasu.",
+    "ex_en": "I climb the mountain.",
+    "ex_zh": "爬山。"
   },
   {
     "w": "川",
     "r": "kawa",
     "en": "river",
     "zh": "河",
-    "level": "N5"
+    "level": "N5",
+    "ex": "川で泳ぎます。",
+    "exr": "kawa de oyogimasu.",
+    "ex_en": "I swim in the river.",
+    "ex_zh": "在河里游泳。"
   },
   {
     "w": "花",
     "r": "hana",
     "en": "flower",
     "zh": "花",
-    "level": "N5"
+    "level": "N5",
+    "ex": "花が咲きました。",
+    "exr": "hana ga sakimashita.",
+    "ex_en": "The flowers bloomed.",
+    "ex_zh": "花开了。"
   },
   {
     "w": "木",
     "r": "ki",
     "en": "tree",
     "zh": "树",
-    "level": "N5"
+    "level": "N5",
+    "ex": "大きい木があります。",
+    "exr": "ōkii ki ga arimasu.",
+    "ex_en": "There is a big tree.",
+    "ex_zh": "有棵大树。"
   },
   {
     "w": "犬",
     "r": "inu",
     "en": "dog",
     "zh": "狗",
-    "level": "N5"
+    "level": "N5",
+    "ex": "犬が好きです。",
+    "exr": "inu ga suki desu.",
+    "ex_en": "I like dogs.",
+    "ex_zh": "我喜欢狗。"
   },
   {
     "w": "猫",
     "r": "neko",
     "en": "cat",
     "zh": "猫",
-    "level": "N5"
+    "level": "N5",
+    "ex": "猫が寝ています。",
+    "exr": "neko ga nete imasu.",
+    "ex_en": "The cat is sleeping.",
+    "ex_zh": "猫在睡觉。"
   },
   {
     "w": "鳥",
     "r": "tori",
     "en": "bird",
     "zh": "鸟",
-    "level": "N5"
+    "level": "N5",
+    "ex": "鳥が鳴いています。",
+    "exr": "tori ga naite imasu.",
+    "ex_en": "Birds are singing.",
+    "ex_zh": "鸟在叫。"
   },
   {
     "w": "魚",
     "r": "sakana",
     "en": "fish",
     "zh": "鱼",
-    "level": "N5"
+    "level": "N5",
+    "ex": "魚を食べます。",
+    "exr": "sakana o tabemasu.",
+    "ex_en": "I eat fish.",
+    "ex_zh": "我吃鱼。"
   },
   {
     "w": "家",
     "r": "ie",
     "en": "house",
     "zh": "家",
-    "level": "N5"
+    "level": "N5",
+    "ex": "家に帰ります。",
+    "exr": "ie ni kaerimasu.",
+    "ex_en": "I go home.",
+    "ex_zh": "回家。"
   },
   {
     "w": "部屋",
     "r": "heya",
     "en": "room",
     "zh": "房间",
-    "level": "N5"
+    "level": "N5",
+    "ex": "部屋が広いです。",
+    "exr": "heya ga hiroi desu.",
+    "ex_en": "The room is spacious.",
+    "ex_zh": "房间很宽敞。"
   },
   {
     "w": "会社",
     "r": "kaisha",
     "en": "company",
     "zh": "公司",
-    "level": "N5"
+    "level": "N5",
+    "ex": "会社に行きます。",
+    "exr": "kaisha ni ikimasu.",
+    "ex_en": "I go to the office.",
+    "ex_zh": "去公司。"
   },
   {
     "w": "学校",
     "r": "gakkō",
     "en": "school",
     "zh": "学校",
-    "level": "N5"
+    "level": "N5",
+    "ex": "学校は近いです。",
+    "exr": "gakkō wa chikai desu.",
+    "ex_en": "The school is near.",
+    "ex_zh": "学校很近。"
   },
   {
     "w": "病院",
     "r": "byōin",
     "en": "hospital",
     "zh": "医院",
-    "level": "N5"
+    "level": "N5",
+    "ex": "病院へ行きます。",
+    "exr": "byōin e ikimasu.",
+    "ex_en": "I go to the hospital.",
+    "ex_zh": "去医院。"
   },
   {
     "w": "駅",
     "r": "eki",
     "en": "station",
     "zh": "车站",
-    "level": "N5"
+    "level": "N5",
+    "ex": "駅で待ちます。",
+    "exr": "eki de machimasu.",
+    "ex_en": "I wait at the station.",
+    "ex_zh": "在车站等。"
   },
   {
     "w": "電車",
     "r": "densha",
     "en": "train",
     "zh": "电车",
-    "level": "N5"
+    "level": "N5",
+    "ex": "電車に乗ります。",
+    "exr": "densha ni norimasu.",
+    "ex_en": "I ride the train.",
+    "ex_zh": "坐电车。"
   },
   {
     "w": "飛行機",
     "r": "hikōki",
     "en": "airplane",
     "zh": "飞机",
-    "level": "N5"
+    "level": "N5",
+    "ex": "飛行機で行きます。",
+    "exr": "hikōki de ikimasu.",
+    "ex_en": "I go by plane.",
+    "ex_zh": "坐飞机去。"
   },
   {
     "w": "車",
     "r": "kuruma",
     "en": "car",
     "zh": "汽车",
-    "level": "N5"
+    "level": "N5",
+    "ex": "車で来ました。",
+    "exr": "kuruma de kimashita.",
+    "ex_en": "I came by car.",
+    "ex_zh": "开车来的。"
   },
   {
     "w": "自転車",
     "r": "jitensha",
     "en": "bicycle",
     "zh": "自行车",
-    "level": "N5"
+    "level": "N5",
+    "ex": "自転車に乗ります。",
+    "exr": "jitensha ni norimasu.",
+    "ex_en": "I ride a bicycle.",
+    "ex_zh": "骑自行车。"
   },
   {
     "w": "道",
     "r": "michi",
     "en": "road",
     "zh": "道路",
-    "level": "N5"
+    "level": "N5",
+    "ex": "道が狭いです。",
+    "exr": "michi ga semai desu.",
+    "ex_en": "The road is narrow.",
+    "ex_zh": "路很窄。"
   },
   {
     "w": "店",
     "r": "mise",
     "en": "shop",
     "zh": "商店",
-    "level": "N5"
+    "level": "N5",
+    "ex": "店が開いています。",
+    "exr": "mise ga aite imasu.",
+    "ex_en": "The shop is open.",
+    "ex_zh": "店开着。"
   },
   {
     "w": "銀行",
     "r": "ginkō",
     "en": "bank",
     "zh": "银行",
-    "level": "N5"
+    "level": "N5",
+    "ex": "銀行でお金を下ろします。",
+    "exr": "ginkō de okane o oroshimasu.",
+    "ex_en": "I withdraw money at the bank.",
+    "ex_zh": "在银行取钱。"
   },
   {
     "w": "お金",
     "r": "okane",
     "en": "money",
     "zh": "钱",
-    "level": "N5"
+    "level": "N5",
+    "ex": "お金がありません。",
+    "exr": "okane ga arimasen.",
+    "ex_en": "I have no money.",
+    "ex_zh": "我没有钱。"
   },
   {
     "w": "仕事",
     "r": "shigoto",
     "en": "work/job",
     "zh": "工作",
-    "level": "N5"
+    "level": "N5",
+    "ex": "仕事が忙しいです。",
+    "exr": "shigoto ga isogashii desu.",
+    "ex_en": "Work is busy.",
+    "ex_zh": "工作很忙。"
   },
   {
     "w": "友達",
     "r": "tomodachi",
     "en": "friend",
     "zh": "朋友",
-    "level": "N5"
+    "level": "N5",
+    "ex": "友達と遊びます。",
+    "exr": "tomodachi to asobimasu.",
+    "ex_en": "I hang out with friends.",
+    "ex_zh": "和朋友玩。"
   },
   {
     "w": "家族",
     "r": "kazoku",
     "en": "family",
     "zh": "家人",
-    "level": "N5"
+    "level": "N5",
+    "ex": "家族は四人です。",
+    "exr": "kazoku wa yonin desu.",
+    "ex_en": "My family has four people.",
+    "ex_zh": "家里有四口人。"
   },
   {
     "w": "子供",
     "r": "kodomo",
     "en": "child",
     "zh": "孩子",
-    "level": "N5"
+    "level": "N5",
+    "ex": "子供が二人います。",
+    "exr": "kodomo ga futari imasu.",
+    "ex_en": "I have two children.",
+    "ex_zh": "有两个孩子。"
   },
   {
     "w": "赤ちゃん",
     "r": "akachan",
     "en": "baby",
     "zh": "婴儿",
-    "level": "N4"
+    "level": "N4",
+    "ex": "赤ちゃんが寝ています。",
+    "exr": "akachan ga nete imasu.",
+    "ex_en": "The baby is sleeping.",
+    "ex_zh": "婴儿在睡觉。"
   },
   {
     "w": "名前",
     "r": "namae",
     "en": "name",
     "zh": "名字",
-    "level": "N5"
+    "level": "N5",
+    "ex": "名前を書きます。",
+    "exr": "namae o kakimasu.",
+    "ex_en": "I write my name.",
+    "ex_zh": "写名字。"
   },
   {
     "w": "言葉",
     "r": "kotoba",
     "en": "word/language",
     "zh": "词语",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この言葉は難しいです。",
+    "exr": "kono kotoba wa muzukashii desu.",
+    "ex_en": "This word is difficult.",
+    "ex_zh": "这个词很难。"
   },
   {
     "w": "日本語",
     "r": "nihongo",
     "en": "Japanese language",
     "zh": "日语",
-    "level": "N5"
+    "level": "N5",
+    "ex": "日本語を勉強します。",
+    "exr": "nihongo o benkyō shimasu.",
+    "ex_en": "I study Japanese.",
+    "ex_zh": "学日语。"
   },
   {
     "w": "英語",
     "r": "eigo",
     "en": "English language",
     "zh": "英语",
-    "level": "N5"
+    "level": "N5",
+    "ex": "英語が話せます。",
+    "exr": "eigo ga hanasemasu.",
+    "ex_en": "I can speak English.",
+    "ex_zh": "会说英语。"
   },
   {
     "w": "中国語",
     "r": "chūgokugo",
     "en": "Chinese language",
     "zh": "中文",
-    "level": "N5"
+    "level": "N5",
+    "ex": "中国語を習います。",
+    "exr": "chūgokugo o naraimasu.",
+    "ex_en": "I learn Chinese.",
+    "ex_zh": "学中文。"
   },
   {
     "w": "本",
     "r": "hon",
     "en": "book",
     "zh": "书",
-    "level": "N5"
+    "level": "N5",
+    "ex": "本を読みます。",
+    "exr": "hon o yomimasu.",
+    "ex_en": "I read a book.",
+    "ex_zh": "读书。"
   },
   {
     "w": "映画",
     "r": "eiga",
     "en": "movie",
     "zh": "电影",
-    "level": "N5"
+    "level": "N5",
+    "ex": "映画を見に行きます。",
+    "exr": "eiga o mi ni ikimasu.",
+    "ex_en": "I go to see a movie.",
+    "ex_zh": "去看电影。"
   },
   {
     "w": "音楽",
     "r": "ongaku",
     "en": "music",
     "zh": "音乐",
-    "level": "N5"
+    "level": "N5",
+    "ex": "音楽が好きです。",
+    "exr": "ongaku ga suki desu.",
+    "ex_en": "I like music.",
+    "ex_zh": "喜欢音乐。"
   },
   {
     "w": "歌",
     "r": "uta",
     "en": "song",
     "zh": "歌",
-    "level": "N5"
+    "level": "N5",
+    "ex": "歌を歌います。",
+    "exr": "uta o utaimasu.",
+    "ex_en": "I sing a song.",
+    "ex_zh": "唱歌。"
   },
   {
     "w": "絵",
     "r": "e",
     "en": "picture/painting",
     "zh": "画",
-    "level": "N5"
+    "level": "N5",
+    "ex": "絵を描きます。",
+    "exr": "e o kakimasu.",
+    "ex_en": "I draw a picture.",
+    "ex_zh": "画画。"
   },
   {
     "w": "色",
     "r": "iro",
     "en": "color",
     "zh": "颜色",
-    "level": "N5"
+    "level": "N5",
+    "ex": "好きな色は青です。",
+    "exr": "suki na iro wa ao desu.",
+    "ex_en": "My favorite color is blue.",
+    "ex_zh": "喜欢的颜色是蓝色。"
   },
   {
     "w": "声",
     "r": "koe",
     "en": "voice",
     "zh": "声音",
-    "level": "N4"
+    "level": "N4",
+    "ex": "声が大きいです。",
+    "exr": "koe ga ōkii desu.",
+    "ex_en": "The voice is loud.",
+    "ex_zh": "声音很大。"
   },
   {
     "w": "音",
     "r": "oto",
     "en": "sound",
     "zh": "声响",
-    "level": "N4"
+    "level": "N4",
+    "ex": "変な音がします。",
+    "exr": "hen na oto ga shimasu.",
+    "ex_en": "There's a strange sound.",
+    "ex_zh": "有奇怪的声音。"
   },
   {
     "w": "光",
     "r": "hikari",
     "en": "light",
     "zh": "光",
-    "level": "N4"
+    "level": "N4",
+    "ex": "光が強いです。",
+    "exr": "hikari ga tsuyoi desu.",
+    "ex_en": "The light is strong.",
+    "ex_zh": "光很强。"
   },
   {
     "w": "影",
     "r": "kage",
     "en": "shadow",
     "zh": "影子",
-    "level": "N3"
+    "level": "N3",
+    "ex": "木の影で休みます。",
+    "exr": "ki no kage de yasumimasu.",
+    "ex_en": "I rest in the tree's shade.",
+    "ex_zh": "在树荫下休息。"
   },
   {
     "w": "水",
     "r": "mizu",
     "en": "water",
     "zh": "水",
-    "level": "N5"
+    "level": "N5",
+    "ex": "水を飲みます。",
+    "exr": "mizu o nomimasu.",
+    "ex_en": "I drink water.",
+    "ex_zh": "喝水。"
   },
   {
     "w": "火",
     "r": "hi",
     "en": "fire",
     "zh": "火",
-    "level": "N4"
+    "level": "N4",
+    "ex": "火を消します。",
+    "exr": "hi o keshimasu.",
+    "ex_en": "I put out the fire.",
+    "ex_zh": "灭火。"
   },
   {
     "w": "空気",
     "r": "kūki",
     "en": "air",
     "zh": "空气",
-    "level": "N4"
+    "level": "N4",
+    "ex": "空気がきれいです。",
+    "exr": "kūki ga kirei desu.",
+    "ex_en": "The air is clean.",
+    "ex_zh": "空气清新。"
   },
   {
     "w": "食べ物",
     "r": "tabemono",
     "en": "food",
     "zh": "食物",
-    "level": "N5"
+    "level": "N5",
+    "ex": "好きな食べ物は寿司です。",
+    "exr": "suki na tabemono wa sushi desu.",
+    "ex_en": "My favorite food is sushi.",
+    "ex_zh": "喜欢的食物是寿司。"
   },
   {
     "w": "飲み物",
     "r": "nomimono",
     "en": "beverage",
     "zh": "饮料",
-    "level": "N5"
+    "level": "N5",
+    "ex": "飲み物は何がいいですか。",
+    "exr": "nomimono wa nani ga ii desu ka.",
+    "ex_en": "What would you like to drink?",
+    "ex_zh": "想喝什么？"
   },
   {
     "w": "ご飯",
     "r": "gohan",
     "en": "rice/meal",
     "zh": "米饭",
-    "level": "N5"
+    "level": "N5",
+    "ex": "ご飯を食べます。",
+    "exr": "gohan o tabemasu.",
+    "ex_en": "I eat a meal.",
+    "ex_zh": "吃饭。"
   },
   {
     "w": "パン",
     "r": "pan",
     "en": "bread",
     "zh": "面包",
-    "level": "N5"
+    "level": "N5",
+    "ex": "朝はパンを食べます。",
+    "exr": "asa wa pan o tabemasu.",
+    "ex_en": "I eat bread in the morning.",
+    "ex_zh": "早上吃面包。"
   },
   {
     "w": "肉",
     "r": "niku",
     "en": "meat",
     "zh": "肉",
-    "level": "N5"
+    "level": "N5",
+    "ex": "肉が好きです。",
+    "exr": "niku ga suki desu.",
+    "ex_en": "I like meat.",
+    "ex_zh": "喜欢吃肉。"
   },
   {
     "w": "野菜",
     "r": "yasai",
     "en": "vegetables",
     "zh": "蔬菜",
-    "level": "N5"
+    "level": "N5",
+    "ex": "野菜を食べます。",
+    "exr": "yasai o tabemasu.",
+    "ex_en": "I eat vegetables.",
+    "ex_zh": "吃蔬菜。"
   },
   {
     "w": "果物",
     "r": "kudamono",
     "en": "fruit",
     "zh": "水果",
-    "level": "N5"
+    "level": "N5",
+    "ex": "果物は体にいいです。",
+    "exr": "kudamono wa karada ni ii desu.",
+    "ex_en": "Fruit is good for the body.",
+    "ex_zh": "水果对身体好。"
   },
   {
     "w": "お茶",
     "r": "ocha",
     "en": "tea",
     "zh": "茶",
-    "level": "N5"
+    "level": "N5",
+    "ex": "お茶を飲みます。",
+    "exr": "ocha o nomimasu.",
+    "ex_en": "I drink tea.",
+    "ex_zh": "喝茶。"
   },
   {
     "w": "コーヒー",
     "r": "kōhī",
     "en": "coffee",
     "zh": "咖啡",
-    "level": "N5"
+    "level": "N5",
+    "ex": "朝コーヒーを飲みます。",
+    "exr": "asa kōhī o nomimasu.",
+    "ex_en": "I drink coffee in the morning.",
+    "ex_zh": "早上喝咖啡。"
   },
   {
     "w": "牛乳",
     "r": "gyūnyū",
     "en": "milk",
     "zh": "牛奶",
-    "level": "N5"
+    "level": "N5",
+    "ex": "牛乳を買います。",
+    "exr": "gyūnyū o kaimasu.",
+    "ex_en": "I buy milk.",
+    "ex_zh": "买牛奶。"
   },
   {
     "w": "卵",
     "r": "tamago",
     "en": "egg",
     "zh": "鸡蛋",
-    "level": "N5"
+    "level": "N5",
+    "ex": "卵を二つください。",
+    "exr": "tamago o futatsu kudasai.",
+    "ex_en": "Two eggs, please.",
+    "ex_zh": "请给两个鸡蛋。"
   },
   {
     "w": "塩",
     "r": "shio",
     "en": "salt",
     "zh": "盐",
-    "level": "N5"
+    "level": "N5",
+    "ex": "塩を少し入れます。",
+    "exr": "shio o sukoshi iremasu.",
+    "ex_en": "I add a little salt.",
+    "ex_zh": "加点盐。"
   },
   {
     "w": "砂糖",
     "r": "satō",
     "en": "sugar",
     "zh": "糖",
-    "level": "N5"
+    "level": "N5",
+    "ex": "コーヒーに砂糖を入れます。",
+    "exr": "kōhī ni satō o iremasu.",
+    "ex_en": "I put sugar in coffee.",
+    "ex_zh": "咖啡里加糖。"
   },
   {
     "w": "大きい",
     "r": "ōkii",
     "en": "big",
     "zh": "大",
-    "level": "N5"
+    "level": "N5",
+    "ex": "大きい家に住みたいです。",
+    "exr": "ōkii ie ni sumitai desu.",
+    "ex_en": "I want to live in a big house.",
+    "ex_zh": "想住大房子。"
   },
   {
     "w": "小さい",
     "r": "chiisai",
     "en": "small",
     "zh": "小",
-    "level": "N5"
+    "level": "N5",
+    "ex": "小さい犬がいます。",
+    "exr": "chiisai inu ga imasu.",
+    "ex_en": "There is a small dog.",
+    "ex_zh": "有只小狗。"
   },
   {
     "w": "新しい",
     "r": "atarashii",
     "en": "new",
     "zh": "新",
-    "level": "N5"
+    "level": "N5",
+    "ex": "新しい車を買いました。",
+    "exr": "atarashii kuruma o kaimashita.",
+    "ex_en": "I bought a new car.",
+    "ex_zh": "买了新车。"
   },
   {
     "w": "古い",
     "r": "furui",
     "en": "old (things)",
     "zh": "旧",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この本は古いです。",
+    "exr": "kono hon wa furui desu.",
+    "ex_en": "This book is old.",
+    "ex_zh": "这本书很旧。"
   },
   {
     "w": "高い",
     "r": "takai",
     "en": "tall/expensive",
     "zh": "高/贵",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この店は高いです。",
+    "exr": "kono mise wa takai desu.",
+    "ex_en": "This shop is expensive.",
+    "ex_zh": "这家店很贵。"
   },
   {
     "w": "安い",
     "r": "yasui",
     "en": "cheap",
     "zh": "便宜",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この服は安いです。",
+    "exr": "kono fuku wa yasui desu.",
+    "ex_en": "These clothes are cheap.",
+    "ex_zh": "这衣服便宜。"
   },
   {
     "w": "良い",
     "r": "yoi",
     "en": "good",
     "zh": "好",
-    "level": "N5"
+    "level": "N5",
+    "ex": "天気が良いです。",
+    "exr": "tenki ga yoi desu.",
+    "ex_en": "The weather is good.",
+    "ex_zh": "天气好。"
   },
   {
     "w": "悪い",
     "r": "warui",
     "en": "bad",
     "zh": "坏",
-    "level": "N5"
+    "level": "N5",
+    "ex": "気分が悪いです。",
+    "exr": "kibun ga warui desu.",
+    "ex_en": "I feel unwell.",
+    "ex_zh": "不舒服。"
   },
   {
     "w": "早い",
     "r": "hayai",
     "en": "early",
     "zh": "早",
-    "level": "N5"
+    "level": "N5",
+    "ex": "起きるのが早いです。",
+    "exr": "okiru no ga hayai desu.",
+    "ex_en": "I wake up early.",
+    "ex_zh": "起得早。"
   },
   {
     "w": "速い",
     "r": "hayai",
     "en": "fast",
     "zh": "快",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この電車は速いです。",
+    "exr": "kono densha wa hayai desu.",
+    "ex_en": "This train is fast.",
+    "ex_zh": "这电车很快。"
   },
   {
     "w": "遅い",
     "r": "osoi",
     "en": "slow/late",
     "zh": "慢/晚",
-    "level": "N5"
+    "level": "N5",
+    "ex": "仕事が遅いです。",
+    "exr": "shigoto ga osoi desu.",
+    "ex_en": "The work is slow.",
+    "ex_zh": "工作慢。"
   },
   {
     "w": "近い",
     "r": "chikai",
     "en": "near",
     "zh": "近",
-    "level": "N5"
+    "level": "N5",
+    "ex": "駅は近いです。",
+    "exr": "eki wa chikai desu.",
+    "ex_en": "The station is near.",
+    "ex_zh": "车站很近。"
   },
   {
     "w": "遠い",
     "r": "tōi",
     "en": "far",
     "zh": "远",
-    "level": "N5"
+    "level": "N5",
+    "ex": "学校は遠いです。",
+    "exr": "gakkō wa tōi desu.",
+    "ex_en": "The school is far.",
+    "ex_zh": "学校很远。"
   },
   {
     "w": "暑い",
     "r": "atsui",
     "en": "hot (weather)",
     "zh": "热",
-    "level": "N5"
+    "level": "N5",
+    "ex": "今日は暑いです。",
+    "exr": "kyō wa atsui desu.",
+    "ex_en": "It's hot today.",
+    "ex_zh": "今天很热。"
   },
   {
     "w": "寒い",
     "r": "samui",
     "en": "cold (weather)",
     "zh": "冷",
-    "level": "N5"
+    "level": "N5",
+    "ex": "冬は寒いです。",
+    "exr": "fuyu wa samui desu.",
+    "ex_en": "Winter is cold.",
+    "ex_zh": "冬天很冷。"
   },
   {
     "w": "暖かい",
     "r": "atatakai",
     "en": "warm",
     "zh": "温暖",
-    "level": "N5"
+    "level": "N5",
+    "ex": "春は暖かいです。",
+    "exr": "haru wa atatakai desu.",
+    "ex_en": "Spring is warm.",
+    "ex_zh": "春天暖和。"
   },
   {
     "w": "涼しい",
     "r": "suzushii",
     "en": "cool (weather)",
     "zh": "凉爽",
-    "level": "N5"
+    "level": "N5",
+    "ex": "秋は涼しいです。",
+    "exr": "aki wa suzushii desu.",
+    "ex_en": "Autumn is cool.",
+    "ex_zh": "秋天凉爽。"
   },
   {
     "w": "忙しい",
     "r": "isogashii",
     "en": "busy",
     "zh": "忙",
-    "level": "N5"
+    "level": "N5",
+    "ex": "今日は忙しいです。",
+    "exr": "kyō wa isogashii desu.",
+    "ex_en": "I'm busy today.",
+    "ex_zh": "今天很忙。"
   },
   {
     "w": "暇",
     "r": "hima",
     "en": "free time",
     "zh": "空闲",
-    "level": "N5"
+    "level": "N5",
+    "ex": "今日は暇です。",
+    "exr": "kyō wa hima desu.",
+    "ex_en": "I'm free today.",
+    "ex_zh": "今天有空。"
   },
   {
     "w": "楽しい",
     "r": "tanoshii",
     "en": "fun",
     "zh": "快乐",
-    "level": "N5"
+    "level": "N5",
+    "ex": "旅行は楽しいです。",
+    "exr": "ryokō wa tanoshii desu.",
+    "ex_en": "Traveling is fun.",
+    "ex_zh": "旅行很开心。"
   },
   {
     "w": "嬉しい",
     "r": "ureshii",
     "en": "happy/glad",
     "zh": "高兴",
-    "level": "N4"
+    "level": "N4",
+    "ex": "会えて嬉しいです。",
+    "exr": "aete ureshii desu.",
+    "ex_en": "I'm glad to meet you.",
+    "ex_zh": "见到你很高兴。"
   },
   {
     "w": "悲しい",
     "r": "kanashii",
     "en": "sad",
     "zh": "悲伤",
-    "level": "N4"
+    "level": "N4",
+    "ex": "映画が悲しかったです。",
+    "exr": "eiga ga kanashikatta desu.",
+    "ex_en": "The movie was sad.",
+    "ex_zh": "电影很悲伤。"
   },
   {
     "w": "面白い",
     "r": "omoshiroi",
     "en": "interesting",
     "zh": "有趣",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この本は面白いです。",
+    "exr": "kono hon wa omoshiroi desu.",
+    "ex_en": "This book is interesting.",
+    "ex_zh": "这本书很有趣。"
   },
   {
     "w": "つまらない",
     "r": "tsumaranai",
     "en": "boring",
     "zh": "无聊",
-    "level": "N5"
+    "level": "N5",
+    "ex": "その話はつまらないです。",
+    "exr": "sono hanashi wa tsumaranai desu.",
+    "ex_en": "That story is boring.",
+    "ex_zh": "那个故事很无聊。"
   },
   {
     "w": "難しい",
     "r": "muzukashii",
     "en": "difficult",
     "zh": "难",
-    "level": "N5"
+    "level": "N5",
+    "ex": "試験は難しかったです。",
+    "exr": "shiken wa muzukashikatta desu.",
+    "ex_en": "The exam was difficult.",
+    "ex_zh": "考试很难。"
   },
   {
     "w": "易しい",
     "r": "yasashii",
     "en": "easy",
     "zh": "容易",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この問題は易しいです。",
+    "exr": "kono mondai wa yasashii desu.",
+    "ex_en": "This problem is easy.",
+    "ex_zh": "这道题很容易。"
   },
   {
     "w": "優しい",
     "r": "yasashii",
     "en": "kind/gentle",
     "zh": "温柔",
-    "level": "N4"
+    "level": "N4",
+    "ex": "彼女は優しいです。",
+    "exr": "kanojo wa yasashii desu.",
+    "ex_en": "She is kind.",
+    "ex_zh": "她很温柔。"
   },
   {
     "w": "強い",
     "r": "tsuyoi",
     "en": "strong",
     "zh": "强",
-    "level": "N5"
+    "level": "N5",
+    "ex": "彼は力が強いです。",
+    "exr": "kare wa chikara ga tsuyoi desu.",
+    "ex_en": "He is physically strong.",
+    "ex_zh": "他力气大。"
   },
   {
     "w": "弱い",
     "r": "yowai",
     "en": "weak",
     "zh": "弱",
-    "level": "N4"
+    "level": "N4",
+    "ex": "私は体が弱いです。",
+    "exr": "watashi wa karada ga yowai desu.",
+    "ex_en": "I have a weak body.",
+    "ex_zh": "我身体弱。"
   },
   {
     "w": "重い",
     "r": "omoi",
     "en": "heavy",
     "zh": "重",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この荷物は重いです。",
+    "exr": "kono nimotsu wa omoi desu.",
+    "ex_en": "This luggage is heavy.",
+    "ex_zh": "这行李很重。"
   },
   {
     "w": "軽い",
     "r": "karui",
     "en": "light (weight)",
     "zh": "轻",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この鞄は軽いです。",
+    "exr": "kono kaban wa karui desu.",
+    "ex_en": "This bag is light.",
+    "ex_zh": "这包很轻。"
   },
   {
     "w": "美味しい",
     "r": "oishii",
     "en": "delicious",
     "zh": "好吃",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この料理は美味しいです。",
+    "exr": "kono ryōri wa oishii desu.",
+    "ex_en": "This dish is delicious.",
+    "ex_zh": "这道菜很好吃。"
   },
   {
     "w": "甘い",
     "r": "amai",
     "en": "sweet",
     "zh": "甜",
-    "level": "N5"
+    "level": "N5",
+    "ex": "このケーキは甘いです。",
+    "exr": "kono kēki wa amai desu.",
+    "ex_en": "This cake is sweet.",
+    "ex_zh": "这蛋糕很甜。"
   },
   {
     "w": "辛い",
     "r": "karai",
     "en": "spicy",
     "zh": "辣",
-    "level": "N4"
+    "level": "N4",
+    "ex": "このカレーは辛いです。",
+    "exr": "kono karē wa karai desu.",
+    "ex_en": "This curry is spicy.",
+    "ex_zh": "这咖喱很辣。"
   },
   {
     "w": "静か",
     "r": "shizuka",
     "en": "quiet",
     "zh": "安静",
-    "level": "N5"
+    "level": "N5",
+    "ex": "図書館は静かです。",
+    "exr": "toshokan wa shizuka desu.",
+    "ex_en": "The library is quiet.",
+    "ex_zh": "图书馆很安静。"
   },
   {
     "w": "賑やか",
     "r": "nigiyaka",
     "en": "lively",
     "zh": "热闹",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この町は賑やかです。",
+    "exr": "kono machi wa nigiyaka desu.",
+    "ex_en": "This town is lively.",
+    "ex_zh": "这城镇很热闹。"
   },
   {
     "w": "綺麗",
     "r": "kirei",
     "en": "beautiful/clean",
     "zh": "漂亮/干净",
-    "level": "N5"
+    "level": "N5",
+    "ex": "部屋が綺麗です。",
+    "exr": "heya ga kirei desu.",
+    "ex_en": "The room is clean.",
+    "ex_zh": "房间很干净。"
   },
   {
     "w": "可愛い",
     "r": "kawaii",
     "en": "cute",
     "zh": "可爱",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この猫は可愛いです。",
+    "exr": "kono neko wa kawaii desu.",
+    "ex_en": "This cat is cute.",
+    "ex_zh": "这只猫很可爱。"
   },
   {
     "w": "元気",
     "r": "genki",
     "en": "healthy/energetic",
     "zh": "有精神",
-    "level": "N5"
+    "level": "N5",
+    "ex": "祖母は元気です。",
+    "exr": "sobo wa genki desu.",
+    "ex_en": "My grandmother is well.",
+    "ex_zh": "奶奶很健康。"
   },
   {
     "w": "大切",
     "r": "taisetsu",
     "en": "important/precious",
     "zh": "重要",
-    "level": "N4"
+    "level": "N4",
+    "ex": "家族が大切です。",
+    "exr": "kazoku ga taisetsu desu.",
+    "ex_en": "Family is important.",
+    "ex_zh": "家人很重要。"
   },
   {
     "w": "便利",
     "r": "benri",
     "en": "convenient",
     "zh": "方便",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この道具は便利です。",
+    "exr": "kono dōgu wa benri desu.",
+    "ex_en": "This tool is convenient.",
+    "ex_zh": "这工具很方便。"
   },
   {
     "w": "有名",
     "r": "yūmei",
     "en": "famous",
     "zh": "有名",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この店は有名です。",
+    "exr": "kono mise wa yūmei desu.",
+    "ex_en": "This shop is famous.",
+    "ex_zh": "这家店很有名。"
   },
   {
     "w": "大丈夫",
     "r": "daijōbu",
     "en": "okay/all right",
     "zh": "没问题",
-    "level": "N5"
+    "level": "N5",
+    "ex": "もう大丈夫です。",
+    "exr": "mō daijōbu desu.",
+    "ex_en": "I'm okay now.",
+    "ex_zh": "已经没事了。"
   },
   {
     "w": "上手",
     "r": "jōzu",
     "en": "skilled",
     "zh": "擅长",
-    "level": "N5"
+    "level": "N5",
+    "ex": "料理が上手です。",
+    "exr": "ryōri ga jōzu desu.",
+    "ex_en": "You're good at cooking.",
+    "ex_zh": "很会做菜。"
   },
   {
     "w": "下手",
     "r": "heta",
     "en": "unskilled",
     "zh": "不擅长",
-    "level": "N5"
+    "level": "N5",
+    "ex": "歌が下手です。",
+    "exr": "uta ga heta desu.",
+    "ex_en": "I'm bad at singing.",
+    "ex_zh": "唱歌很差。"
   },
   {
     "w": "好き",
     "r": "suki",
     "en": "to like",
     "zh": "喜欢",
-    "level": "N5"
+    "level": "N5",
+    "ex": "音楽が好きです。",
+    "exr": "ongaku ga suki desu.",
+    "ex_en": "I like music.",
+    "ex_zh": "喜欢音乐。"
   },
   {
     "w": "嫌い",
     "r": "kirai",
     "en": "to dislike",
     "zh": "讨厌",
-    "level": "N5"
+    "level": "N5",
+    "ex": "虫が嫌いです。",
+    "exr": "mushi ga kirai desu.",
+    "ex_en": "I dislike bugs.",
+    "ex_zh": "讨厌虫子。"
   },
   {
     "w": "経験",
     "r": "keiken",
     "en": "experience",
     "zh": "经验",
-    "level": "N4"
+    "level": "N4",
+    "ex": "いい経験になりました。",
+    "exr": "ii keiken ni narimashita.",
+    "ex_en": "It was a good experience.",
+    "ex_zh": "成了好经验。"
   },
   {
     "w": "約束",
     "r": "yakusoku",
     "en": "promise",
     "zh": "约定",
-    "level": "N4"
+    "level": "N4",
+    "ex": "友達と約束します。",
+    "exr": "tomodachi to yakusoku shimasu.",
+    "ex_en": "I make a promise with a friend.",
+    "ex_zh": "和朋友约定。"
   },
   {
     "w": "予定",
     "r": "yotei",
     "en": "plan/schedule",
     "zh": "预定",
-    "level": "N4"
+    "level": "N4",
+    "ex": "明日の予定は何ですか。",
+    "exr": "ashita no yotei wa nan desu ka.",
+    "ex_en": "What are your plans tomorrow?",
+    "ex_zh": "明天有什么安排？"
   },
   {
     "w": "意味",
     "r": "imi",
     "en": "meaning",
     "zh": "意思",
-    "level": "N5"
+    "level": "N5",
+    "ex": "この言葉の意味は何ですか。",
+    "exr": "kono kotoba no imi wa nan desu ka.",
+    "ex_en": "What does this word mean?",
+    "ex_zh": "这个词什么意思？"
   },
   {
     "w": "説明",
     "r": "setsumei",
     "en": "explanation",
     "zh": "说明",
-    "level": "N4"
+    "level": "N4",
+    "ex": "先生が説明します。",
+    "exr": "sensei ga setsumei shimasu.",
+    "ex_en": "The teacher explains.",
+    "ex_zh": "老师解释。"
   },
   {
     "w": "相談",
     "r": "sōdan",
     "en": "consultation",
     "zh": "商量",
-    "level": "N4"
+    "level": "N4",
+    "ex": "先生に相談します。",
+    "exr": "sensei ni sōdan shimasu.",
+    "ex_en": "I consult the teacher.",
+    "ex_zh": "找老师商量。"
   },
   {
     "w": "連絡",
     "r": "renraku",
     "en": "contact",
     "zh": "联系",
-    "level": "N4"
+    "level": "N4",
+    "ex": "後で連絡します。",
+    "exr": "ato de renraku shimasu.",
+    "ex_en": "I'll contact you later.",
+    "ex_zh": "稍后联系。"
   },
   {
     "w": "案内",
     "r": "annai",
     "en": "guidance",
     "zh": "向导",
-    "level": "N4"
+    "level": "N4",
+    "ex": "町を案内します。",
+    "exr": "machi o annai shimasu.",
+    "ex_en": "I show you around town.",
+    "ex_zh": "带你游览城市。"
   },
   {
     "w": "紹介",
     "r": "shōkai",
     "en": "introduction",
     "zh": "介绍",
-    "level": "N4"
+    "level": "N4",
+    "ex": "友達を紹介します。",
+    "exr": "tomodachi o shōkai shimasu.",
+    "ex_en": "I introduce a friend.",
+    "ex_zh": "介绍朋友。"
   },
   {
     "w": "招待",
     "r": "shōtai",
     "en": "invitation",
     "zh": "邀请",
-    "level": "N4"
+    "level": "N4",
+    "ex": "パーティーに招待します。",
+    "exr": "pātī ni shōtai shimasu.",
+    "ex_en": "I invite you to the party.",
+    "ex_zh": "邀请参加派对。"
   },
   {
     "w": "遠慮",
     "r": "enryo",
     "en": "holding back/reserve",
     "zh": "客气",
-    "level": "N3"
+    "level": "N3",
+    "ex": "遠慮しないでください。",
+    "exr": "enryo shinaide kudasai.",
+    "ex_en": "Please don't hold back.",
+    "ex_zh": "请别客气。"
   },
   {
     "w": "我慢",
     "r": "gaman",
     "en": "endurance/patience",
     "zh": "忍耐",
-    "level": "N3"
+    "level": "N3",
+    "ex": "もう少し我慢します。",
+    "exr": "mō sukoshi gaman shimasu.",
+    "ex_en": "I'll endure a little more.",
+    "ex_zh": "再忍一会儿。"
   },
   {
     "w": "安心",
     "r": "anshin",
     "en": "relief/peace of mind",
     "zh": "安心",
-    "level": "N4"
+    "level": "N4",
+    "ex": "話を聞いて安心しました。",
+    "exr": "hanashi o kiite anshin shimashita.",
+    "ex_en": "I felt relieved to hear it.",
+    "ex_zh": "听了就放心了。"
   },
   {
     "w": "心配",
     "r": "shinpai",
     "en": "worry",
     "zh": "担心",
-    "level": "N4"
+    "level": "N4",
+    "ex": "母が心配します。",
+    "exr": "haha ga shinpai shimasu.",
+    "ex_en": "My mother worries.",
+    "ex_zh": "妈妈担心。"
   },
   {
     "w": "注意",
     "r": "chūi",
     "en": "caution/attention",
     "zh": "注意",
-    "level": "N4"
+    "level": "N4",
+    "ex": "車に注意してください。",
+    "exr": "kuruma ni chūi shite kudasai.",
+    "ex_en": "Please watch for cars.",
+    "ex_zh": "请注意车辆。"
   },
   {
     "w": "危険",
     "r": "kiken",
     "en": "danger",
     "zh": "危险",
-    "level": "N4"
+    "level": "N4",
+    "ex": "ここは危険です。",
+    "exr": "koko wa kiken desu.",
+    "ex_en": "It's dangerous here.",
+    "ex_zh": "这里很危险。"
   },
   {
     "w": "安全",
     "r": "anzen",
     "en": "safety",
     "zh": "安全",
-    "level": "N4"
+    "level": "N4",
+    "ex": "安全が第一です。",
+    "exr": "anzen ga daiichi desu.",
+    "ex_en": "Safety comes first.",
+    "ex_zh": "安全第一。"
   },
   {
     "w": "自由",
     "r": "jiyū",
     "en": "freedom",
     "zh": "自由",
-    "level": "N3"
+    "level": "N3",
+    "ex": "自由に選べます。",
+    "exr": "jiyū ni erabemasu.",
+    "ex_en": "You can choose freely.",
+    "ex_zh": "可以自由选择。"
   },
   {
     "w": "自然",
     "r": "shizen",
     "en": "nature",
     "zh": "自然",
-    "level": "N3"
+    "level": "N3",
+    "ex": "自然が豊かです。",
+    "exr": "shizen ga yutaka desu.",
+    "ex_en": "Nature is abundant.",
+    "ex_zh": "自然丰富。"
   },
   {
     "w": "社会",
     "r": "shakai",
     "en": "society",
     "zh": "社会",
-    "level": "N3"
+    "level": "N3",
+    "ex": "社会の問題を考えます。",
+    "exr": "shakai no mondai o kangaemasu.",
+    "ex_en": "I think about social issues.",
+    "ex_zh": "思考社会问题。"
   },
   {
     "w": "文化",
     "r": "bunka",
     "en": "culture",
     "zh": "文化",
-    "level": "N4"
+    "level": "N4",
+    "ex": "日本の文化が好きです。",
+    "exr": "nihon no bunka ga suki desu.",
+    "ex_en": "I like Japanese culture.",
+    "ex_zh": "喜欢日本文化。"
   },
   {
     "w": "歴史",
     "r": "rekishi",
     "en": "history",
     "zh": "历史",
-    "level": "N4"
+    "level": "N4",
+    "ex": "歴史を勉強します。",
+    "exr": "rekishi o benkyō shimasu.",
+    "ex_en": "I study history.",
+    "ex_zh": "学习历史。"
   },
   {
     "w": "経済",
     "r": "keizai",
     "en": "economy",
     "zh": "经济",
-    "level": "N3"
+    "level": "N3",
+    "ex": "経済のニュースを読みます。",
+    "exr": "keizai no nyūsu o yomimasu.",
+    "ex_en": "I read economic news.",
+    "ex_zh": "读经济新闻。"
   },
   {
     "w": "科学",
     "r": "kagaku",
     "en": "science",
     "zh": "科学",
-    "level": "N3"
+    "level": "N3",
+    "ex": "科学に興味があります。",
+    "exr": "kagaku ni kyōmi ga arimasu.",
+    "ex_en": "I'm interested in science.",
+    "ex_zh": "对科学有兴趣。"
   },
   {
     "w": "技術",
     "r": "gijutsu",
     "en": "technology",
     "zh": "技术",
-    "level": "N3"
+    "level": "N3",
+    "ex": "新しい技術を学びます。",
+    "exr": "atarashii gijutsu o manabimasu.",
+    "ex_en": "I learn new technology.",
+    "ex_zh": "学习新技术。"
   },
   {
     "w": "情報",
     "r": "jōhō",
     "en": "information",
     "zh": "信息",
-    "level": "N4"
+    "level": "N4",
+    "ex": "情報を集めます。",
+    "exr": "jōhō o atsumemasu.",
+    "ex_en": "I gather information.",
+    "ex_zh": "收集信息。"
   },
   {
     "w": "知識",
     "r": "chishiki",
     "en": "knowledge",
     "zh": "知识",
-    "level": "N3"
+    "level": "N3",
+    "ex": "知識を増やします。",
+    "exr": "chishiki o fuyashimasu.",
+    "ex_en": "I increase my knowledge.",
+    "ex_zh": "增加知识。"
   },
   {
     "w": "記憶",
     "r": "kioku",
     "en": "memory",
     "zh": "记忆",
-    "level": "N3"
+    "level": "N3",
+    "ex": "記憶が曖昧です。",
+    "exr": "kioku ga aimai desu.",
+    "ex_en": "My memory is vague.",
+    "ex_zh": "记忆模糊。"
   },
   {
     "w": "意見",
     "r": "iken",
     "en": "opinion",
     "zh": "意见",
-    "level": "N4"
+    "level": "N4",
+    "ex": "意見を言います。",
+    "exr": "iken o iimasu.",
+    "ex_en": "I give my opinion.",
+    "ex_zh": "说出意见。"
   },
   {
     "w": "理由",
     "r": "riyū",
     "en": "reason",
     "zh": "理由",
-    "level": "N4"
+    "level": "N4",
+    "ex": "理由を説明します。",
+    "exr": "riyū o setsumei shimasu.",
+    "ex_en": "I explain the reason.",
+    "ex_zh": "说明理由。"
   },
   {
     "w": "結果",
     "r": "kekka",
     "en": "result",
     "zh": "结果",
-    "level": "N3"
+    "level": "N3",
+    "ex": "試験の結果が出ました。",
+    "exr": "shiken no kekka ga demashita.",
+    "ex_en": "The exam results came out.",
+    "ex_zh": "考试结果出来了。"
   },
   {
     "w": "原因",
     "r": "gen'in",
     "en": "cause",
     "zh": "原因",
-    "level": "N3"
+    "level": "N3",
+    "ex": "事故の原因を調べます。",
+    "exr": "jiko no gen'in o shirabemasu.",
+    "ex_en": "I investigate the cause of the accident.",
+    "ex_zh": "调查事故原因。"
   },
   {
     "w": "目的",
     "r": "mokuteki",
     "en": "purpose",
     "zh": "目的",
-    "level": "N3"
+    "level": "N3",
+    "ex": "旅行の目的は何ですか。",
+    "exr": "ryokō no mokuteki wa nan desu ka.",
+    "ex_en": "What's the purpose of the trip?",
+    "ex_zh": "旅行的目的是什么？"
   },
   {
     "w": "方法",
     "r": "hōhō",
     "en": "method",
     "zh": "方法",
-    "level": "N4"
+    "level": "N4",
+    "ex": "いい方法を考えます。",
+    "exr": "ii hōhō o kangaemasu.",
+    "ex_en": "I think of a good method.",
+    "ex_zh": "想个好办法。"
   },
   {
     "w": "問題",
     "r": "mondai",
     "en": "problem",
     "zh": "问题",
-    "level": "N5"
+    "level": "N5",
+    "ex": "難しい問題があります。",
+    "exr": "muzukashii mondai ga arimasu.",
+    "ex_en": "There is a difficult problem.",
+    "ex_zh": "有个难题。"
   },
   {
     "w": "答え",
     "r": "kotae",
     "en": "answer",
     "zh": "答案",
-    "level": "N4"
+    "level": "N4",
+    "ex": "答えは正しいです。",
+    "exr": "kotae wa tadashii desu.",
+    "ex_en": "The answer is correct.",
+    "ex_zh": "答案正确。"
   },
   {
     "w": "宿題",
     "r": "shukudai",
     "en": "homework",
     "zh": "作业",
-    "level": "N5"
+    "level": "N5",
+    "ex": "宿題をします。",
+    "exr": "shukudai o shimasu.",
+    "ex_en": "I do my homework.",
+    "ex_zh": "做作业。"
   },
   {
     "w": "試験",
     "r": "shiken",
     "en": "exam",
     "zh": "考试",
-    "level": "N4"
+    "level": "N4",
+    "ex": "明日試験があります。",
+    "exr": "ashita shiken ga arimasu.",
+    "ex_en": "I have an exam tomorrow.",
+    "ex_zh": "明天有考试。"
   },
   {
     "w": "成績",
     "r": "seiseki",
     "en": "grades/results",
     "zh": "成绩",
-    "level": "N3"
+    "level": "N3",
+    "ex": "成績が上がりました。",
+    "exr": "seiseki ga agarimashita.",
+    "ex_en": "My grades went up.",
+    "ex_zh": "成绩提高了。"
   },
   {
     "w": "卒業",
     "r": "sotsugyō",
     "en": "graduation",
     "zh": "毕业",
-    "level": "N4"
+    "level": "N4",
+    "ex": "三月に卒業します。",
+    "exr": "sangatsu ni sotsugyō shimasu.",
+    "ex_en": "I graduate in March.",
+    "ex_zh": "三月毕业。"
   },
   {
     "w": "就職",
     "r": "shūshoku",
     "en": "getting a job",
     "zh": "就业",
-    "level": "N3"
+    "level": "N3",
+    "ex": "東京で就職します。",
+    "exr": "tōkyō de shūshoku shimasu.",
+    "ex_en": "I get a job in Tokyo.",
+    "ex_zh": "在东京就业。"
   },
   {
     "w": "面接",
     "r": "mensetsu",
     "en": "job interview",
     "zh": "面试",
-    "level": "N3"
+    "level": "N3",
+    "ex": "明日面接があります。",
+    "exr": "ashita mensetsu ga arimasu.",
+    "ex_en": "I have an interview tomorrow.",
+    "ex_zh": "明天有面试。"
   },
   {
     "w": "会議",
     "r": "kaigi",
     "en": "meeting",
     "zh": "会议",
-    "level": "N4"
+    "level": "N4",
+    "ex": "会議は三時からです。",
+    "exr": "kaigi wa sanji kara desu.",
+    "ex_en": "The meeting is from 3.",
+    "ex_zh": "会议三点开始。"
   },
   {
     "w": "出張",
     "r": "shutchō",
     "en": "business trip",
     "zh": "出差",
-    "level": "N3"
+    "level": "N3",
+    "ex": "大阪へ出張します。",
+    "exr": "ōsaka e shutchō shimasu.",
+    "ex_en": "I go on a business trip to Osaka.",
+    "ex_zh": "去大阪出差。"
   },
   {
     "w": "残業",
     "r": "zangyō",
     "en": "overtime work",
     "zh": "加班",
-    "level": "N3"
+    "level": "N3",
+    "ex": "今日は残業します。",
+    "exr": "kyō wa zangyō shimasu.",
+    "ex_en": "I work overtime today.",
+    "ex_zh": "今天加班。"
   },
   {
     "w": "給料",
     "r": "kyūryō",
     "en": "salary",
     "zh": "工资",
-    "level": "N3"
+    "level": "N3",
+    "ex": "給料が上がりました。",
+    "exr": "kyūryō ga agarimashita.",
+    "ex_en": "My salary went up.",
+    "ex_zh": "工资涨了。"
   },
   {
     "w": "貯金",
     "r": "chokin",
     "en": "savings",
     "zh": "存款",
-    "level": "N3"
+    "level": "N3",
+    "ex": "毎月貯金します。",
+    "exr": "maitsuki chokin shimasu.",
+    "ex_en": "I save money every month.",
+    "ex_zh": "每月存钱。"
   },
   {
     "w": "投資",
     "r": "tōshi",
     "en": "investment",
     "zh": "投资",
-    "level": "N3"
+    "level": "N3",
+    "ex": "株に投資します。",
+    "exr": "kabu ni tōshi shimasu.",
+    "ex_en": "I invest in stocks.",
+    "ex_zh": "投资股票。"
   },
   {
     "w": "株",
     "r": "kabu",
     "en": "stocks",
     "zh": "股票",
-    "level": "N3"
+    "level": "N3",
+    "ex": "株を買いました。",
+    "exr": "kabu o kaimashita.",
+    "ex_en": "I bought stocks.",
+    "ex_zh": "买了股票。"
   },
   {
     "w": "値段",
     "r": "nedan",
     "en": "price",
     "zh": "价格",
-    "level": "N4"
+    "level": "N4",
+    "ex": "値段が高いです。",
+    "exr": "nedan ga takai desu.",
+    "ex_en": "The price is high.",
+    "ex_zh": "价格很高。"
   },
   {
     "w": "割引",
     "r": "waribiki",
     "en": "discount",
     "zh": "折扣",
-    "level": "N3"
+    "level": "N3",
+    "ex": "今日は割引があります。",
+    "exr": "kyō wa waribiki ga arimasu.",
+    "ex_en": "There's a discount today.",
+    "ex_zh": "今天有折扣。"
   },
   {
     "w": "無料",
     "r": "muryō",
     "en": "free of charge",
     "zh": "免费",
-    "level": "N4"
+    "level": "N4",
+    "ex": "入場は無料です。",
+    "exr": "nyūjō wa muryō desu.",
+    "ex_en": "Admission is free.",
+    "ex_zh": "入场免费。"
   },
   {
     "w": "大学",
     "r": "daigaku",
     "en": "university",
     "zh": "大学",
-    "level": "N5"
+    "level": "N5",
+    "ex": "大学で勉強します。",
+    "exr": "daigaku de benkyō shimasu.",
+    "ex_en": "I study at university.",
+    "ex_zh": "在大学学习。"
   },
   {
     "w": "先生",
     "r": "sensei",
     "en": "teacher",
     "zh": "老师",
-    "level": "N5"
+    "level": "N5",
+    "ex": "先生に質問します。",
+    "exr": "sensei ni shitsumon shimasu.",
+    "ex_en": "I ask the teacher.",
+    "ex_zh": "问老师。"
   },
   {
     "w": "学生",
     "r": "gakusei",
     "en": "student",
     "zh": "学生",
-    "level": "N5"
+    "level": "N5",
+    "ex": "私は学生です。",
+    "exr": "watashi wa gakusei desu.",
+    "ex_en": "I am a student.",
+    "ex_zh": "我是学生。"
   },
   {
     "w": "医者",
     "r": "isha",
     "en": "doctor",
     "zh": "医生",
-    "level": "N5"
+    "level": "N5",
+    "ex": "医者に行きます。",
+    "exr": "isha ni ikimasu.",
+    "ex_en": "I go to the doctor.",
+    "ex_zh": "去看医生。"
   },
   {
     "w": "母",
     "r": "haha",
     "en": "(my) mother",
     "zh": "母亲",
-    "level": "N5"
+    "level": "N5",
+    "ex": "母は優しいです。",
+    "exr": "haha wa yasashii desu.",
+    "ex_en": "My mother is kind.",
+    "ex_zh": "妈妈很温柔。"
   },
   {
     "w": "父",
     "r": "chichi",
     "en": "(my) father",
     "zh": "父亲",
-    "level": "N5"
+    "level": "N5",
+    "ex": "父は会社員です。",
+    "exr": "chichi wa kaishain desu.",
+    "ex_en": "My father is an office worker.",
+    "ex_zh": "爸爸是公司职员。"
   },
   {
     "w": "兄",
     "r": "ani",
     "en": "older brother",
     "zh": "哥哥",
-    "level": "N5"
+    "level": "N5",
+    "ex": "兄は大学生です。",
+    "exr": "ani wa daigakusei desu.",
+    "ex_en": "My older brother is a college student.",
+    "ex_zh": "哥哥是大学生。"
   },
   {
     "w": "姉",
     "r": "ane",
     "en": "older sister",
     "zh": "姐姐",
-    "level": "N5"
+    "level": "N5",
+    "ex": "姉は先生です。",
+    "exr": "ane wa sensei desu.",
+    "ex_en": "My older sister is a teacher.",
+    "ex_zh": "姐姐是老师。"
   },
   {
     "w": "弟",
     "r": "otōto",
     "en": "younger brother",
     "zh": "弟弟",
-    "level": "N5"
+    "level": "N5",
+    "ex": "弟は高校生です。",
+    "exr": "otōto wa kōkōsei desu.",
+    "ex_en": "My younger brother is a high schooler.",
+    "ex_zh": "弟弟是高中生。"
   },
   {
     "w": "妹",
     "r": "imōto",
     "en": "younger sister",
     "zh": "妹妹",
-    "level": "N5"
+    "level": "N5",
+    "ex": "妹は可愛いです。",
+    "exr": "imōto wa kawaii desu.",
+    "ex_en": "My little sister is cute.",
+    "ex_zh": "妹妹很可爱。"
   },
   {
     "w": "男",
     "r": "otoko",
     "en": "man",
     "zh": "男人",
-    "level": "N5"
+    "level": "N5",
+    "ex": "あの男の人は背が高いです。",
+    "exr": "ano otoko no hito wa se ga takai desu.",
+    "ex_en": "That man is tall.",
+    "ex_zh": "那个男人很高。"
   },
   {
     "w": "女",
     "r": "onna",
     "en": "woman",
     "zh": "女人",
-    "level": "N5"
+    "level": "N5",
+    "ex": "あの女の人は先生です。",
+    "exr": "ano onna no hito wa sensei desu.",
+    "ex_en": "That woman is a teacher.",
+    "ex_zh": "那个女人是老师。"
   },
   {
     "w": "人",
     "r": "hito",
     "en": "person",
     "zh": "人",
-    "level": "N5"
+    "level": "N5",
+    "ex": "あの人は誰ですか。",
+    "exr": "ano hito wa dare desu ka.",
+    "ex_en": "Who is that person?",
+    "ex_zh": "那个人是谁？"
   },
   {
     "w": "手",
     "r": "te",
     "en": "hand",
     "zh": "手",
-    "level": "N5"
+    "level": "N5",
+    "ex": "手を洗います。",
+    "exr": "te o araimasu.",
+    "ex_en": "I wash my hands.",
+    "ex_zh": "洗手。"
   },
   {
     "w": "足",
     "r": "ashi",
     "en": "foot/leg",
     "zh": "脚",
-    "level": "N5"
+    "level": "N5",
+    "ex": "足が痛いです。",
+    "exr": "ashi ga itai desu.",
+    "ex_en": "My leg hurts.",
+    "ex_zh": "腿疼。"
   },
   {
     "w": "目",
     "r": "me",
     "en": "eye",
     "zh": "眼睛",
-    "level": "N5"
+    "level": "N5",
+    "ex": "目が疲れました。",
+    "exr": "me ga tsukaremashita.",
+    "ex_en": "My eyes are tired.",
+    "ex_zh": "眼睛累了。"
   },
   {
     "w": "耳",
     "r": "mimi",
     "en": "ear",
     "zh": "耳朵",
-    "level": "N5"
+    "level": "N5",
+    "ex": "耳が痛いです。",
+    "exr": "mimi ga itai desu.",
+    "ex_en": "My ear hurts.",
+    "ex_zh": "耳朵疼。"
   },
   {
     "w": "口",
     "r": "kuchi",
     "en": "mouth",
     "zh": "嘴",
-    "level": "N5"
+    "level": "N5",
+    "ex": "口を大きく開けます。",
+    "exr": "kuchi o ōkiku akemasu.",
+    "ex_en": "I open my mouth wide.",
+    "ex_zh": "张大嘴。"
   },
   {
     "w": "頭",
     "r": "atama",
     "en": "head",
     "zh": "头",
-    "level": "N5"
+    "level": "N5",
+    "ex": "頭が痛いです。",
+    "exr": "atama ga itai desu.",
+    "ex_en": "I have a headache.",
+    "ex_zh": "头疼。"
   },
   {
     "w": "顔",
     "r": "kao",
     "en": "face",
     "zh": "脸",
-    "level": "N5"
+    "level": "N5",
+    "ex": "顔を洗います。",
+    "exr": "kao o araimasu.",
+    "ex_en": "I wash my face.",
+    "ex_zh": "洗脸。"
   },
   {
     "w": "体",
     "r": "karada",
     "en": "body",
     "zh": "身体",
-    "level": "N5"
+    "level": "N5",
+    "ex": "体に気をつけてください。",
+    "exr": "karada ni ki o tsukete kudasai.",
+    "ex_en": "Please take care of yourself.",
+    "ex_zh": "请注意身体。"
   },
   {
     "w": "紙",
     "r": "kami",
     "en": "paper",
     "zh": "纸",
-    "level": "N5"
+    "level": "N5",
+    "ex": "紙に名前を書きます。",
+    "exr": "kami ni namae o kakimasu.",
+    "ex_en": "I write my name on the paper.",
+    "ex_zh": "在纸上写名字。"
   },
   {
     "w": "鉛筆",
     "r": "enpitsu",
     "en": "pencil",
     "zh": "铅笔",
-    "level": "N5"
+    "level": "N5",
+    "ex": "鉛筆で書きます。",
+    "exr": "enpitsu de kakimasu.",
+    "ex_en": "I write with a pencil.",
+    "ex_zh": "用铅笔写。"
   },
   {
     "w": "机",
     "r": "tsukue",
     "en": "desk",
     "zh": "桌子",
-    "level": "N5"
+    "level": "N5",
+    "ex": "机の上に本があります。",
+    "exr": "tsukue no ue ni hon ga arimasu.",
+    "ex_en": "There's a book on the desk.",
+    "ex_zh": "桌上有书。"
   },
   {
     "w": "椅子",
     "r": "isu",
     "en": "chair",
     "zh": "椅子",
-    "level": "N5"
+    "level": "N5",
+    "ex": "椅子に座ります。",
+    "exr": "isu ni suwarimasu.",
+    "ex_en": "I sit on the chair.",
+    "ex_zh": "坐在椅子上。"
   },
   {
     "w": "窓",
     "r": "mado",
     "en": "window",
     "zh": "窗户",
-    "level": "N5"
+    "level": "N5",
+    "ex": "窓を開けます。",
+    "exr": "mado o akemasu.",
+    "ex_en": "I open the window.",
+    "ex_zh": "开窗。"
   },
   {
     "w": "傘",
     "r": "kasa",
     "en": "umbrella",
     "zh": "雨伞",
-    "level": "N5"
+    "level": "N5",
+    "ex": "傘を持って行きます。",
+    "exr": "kasa o motte ikimasu.",
+    "ex_en": "I take an umbrella.",
+    "ex_zh": "带伞去。"
   },
   {
     "w": "靴",
     "r": "kutsu",
     "en": "shoes",
     "zh": "鞋",
-    "level": "N5"
+    "level": "N5",
+    "ex": "新しい靴を買います。",
+    "exr": "atarashii kutsu o kaimasu.",
+    "ex_en": "I buy new shoes.",
+    "ex_zh": "买新鞋。"
   },
   {
     "w": "服",
     "r": "fuku",
     "en": "clothes",
     "zh": "衣服",
-    "level": "N5"
+    "level": "N5",
+    "ex": "服を着ます。",
+    "exr": "fuku o kimasu.",
+    "ex_en": "I put on clothes.",
+    "ex_zh": "穿衣服。"
   },
   {
     "w": "帽子",
     "r": "bōshi",
     "en": "hat",
     "zh": "帽子",
-    "level": "N5"
+    "level": "N5",
+    "ex": "帽子をかぶります。",
+    "exr": "bōshi o kaburimasu.",
+    "ex_en": "I put on a hat.",
+    "ex_zh": "戴帽子。"
   },
   {
     "w": "時計",
     "r": "tokei",
     "en": "clock/watch",
     "zh": "钟表",
-    "level": "N5"
+    "level": "N5",
+    "ex": "時計を見ます。",
+    "exr": "tokei o mimasu.",
+    "ex_en": "I look at the clock.",
+    "ex_zh": "看表。"
   },
   {
     "w": "新聞",
     "r": "shinbun",
     "en": "newspaper",
     "zh": "报纸",
-    "level": "N5"
+    "level": "N5",
+    "ex": "朝新聞を読みます。",
+    "exr": "asa shinbun o yomimasu.",
+    "ex_en": "I read the newspaper in the morning.",
+    "ex_zh": "早上读报。"
   },
   {
     "w": "手紙",
     "r": "tegami",
     "en": "letter",
     "zh": "信",
-    "level": "N5"
+    "level": "N5",
+    "ex": "友達に手紙を書きます。",
+    "exr": "tomodachi ni tegami o kakimasu.",
+    "ex_en": "I write a letter to a friend.",
+    "ex_zh": "给朋友写信。"
   },
   {
     "w": "切符",
     "r": "kippu",
     "en": "ticket",
     "zh": "车票",
-    "level": "N5"
+    "level": "N5",
+    "ex": "切符を買います。",
+    "exr": "kippu o kaimasu.",
+    "ex_en": "I buy a ticket.",
+    "ex_zh": "买票。"
   },
   {
     "w": "地図",
     "r": "chizu",
     "en": "map",
     "zh": "地图",
-    "level": "N5"
+    "level": "N5",
+    "ex": "地図を見ます。",
+    "exr": "chizu o mimasu.",
+    "ex_en": "I look at the map.",
+    "ex_zh": "看地图。"
   },
   {
     "w": "台所",
     "r": "daidokoro",
     "en": "kitchen",
     "zh": "厨房",
-    "level": "N5"
+    "level": "N5",
+    "ex": "台所で料理します。",
+    "exr": "daidokoro de ryōri shimasu.",
+    "ex_en": "I cook in the kitchen.",
+    "ex_zh": "在厨房做饭。"
   },
   {
     "w": "庭",
     "r": "niwa",
     "en": "garden",
     "zh": "院子",
-    "level": "N5"
+    "level": "N5",
+    "ex": "庭に花があります。",
+    "exr": "niwa ni hana ga arimasu.",
+    "ex_en": "There are flowers in the garden.",
+    "ex_zh": "院子里有花。"
   },
   {
     "w": "星",
     "r": "hoshi",
     "en": "star",
     "zh": "星星",
-    "level": "N5"
+    "level": "N5",
+    "ex": "星がきれいです。",
+    "exr": "hoshi ga kirei desu.",
+    "ex_en": "The stars are beautiful.",
+    "ex_zh": "星星很美。"
   },
   {
     "w": "月",
     "r": "tsuki",
     "en": "moon",
     "zh": "月亮",
-    "level": "N5"
+    "level": "N5",
+    "ex": "月が明るいです。",
+    "exr": "tsuki ga akarui desu.",
+    "ex_en": "The moon is bright.",
+    "ex_zh": "月亮很亮。"
   },
   {
     "w": "太陽",
     "r": "taiyō",
     "en": "sun",
     "zh": "太阳",
-    "level": "N5"
+    "level": "N5",
+    "ex": "太陽が出ました。",
+    "exr": "taiyō ga demashita.",
+    "ex_en": "The sun came out.",
+    "ex_zh": "太阳出来了。"
   },
   {
     "w": "森",
     "r": "mori",
     "en": "forest",
     "zh": "森林",
-    "level": "N5"
+    "level": "N5",
+    "ex": "森を散歩します。",
+    "exr": "mori o sanpo shimasu.",
+    "ex_en": "I walk in the forest.",
+    "ex_zh": "在森林散步。"
   },
   {
     "w": "池",
     "r": "ike",
     "en": "pond",
     "zh": "池塘",
-    "level": "N5"
+    "level": "N5",
+    "ex": "池に魚がいます。",
+    "exr": "ike ni sakana ga imasu.",
+    "ex_en": "There are fish in the pond.",
+    "ex_zh": "池塘里有鱼。"
   },
   {
     "w": "場所",
     "r": "basho",
     "en": "place",
     "zh": "地方",
-    "level": "N4"
+    "level": "N4",
+    "ex": "いい場所を見つけました。",
+    "exr": "ii basho o mitsukemashita.",
+    "ex_en": "I found a good place.",
+    "ex_zh": "找到了好地方。"
   },
   {
     "w": "世界",
     "r": "sekai",
     "en": "world",
     "zh": "世界",
-    "level": "N4"
+    "level": "N4",
+    "ex": "世界を旅行したいです。",
+    "exr": "sekai o ryokō shitai desu.",
+    "ex_en": "I want to travel the world.",
+    "ex_zh": "想环游世界。"
   },
   {
     "w": "予約",
     "r": "yoyaku",
     "en": "reservation",
     "zh": "预约",
-    "level": "N4"
+    "level": "N4",
+    "ex": "レストランを予約します。",
+    "exr": "resutoran o yoyaku shimasu.",
+    "ex_en": "I reserve a restaurant.",
+    "ex_zh": "预约餐厅。"
   },
   {
     "w": "用意",
     "r": "yōi",
     "en": "preparation",
     "zh": "准备",
-    "level": "N4"
+    "level": "N4",
+    "ex": "食事を用意します。",
+    "exr": "shokuji o yōi shimasu.",
+    "ex_en": "I prepare the meal.",
+    "ex_zh": "准备饭菜。"
   },
   {
     "w": "生活",
     "r": "seikatsu",
     "en": "daily life",
     "zh": "生活",
-    "level": "N4"
+    "level": "N4",
+    "ex": "生活が便利になりました。",
+    "exr": "seikatsu ga benri ni narimashita.",
+    "ex_en": "Life became convenient.",
+    "ex_zh": "生活变方便了。"
   },
   {
     "w": "趣味",
     "r": "shumi",
     "en": "hobby",
     "zh": "爱好",
-    "level": "N4"
+    "level": "N4",
+    "ex": "趣味は写真です。",
+    "exr": "shumi wa shashin desu.",
+    "ex_en": "My hobby is photography.",
+    "ex_zh": "爱好是摄影。"
   },
   {
     "w": "興味",
     "r": "kyōmi",
     "en": "interest",
     "zh": "兴趣",
-    "level": "N4"
+    "level": "N4",
+    "ex": "音楽に興味があります。",
+    "exr": "ongaku ni kyōmi ga arimasu.",
+    "ex_en": "I'm interested in music.",
+    "ex_zh": "对音乐有兴趣。"
   },
   {
     "w": "都合",
     "r": "tsugō",
     "en": "convenience/circumstances",
     "zh": "方便与否",
-    "level": "N4"
+    "level": "N4",
+    "ex": "都合が悪いです。",
+    "exr": "tsugō ga warui desu.",
+    "ex_en": "It's inconvenient for me.",
+    "ex_zh": "不方便。"
   },
   {
     "w": "気持ち",
     "r": "kimochi",
     "en": "feeling",
     "zh": "心情",
-    "level": "N4"
+    "level": "N4",
+    "ex": "気持ちがいいです。",
+    "exr": "kimochi ga ii desu.",
+    "ex_en": "It feels good.",
+    "ex_zh": "感觉很好。"
   },
   {
     "w": "気分",
     "r": "kibun",
     "en": "mood",
     "zh": "情绪",
-    "level": "N4"
+    "level": "N4",
+    "ex": "気分がいいです。",
+    "exr": "kibun ga ii desu.",
+    "ex_en": "I'm in a good mood.",
+    "ex_zh": "心情好。"
   },
   {
     "w": "具合",
     "r": "guai",
     "en": "condition/state",
     "zh": "状况",
-    "level": "N4"
+    "level": "N4",
+    "ex": "具合が悪いです。",
+    "exr": "guai ga warui desu.",
+    "ex_en": "I don't feel well.",
+    "ex_zh": "身体不舒服。"
   },
   {
     "w": "反対",
     "r": "hantai",
     "en": "opposition",
     "zh": "反对",
-    "level": "N4"
+    "level": "N4",
+    "ex": "その意見に反対します。",
+    "exr": "sono iken ni hantai shimasu.",
+    "ex_en": "I oppose that opinion.",
+    "ex_zh": "反对那个意见。"
   },
   {
     "w": "賛成",
     "r": "sansei",
     "en": "agreement",
     "zh": "赞成",
-    "level": "N4"
+    "level": "N4",
+    "ex": "その案に賛成します。",
+    "exr": "sono an ni sansei shimasu.",
+    "ex_en": "I agree with that proposal.",
+    "ex_zh": "赞成那个方案。"
   },
   {
     "w": "失敗",
     "r": "shippai",
     "en": "failure",
     "zh": "失败",
-    "level": "N4"
+    "level": "N4",
+    "ex": "失敗を恐れません。",
+    "exr": "shippai o osoremasen.",
+    "ex_en": "I don't fear failure.",
+    "ex_zh": "不怕失败。"
   },
   {
     "w": "成功",
     "r": "seikō",
     "en": "success",
     "zh": "成功",
-    "level": "N4"
+    "level": "N4",
+    "ex": "実験が成功しました。",
+    "exr": "jikken ga seikō shimashita.",
+    "ex_en": "The experiment succeeded.",
+    "ex_zh": "实验成功了。"
   },
   {
     "w": "交通",
     "r": "kōtsū",
     "en": "traffic",
     "zh": "交通",
-    "level": "N4"
+    "level": "N4",
+    "ex": "交通が便利です。",
+    "exr": "kōtsū ga benri desu.",
+    "ex_en": "Transportation is convenient.",
+    "ex_zh": "交通方便。"
   },
   {
     "w": "信号",
     "r": "shingō",
     "en": "traffic signal",
     "zh": "信号灯",
-    "level": "N4"
+    "level": "N4",
+    "ex": "信号が赤です。",
+    "exr": "shingō ga aka desu.",
+    "ex_en": "The light is red.",
+    "ex_zh": "信号灯是红的。"
   },
   {
     "w": "空港",
     "r": "kūkō",
     "en": "airport",
     "zh": "机场",
-    "level": "N4"
+    "level": "N4",
+    "ex": "空港まで迎えに行きます。",
+    "exr": "kūkō made mukae ni ikimasu.",
+    "ex_en": "I go to pick them up at the airport.",
+    "ex_zh": "去机场接人。"
   },
   {
     "w": "港",
     "r": "minato",
     "en": "harbor",
     "zh": "港口",
-    "level": "N4"
+    "level": "N4",
+    "ex": "港に船があります。",
+    "exr": "minato ni fune ga arimasu.",
+    "ex_en": "There's a ship at the harbor.",
+    "ex_zh": "港口有船。"
   },
   {
     "w": "国",
     "r": "kuni",
     "en": "country",
     "zh": "国家",
-    "level": "N4"
+    "level": "N4",
+    "ex": "どの国から来ましたか。",
+    "exr": "dono kuni kara kimashita ka.",
+    "ex_en": "What country are you from?",
+    "ex_zh": "你来自哪个国家？"
   },
   {
     "w": "田舎",
     "r": "inaka",
     "en": "countryside",
     "zh": "乡下",
-    "level": "N4"
+    "level": "N4",
+    "ex": "田舎は静かです。",
+    "exr": "inaka wa shizuka desu.",
+    "ex_en": "The countryside is quiet.",
+    "ex_zh": "乡下很安静。"
   },
   {
     "w": "都市",
     "r": "toshi",
     "en": "city",
     "zh": "城市",
-    "level": "N4"
+    "level": "N4",
+    "ex": "大きい都市に住んでいます。",
+    "exr": "ōkii toshi ni sunde imasu.",
+    "ex_en": "I live in a big city.",
+    "ex_zh": "住在大城市。"
   },
   {
     "w": "村",
     "r": "mura",
     "en": "village",
     "zh": "村庄",
-    "level": "N4"
+    "level": "N4",
+    "ex": "小さい村に住んでいます。",
+    "exr": "chiisai mura ni sunde imasu.",
+    "ex_en": "I live in a small village.",
+    "ex_zh": "住在小村庄。"
   },
   {
     "w": "町",
     "r": "machi",
     "en": "town",
     "zh": "城镇",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この町は賑やかです。",
+    "exr": "kono machi wa nigiyaka desu.",
+    "ex_en": "This town is lively.",
+    "ex_zh": "这城镇很热闹。"
   },
   {
     "w": "島",
     "r": "shima",
     "en": "island",
     "zh": "岛",
-    "level": "N4"
+    "level": "N4",
+    "ex": "夏に島へ行きます。",
+    "exr": "natsu ni shima e ikimasu.",
+    "ex_en": "I go to the island in summer.",
+    "ex_zh": "夏天去岛上。"
   },
   {
     "w": "湖",
     "r": "mizuumi",
     "en": "lake",
     "zh": "湖",
-    "level": "N4"
+    "level": "N4",
+    "ex": "湖で釣りをします。",
+    "exr": "mizuumi de tsuri o shimasu.",
+    "ex_en": "I fish at the lake.",
+    "ex_zh": "在湖边钓鱼。"
   },
   {
     "w": "坂",
     "r": "saka",
     "en": "slope",
     "zh": "坡",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この坂は急です。",
+    "exr": "kono saka wa kyū desu.",
+    "ex_en": "This slope is steep.",
+    "ex_zh": "这个坡很陡。"
   },
   {
     "w": "橋",
     "r": "hashi",
     "en": "bridge",
     "zh": "桥",
-    "level": "N4"
+    "level": "N4",
+    "ex": "橋を渡ります。",
+    "exr": "hashi o watarimasu.",
+    "ex_en": "I cross the bridge.",
+    "ex_zh": "过桥。"
   },
   {
     "w": "建物",
     "r": "tatemono",
     "en": "building",
     "zh": "建筑物",
-    "level": "N4"
+    "level": "N4",
+    "ex": "あの建物は高いです。",
+    "exr": "ano tatemono wa takai desu.",
+    "ex_en": "That building is tall.",
+    "ex_zh": "那栋楼很高。"
   },
   {
     "w": "屋上",
     "r": "okujō",
     "en": "rooftop",
     "zh": "屋顶",
-    "level": "N4"
+    "level": "N4",
+    "ex": "屋上から町が見えます。",
+    "exr": "okujō kara machi ga miemasu.",
+    "ex_en": "You can see the town from the rooftop.",
+    "ex_zh": "从屋顶能看到城镇。"
   },
   {
     "w": "地下",
     "r": "chika",
     "en": "underground",
     "zh": "地下",
-    "level": "N4"
+    "level": "N4",
+    "ex": "地下に駐車場があります。",
+    "exr": "chika ni chūshajō ga arimasu.",
+    "ex_en": "There's a parking lot underground.",
+    "ex_zh": "地下有停车场。"
   },
   {
     "w": "受付",
     "r": "uketsuke",
     "en": "reception",
     "zh": "接待处",
-    "level": "N4"
+    "level": "N4",
+    "ex": "受付で聞いてください。",
+    "exr": "uketsuke de kiite kudasai.",
+    "ex_en": "Please ask at reception.",
+    "ex_zh": "请在接待处问。"
   },
   {
     "w": "事務所",
     "r": "jimusho",
     "en": "office",
     "zh": "办公室",
-    "level": "N4"
+    "level": "N4",
+    "ex": "事務所は二階です。",
+    "exr": "jimusho wa nikai desu.",
+    "ex_en": "The office is on the second floor.",
+    "ex_zh": "办公室在二楼。"
   },
   {
     "w": "工場",
     "r": "kōjō",
     "en": "factory",
     "zh": "工厂",
-    "level": "N4"
+    "level": "N4",
+    "ex": "工場で働いています。",
+    "exr": "kōjō de hataraite imasu.",
+    "ex_en": "I work at a factory.",
+    "ex_zh": "在工厂工作。"
   },
   {
     "w": "農業",
     "r": "nōgyō",
     "en": "agriculture",
     "zh": "农业",
-    "level": "N4"
+    "level": "N4",
+    "ex": "祖父は農業をしています。",
+    "exr": "sofu wa nōgyō o shite imasu.",
+    "ex_en": "My grandfather farms.",
+    "ex_zh": "爷爷务农。"
   },
   {
     "w": "選ぶ",
     "r": "erabu",
     "en": "to choose",
     "zh": "选择",
-    "level": "N4"
+    "level": "N4",
+    "ex": "好きな色を選びます。",
+    "exr": "suki na iro o erabimasu.",
+    "ex_en": "I choose my favorite color.",
+    "ex_zh": "选喜欢的颜色。"
   },
   {
     "w": "決める",
     "r": "kimeru",
     "en": "to decide",
     "zh": "决定",
-    "level": "N4"
+    "level": "N4",
+    "ex": "予定を決めます。",
+    "exr": "yotei o kimemasu.",
+    "ex_en": "I decide the schedule.",
+    "ex_zh": "决定日程。"
   },
   {
     "w": "比べる",
     "r": "kuraberu",
     "en": "to compare",
     "zh": "比较",
-    "level": "N4"
+    "level": "N4",
+    "ex": "値段を比べます。",
+    "exr": "nedan o kurabemasu.",
+    "ex_en": "I compare prices.",
+    "ex_zh": "比较价格。"
   },
   {
     "w": "増える",
     "r": "fueru",
     "en": "to increase",
     "zh": "增加",
-    "level": "N4"
+    "level": "N4",
+    "ex": "人口が増えます。",
+    "exr": "jinkō ga fuemasu.",
+    "ex_en": "The population increases.",
+    "ex_zh": "人口增加。"
   },
   {
     "w": "減る",
     "r": "heru",
     "en": "to decrease",
     "zh": "减少",
-    "level": "N4"
+    "level": "N4",
+    "ex": "体重が減りました。",
+    "exr": "taijū ga herimashita.",
+    "ex_en": "My weight decreased.",
+    "ex_zh": "体重减了。"
   },
   {
     "w": "変わる",
     "r": "kawaru",
     "en": "to change (intr.)",
     "zh": "变化",
-    "level": "N4"
+    "level": "N4",
+    "ex": "天気が変わりました。",
+    "exr": "tenki ga kawarimashita.",
+    "ex_en": "The weather changed.",
+    "ex_zh": "天气变了。"
   },
   {
     "w": "変える",
     "r": "kaeru",
     "en": "to change (tr.)",
     "zh": "改变",
-    "level": "N4"
+    "level": "N4",
+    "ex": "計画を変えます。",
+    "exr": "keikaku o kaemasu.",
+    "ex_en": "I change the plan.",
+    "ex_zh": "改变计划。"
   },
   {
     "w": "集める",
     "r": "atsumeru",
     "en": "to collect",
     "zh": "收集",
-    "level": "N4"
+    "level": "N4",
+    "ex": "切手を集めます。",
+    "exr": "kitte o atsumemasu.",
+    "ex_en": "I collect stamps.",
+    "ex_zh": "收集邮票。"
   },
   {
     "w": "集まる",
     "r": "atsumaru",
     "en": "to gather",
     "zh": "聚集",
-    "level": "N4"
+    "level": "N4",
+    "ex": "公園に人が集まります。",
+    "exr": "kōen ni hito ga atsumarimasu.",
+    "ex_en": "People gather in the park.",
+    "ex_zh": "人们在公园聚集。"
   },
   {
     "w": "育てる",
     "r": "sodateru",
     "en": "to raise",
     "zh": "培养",
-    "level": "N4"
+    "level": "N4",
+    "ex": "花を育てます。",
+    "exr": "hana o sodatemasu.",
+    "ex_en": "I grow flowers.",
+    "ex_zh": "养花。"
   },
   {
     "w": "育つ",
     "r": "sodatsu",
     "en": "to grow up",
     "zh": "成长",
-    "level": "N4"
+    "level": "N4",
+    "ex": "子供が元気に育ちます。",
+    "exr": "kodomo ga genki ni sodachimasu.",
+    "ex_en": "Children grow up healthy.",
+    "ex_zh": "孩子健康成长。"
   },
   {
     "w": "死ぬ",
     "r": "shinu",
     "en": "to die",
     "zh": "死",
-    "level": "N4"
+    "level": "N4",
+    "ex": "花が枯れて死にました。",
+    "exr": "hana ga karete shinimashita.",
+    "ex_en": "The flower withered and died.",
+    "ex_zh": "花枯死了。"
   },
   {
     "w": "生きる",
     "r": "ikiru",
     "en": "to live",
     "zh": "活",
-    "level": "N4"
+    "level": "N4",
+    "ex": "元気に生きたいです。",
+    "exr": "genki ni ikitai desu.",
+    "ex_en": "I want to live in good health.",
+    "ex_zh": "想健康地活着。"
   },
   {
     "w": "動く",
     "r": "ugoku",
     "en": "to move (intr.)",
     "zh": "动",
-    "level": "N4"
+    "level": "N4",
+    "ex": "車が動きません。",
+    "exr": "kuruma ga ugokimasen.",
+    "ex_en": "The car won't move.",
+    "ex_zh": "车动不了。"
   },
   {
     "w": "止まる",
     "r": "tomaru",
     "en": "to stop (intr.)",
     "zh": "停止",
-    "level": "N4"
+    "level": "N4",
+    "ex": "電車が止まりました。",
+    "exr": "densha ga tomarimashita.",
+    "ex_en": "The train stopped.",
+    "ex_zh": "电车停了。"
   },
   {
     "w": "止める",
     "r": "tomeru",
     "en": "to stop (tr.)",
     "zh": "停下",
-    "level": "N4"
+    "level": "N4",
+    "ex": "車を止めます。",
+    "exr": "kuruma o tomemasu.",
+    "ex_en": "I stop the car.",
+    "ex_zh": "停车。"
   },
   {
     "w": "続く",
     "r": "tsuzuku",
     "en": "to continue (intr.)",
     "zh": "持续",
-    "level": "N4"
+    "level": "N4",
+    "ex": "雨が続いています。",
+    "exr": "ame ga tsuzuite imasu.",
+    "ex_en": "The rain continues.",
+    "ex_zh": "雨一直下。"
   },
   {
     "w": "通る",
     "r": "tōru",
     "en": "to pass through",
     "zh": "通过",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この道を通ります。",
+    "exr": "kono michi o tōrimasu.",
+    "ex_en": "I pass through this road.",
+    "ex_zh": "走这条路。"
   },
   {
     "w": "通う",
     "r": "kayou",
     "en": "to commute",
     "zh": "往返",
-    "level": "N4"
+    "level": "N4",
+    "ex": "学校に通っています。",
+    "exr": "gakkō ni kayotte imasu.",
+    "ex_en": "I commute to school.",
+    "ex_zh": "上学。"
   },
   {
     "w": "渡る",
     "r": "wataru",
     "en": "to cross",
     "zh": "过（马路）",
-    "level": "N4"
+    "level": "N4",
+    "ex": "道を渡ります。",
+    "exr": "michi o watarimasu.",
+    "ex_en": "I cross the street.",
+    "ex_zh": "过马路。"
   },
   {
     "w": "渡す",
     "r": "watasu",
     "en": "to hand over",
     "zh": "交给",
-    "level": "N4"
+    "level": "N4",
+    "ex": "手紙を渡します。",
+    "exr": "tegami o watashimasu.",
+    "ex_en": "I hand over the letter.",
+    "ex_zh": "把信递过去。"
   },
   {
     "w": "曲がる",
     "r": "magaru",
     "en": "to turn/bend",
     "zh": "拐弯",
-    "level": "N4"
+    "level": "N4",
+    "ex": "右に曲がります。",
+    "exr": "migi ni magarimasu.",
+    "ex_en": "I turn right.",
+    "ex_zh": "向右拐。"
   },
   {
     "w": "運ぶ",
     "r": "hakobu",
     "en": "to carry",
     "zh": "搬运",
-    "level": "N4"
+    "level": "N4",
+    "ex": "荷物を運びます。",
+    "exr": "nimotsu o hakobimasu.",
+    "ex_en": "I carry the luggage.",
+    "ex_zh": "搬行李。"
   },
   {
     "w": "拾う",
     "r": "hirou",
     "en": "to pick up",
     "zh": "捡",
-    "level": "N4"
+    "level": "N4",
+    "ex": "ゴミを拾います。",
+    "exr": "gomi o hiroimasu.",
+    "ex_en": "I pick up trash.",
+    "ex_zh": "捡垃圾。"
   },
   {
     "w": "捨てる",
     "r": "suteru",
     "en": "to throw away",
     "zh": "扔",
-    "level": "N4"
+    "level": "N4",
+    "ex": "ゴミを捨てます。",
+    "exr": "gomi o sutemasu.",
+    "ex_en": "I throw away the trash.",
+    "ex_zh": "扔垃圾。"
   },
   {
     "w": "投げる",
     "r": "nageru",
     "en": "to throw",
     "zh": "投",
-    "level": "N4"
+    "level": "N4",
+    "ex": "ボールを投げます。",
+    "exr": "bōru o nagemasu.",
+    "ex_en": "I throw the ball.",
+    "ex_zh": "扔球。"
   },
   {
     "w": "押す",
     "r": "osu",
     "en": "to push",
     "zh": "推",
-    "level": "N4"
+    "level": "N4",
+    "ex": "ボタンを押します。",
+    "exr": "botan o oshimasu.",
+    "ex_en": "I press the button.",
+    "ex_zh": "按按钮。"
   },
   {
     "w": "引く",
     "r": "hiku",
     "en": "to pull",
     "zh": "拉",
-    "level": "N4"
+    "level": "N4",
+    "ex": "ドアを引きます。",
+    "exr": "doa o hikimasu.",
+    "ex_en": "I pull the door.",
+    "ex_zh": "拉门。"
   },
   {
     "w": "打つ",
     "r": "utsu",
     "en": "to hit/strike",
     "zh": "打",
-    "level": "N4"
+    "level": "N4",
+    "ex": "ボールを打ちます。",
+    "exr": "bōru o uchimasu.",
+    "ex_en": "I hit the ball.",
+    "ex_zh": "打球。"
   },
   {
     "w": "触る",
     "r": "sawaru",
     "en": "to touch",
     "zh": "摸",
-    "level": "N4"
+    "level": "N4",
+    "ex": "作品に触らないでください。",
+    "exr": "sakuhin ni sawaranaide kudasai.",
+    "ex_en": "Please don't touch the artwork.",
+    "ex_zh": "请勿触摸作品。"
   },
   {
     "w": "貼る",
     "r": "haru",
     "en": "to paste/stick",
     "zh": "贴",
-    "level": "N4"
+    "level": "N4",
+    "ex": "切手を貼ります。",
+    "exr": "kitte o harimasu.",
+    "ex_en": "I stick on a stamp.",
+    "ex_zh": "贴邮票。"
   },
   {
     "w": "折る",
     "r": "oru",
     "en": "to fold/break",
     "zh": "折",
-    "level": "N4"
+    "level": "N4",
+    "ex": "紙を折ります。",
+    "exr": "kami o orimasu.",
+    "ex_en": "I fold the paper.",
+    "ex_zh": "折纸。"
   },
   {
     "w": "割る",
     "r": "waru",
     "en": "to break/divide",
     "zh": "打碎",
-    "level": "N4"
+    "level": "N4",
+    "ex": "皿を割りました。",
+    "exr": "sara o warimashita.",
+    "ex_en": "I broke a plate.",
+    "ex_zh": "打碎了盘子。"
   },
   {
     "w": "片付ける",
     "r": "katazukeru",
     "en": "to tidy up",
     "zh": "收拾",
-    "level": "N4"
+    "level": "N4",
+    "ex": "部屋を片付けます。",
+    "exr": "heya o katazukemasu.",
+    "ex_en": "I tidy up the room.",
+    "ex_zh": "收拾房间。"
   },
   {
     "w": "並ぶ",
     "r": "narabu",
     "en": "to line up",
     "zh": "排队",
-    "level": "N4"
+    "level": "N4",
+    "ex": "レジに並びます。",
+    "exr": "reji ni narabimasu.",
+    "ex_en": "I line up at the register.",
+    "ex_zh": "在收银台排队。"
   },
   {
     "w": "並べる",
     "r": "naraberu",
     "en": "to arrange",
     "zh": "排列",
-    "level": "N4"
+    "level": "N4",
+    "ex": "椅子を並べます。",
+    "exr": "isu o narabemasu.",
+    "ex_en": "I arrange the chairs.",
+    "ex_zh": "排椅子。"
   },
   {
     "w": "深い",
     "r": "fukai",
     "en": "deep",
     "zh": "深",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この川は深いです。",
+    "exr": "kono kawa wa fukai desu.",
+    "ex_en": "This river is deep.",
+    "ex_zh": "这条河很深。"
   },
   {
     "w": "浅い",
     "r": "asai",
     "en": "shallow",
     "zh": "浅",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この池は浅いです。",
+    "exr": "kono ike wa asai desu.",
+    "ex_en": "This pond is shallow.",
+    "ex_zh": "这池塘很浅。"
   },
   {
     "w": "太い",
     "r": "futoi",
     "en": "thick (round)",
     "zh": "粗",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この木は太いです。",
+    "exr": "kono ki wa futoi desu.",
+    "ex_en": "This tree is thick.",
+    "ex_zh": "这棵树很粗。"
   },
   {
     "w": "細い",
     "r": "hosoi",
     "en": "thin/narrow",
     "zh": "细",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この道は細いです。",
+    "exr": "kono michi wa hosoi desu.",
+    "ex_en": "This road is narrow.",
+    "ex_zh": "这条路很细。"
   },
   {
     "w": "広い",
     "r": "hiroi",
     "en": "spacious",
     "zh": "宽敞",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この部屋は広いです。",
+    "exr": "kono heya wa hiroi desu.",
+    "ex_en": "This room is spacious.",
+    "ex_zh": "这房间很宽敞。"
   },
   {
     "w": "狭い",
     "r": "semai",
     "en": "narrow",
     "zh": "窄",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この部屋は狭いです。",
+    "exr": "kono heya wa semai desu.",
+    "ex_en": "This room is cramped.",
+    "ex_zh": "这房间很窄。"
   },
   {
     "w": "硬い",
     "r": "katai",
     "en": "hard",
     "zh": "硬",
-    "level": "N4"
+    "level": "N4",
+    "ex": "このパンは硬いです。",
+    "exr": "kono pan wa katai desu.",
+    "ex_en": "This bread is hard.",
+    "ex_zh": "这面包很硬。"
   },
   {
     "w": "柔らかい",
     "r": "yawarakai",
     "en": "soft",
     "zh": "软",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この布団は柔らかいです。",
+    "exr": "kono futon wa yawarakai desu.",
+    "ex_en": "This futon is soft.",
+    "ex_zh": "这被子很软。"
   },
   {
     "w": "苦い",
     "r": "nigai",
     "en": "bitter",
     "zh": "苦",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この薬は苦いです。",
+    "exr": "kono kusuri wa nigai desu.",
+    "ex_en": "This medicine is bitter.",
+    "ex_zh": "这药很苦。"
   },
   {
     "w": "眠い",
     "r": "nemui",
     "en": "sleepy",
     "zh": "困",
-    "level": "N4"
+    "level": "N4",
+    "ex": "今とても眠いです。",
+    "exr": "ima totemo nemui desu.",
+    "ex_en": "I'm very sleepy now.",
+    "ex_zh": "现在很困。"
   },
   {
     "w": "苦しい",
     "r": "kurushii",
     "en": "painful/hard",
     "zh": "难受",
-    "level": "N4"
+    "level": "N4",
+    "ex": "息が苦しいです。",
+    "exr": "iki ga kurushii desu.",
+    "ex_en": "It's hard to breathe.",
+    "ex_zh": "呼吸困难。"
   },
   {
     "w": "寂しい",
     "r": "samishii",
     "en": "lonely",
     "zh": "寂寞",
-    "level": "N4"
+    "level": "N4",
+    "ex": "一人で寂しいです。",
+    "exr": "hitori de samishii desu.",
+    "ex_en": "I'm lonely by myself.",
+    "ex_zh": "一个人很寂寞。"
   },
   {
     "w": "怖い",
     "r": "kowai",
     "en": "scary",
     "zh": "可怕",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この映画は怖いです。",
+    "exr": "kono eiga wa kowai desu.",
+    "ex_en": "This movie is scary.",
+    "ex_zh": "这电影很可怕。"
   },
   {
     "w": "恥ずかしい",
     "r": "hazukashii",
     "en": "embarrassing",
     "zh": "害羞",
-    "level": "N4"
+    "level": "N4",
+    "ex": "間違えて恥ずかしいです。",
+    "exr": "machigaete hazukashii desu.",
+    "ex_en": "I'm embarrassed for making a mistake.",
+    "ex_zh": "出错了很害羞。"
   },
   {
     "w": "珍しい",
     "r": "mezurashii",
     "en": "rare/unusual",
     "zh": "稀奇",
-    "level": "N4"
+    "level": "N4",
+    "ex": "珍しい鳥を見ました。",
+    "exr": "mezurashii tori o mimashita.",
+    "ex_en": "I saw a rare bird.",
+    "ex_zh": "看到了稀有的鸟。"
   },
   {
     "w": "正しい",
     "r": "tadashii",
     "en": "correct",
     "zh": "正确",
-    "level": "N4"
+    "level": "N4",
+    "ex": "答えは正しいです。",
+    "exr": "kotae wa tadashii desu.",
+    "ex_en": "The answer is correct.",
+    "ex_zh": "答案正确。"
   },
   {
     "w": "危ない",
     "r": "abunai",
     "en": "dangerous",
     "zh": "危险",
-    "level": "N4"
+    "level": "N4",
+    "ex": "そこは危ないです。",
+    "exr": "soko wa abunai desu.",
+    "ex_en": "It's dangerous there.",
+    "ex_zh": "那里很危险。"
   },
   {
     "w": "特別",
     "r": "tokubetsu",
     "en": "special",
     "zh": "特别",
-    "level": "N4"
+    "level": "N4",
+    "ex": "今日は特別な日です。",
+    "exr": "kyō wa tokubetsu na hi desu.",
+    "ex_en": "Today is a special day.",
+    "ex_zh": "今天是特别的日子。"
   },
   {
     "w": "十分",
     "r": "jūbun",
     "en": "sufficient",
     "zh": "充分",
-    "level": "N4"
+    "level": "N4",
+    "ex": "時間は十分あります。",
+    "exr": "jikan wa jūbun arimasu.",
+    "ex_en": "There's plenty of time.",
+    "ex_zh": "时间足够。"
   },
   {
     "w": "複雑",
     "r": "fukuzatsu",
     "en": "complicated",
     "zh": "复杂",
-    "level": "N4"
+    "level": "N4",
+    "ex": "問題が複雑です。",
+    "exr": "mondai ga fukuzatsu desu.",
+    "ex_en": "The problem is complicated.",
+    "ex_zh": "问题很复杂。"
   },
   {
     "w": "簡単",
     "r": "kantan",
     "en": "simple/easy",
     "zh": "简单",
-    "level": "N4"
+    "level": "N4",
+    "ex": "この料理は簡単です。",
+    "exr": "kono ryōri wa kantan desu.",
+    "ex_en": "This dish is easy.",
+    "ex_zh": "这道菜很简单。"
   },
   {
     "w": "丁寧",
     "r": "teinei",
     "en": "polite/careful",
     "zh": "客气周到",
-    "level": "N4"
+    "level": "N4",
+    "ex": "丁寧に説明します。",
+    "exr": "teinei ni setsumei shimasu.",
+    "ex_en": "I explain carefully.",
+    "ex_zh": "仔细地说明。"
   },
   {
     "w": "真面目",
     "r": "majime",
     "en": "serious/diligent",
     "zh": "认真",
-    "level": "N4"
+    "level": "N4",
+    "ex": "彼は真面目な学生です。",
+    "exr": "kare wa majime na gakusei desu.",
+    "ex_en": "He's a diligent student.",
+    "ex_zh": "他是认真的学生。"
   },
   {
     "w": "親切",
     "r": "shinsetsu",
     "en": "kind",
     "zh": "亲切",
-    "level": "N4"
+    "level": "N4",
+    "ex": "店員は親切です。",
+    "exr": "ten'in wa shinsetsu desu.",
+    "ex_en": "The clerk is kind.",
+    "ex_zh": "店员很亲切。"
   },
   {
     "w": "立派",
     "r": "rippa",
     "en": "splendid",
     "zh": "出色",
-    "level": "N4"
+    "level": "N4",
+    "ex": "立派な家ですね。",
+    "exr": "rippa na ie desu ne.",
+    "ex_en": "What a splendid house.",
+    "ex_zh": "真是气派的房子。"
   },
   {
     "w": "邪魔",
     "r": "jama",
     "en": "hindrance/nuisance",
     "zh": "妨碍",
-    "level": "N4"
+    "level": "N4",
+    "ex": "邪魔してすみません。",
+    "exr": "jama shite sumimasen.",
+    "ex_en": "Sorry to bother you.",
+    "ex_zh": "打扰了抱歉。"
   },
   {
     "w": "得意",
     "r": "tokui",
     "en": "one's strong point",
     "zh": "擅长",
-    "level": "N4"
+    "level": "N4",
+    "ex": "数学が得意です。",
+    "exr": "sūgaku ga tokui desu.",
+    "ex_en": "I'm good at math.",
+    "ex_zh": "擅长数学。"
   },
   {
     "w": "苦手",
     "r": "nigate",
     "en": "weak point/dislike",
     "zh": "不擅长",
-    "level": "N4"
+    "level": "N4",
+    "ex": "運動が苦手です。",
+    "exr": "undō ga nigate desu.",
+    "ex_en": "I'm bad at sports.",
+    "ex_zh": "不擅长运动。"
   },
   {
     "w": "無理",
     "r": "muri",
     "en": "impossible/unreasonable",
     "zh": "勉强",
-    "level": "N4"
+    "level": "N4",
+    "ex": "今日中は無理です。",
+    "exr": "kyōjū wa muri desu.",
+    "ex_en": "It's impossible by today.",
+    "ex_zh": "今天之内不可能。"
   },
   {
     "w": "経営",
     "r": "keiei",
     "en": "management",
     "zh": "经营",
-    "level": "N3"
+    "level": "N3",
+    "ex": "会社を経営しています。",
+    "exr": "kaisha o keiei shite imasu.",
+    "ex_en": "I run a company.",
+    "ex_zh": "经营公司。"
   },
   {
     "w": "政治",
     "r": "seiji",
     "en": "politics",
     "zh": "政治",
-    "level": "N3"
+    "level": "N3",
+    "ex": "政治に興味があります。",
+    "exr": "seiji ni kyōmi ga arimasu.",
+    "ex_en": "I'm interested in politics.",
+    "ex_zh": "对政治有兴趣。"
   },
   {
     "w": "法律",
     "r": "hōritsu",
     "en": "law",
     "zh": "法律",
-    "level": "N3"
+    "level": "N3",
+    "ex": "法律を守ります。",
+    "exr": "hōritsu o mamorimasu.",
+    "ex_en": "I obey the law.",
+    "ex_zh": "遵守法律。"
   },
   {
     "w": "制度",
     "r": "seido",
     "en": "system/institution",
     "zh": "制度",
-    "level": "N3"
+    "level": "N3",
+    "ex": "新しい制度を作ります。",
+    "exr": "atarashii seido o tsukurimasu.",
+    "ex_en": "We make a new system.",
+    "ex_zh": "建立新制度。"
   },
   {
     "w": "関係",
     "r": "kankei",
     "en": "relationship",
     "zh": "关系",
-    "level": "N3"
+    "level": "N3",
+    "ex": "二人はいい関係です。",
+    "exr": "futari wa ii kankei desu.",
+    "ex_en": "The two have a good relationship.",
+    "ex_zh": "两人关系好。"
   },
   {
     "w": "影響",
     "r": "eikyō",
     "en": "influence",
     "zh": "影响",
-    "level": "N3"
+    "level": "N3",
+    "ex": "天気に影響されます。",
+    "exr": "tenki ni eikyō saremasu.",
+    "ex_en": "I'm affected by the weather.",
+    "ex_zh": "受天气影响。"
   },
   {
     "w": "状態",
     "r": "jōtai",
     "en": "state/condition",
     "zh": "状态",
-    "level": "N3"
+    "level": "N3",
+    "ex": "健康な状態を保ちます。",
+    "exr": "kenkō na jōtai o tamochimasu.",
+    "ex_en": "I keep a healthy state.",
+    "ex_zh": "保持健康状态。"
   },
   {
     "w": "状況",
     "r": "jōkyō",
     "en": "situation",
     "zh": "情况",
-    "level": "N3"
+    "level": "N3",
+    "ex": "状況を説明します。",
+    "exr": "jōkyō o setsumei shimasu.",
+    "ex_en": "I explain the situation.",
+    "ex_zh": "说明情况。"
   },
   {
     "w": "環境",
     "r": "kankyō",
     "en": "environment",
     "zh": "环境",
-    "level": "N3"
+    "level": "N3",
+    "ex": "環境を守ります。",
+    "exr": "kankyō o mamorimasu.",
+    "ex_en": "I protect the environment.",
+    "ex_zh": "保护环境。"
   },
   {
     "w": "条件",
     "r": "jōken",
     "en": "condition/requirement",
     "zh": "条件",
-    "level": "N3"
+    "level": "N3",
+    "ex": "条件がいいです。",
+    "exr": "jōken ga ii desu.",
+    "ex_en": "The conditions are good.",
+    "ex_zh": "条件很好。"
   },
   {
     "w": "内容",
     "r": "naiyō",
     "en": "content",
     "zh": "内容",
-    "level": "N3"
+    "level": "N3",
+    "ex": "本の内容が面白いです。",
+    "exr": "hon no naiyō ga omoshiroi desu.",
+    "ex_en": "The book's content is interesting.",
+    "ex_zh": "书的内容有趣。"
   },
   {
     "w": "種類",
     "r": "shurui",
     "en": "kind/type",
     "zh": "种类",
-    "level": "N3"
+    "level": "N3",
+    "ex": "いろいろな種類があります。",
+    "exr": "iroiro na shurui ga arimasu.",
+    "ex_en": "There are various kinds.",
+    "ex_zh": "有各种种类。"
   },
   {
     "w": "性格",
     "r": "seikaku",
     "en": "personality",
     "zh": "性格",
-    "level": "N3"
+    "level": "N3",
+    "ex": "明るい性格です。",
+    "exr": "akarui seikaku desu.",
+    "ex_en": "I have a cheerful personality.",
+    "ex_zh": "性格开朗。"
   },
   {
     "w": "態度",
     "r": "taido",
     "en": "attitude",
     "zh": "态度",
-    "level": "N3"
+    "level": "N3",
+    "ex": "態度が悪いです。",
+    "exr": "taido ga warui desu.",
+    "ex_en": "The attitude is bad.",
+    "ex_zh": "态度不好。"
   },
   {
     "w": "表現",
     "r": "hyōgen",
     "en": "expression",
     "zh": "表现",
-    "level": "N3"
+    "level": "N3",
+    "ex": "いい表現を覚えます。",
+    "exr": "ii hyōgen o oboemasu.",
+    "ex_en": "I memorize a good expression.",
+    "ex_zh": "记住好的表达。"
   },
   {
     "w": "判断",
     "r": "handan",
     "en": "judgment",
     "zh": "判断",
-    "level": "N3"
+    "level": "N3",
+    "ex": "自分で判断します。",
+    "exr": "jibun de handan shimasu.",
+    "ex_en": "I judge for myself.",
+    "ex_zh": "自己判断。"
   },
   {
     "w": "決定",
     "r": "kettei",
     "en": "decision",
     "zh": "决定",
-    "level": "N3"
+    "level": "N3",
+    "ex": "決定を待ちます。",
+    "exr": "kettei o machimasu.",
+    "ex_en": "I wait for the decision.",
+    "ex_zh": "等待决定。"
   },
   {
     "w": "選択",
     "r": "sentaku",
     "en": "choice/selection",
     "zh": "选择",
-    "level": "N3"
+    "level": "N3",
+    "ex": "正しい選択をします。",
+    "exr": "tadashii sentaku o shimasu.",
+    "ex_en": "I make the right choice.",
+    "ex_zh": "做正确的选择。"
   },
   {
     "w": "実現",
     "r": "jitsugen",
     "en": "realization",
     "zh": "实现",
-    "level": "N3"
+    "level": "N3",
+    "ex": "夢を実現します。",
+    "exr": "yume o jitsugen shimasu.",
+    "ex_en": "I make my dream come true.",
+    "ex_zh": "实现梦想。"
   },
   {
     "w": "発生",
     "r": "hassei",
     "en": "occurrence",
     "zh": "发生",
-    "level": "N3"
+    "level": "N3",
+    "ex": "問題が発生しました。",
+    "exr": "mondai ga hassei shimashita.",
+    "ex_en": "A problem occurred.",
+    "ex_zh": "发生了问题。"
   },
   {
     "w": "発達",
     "r": "hattatsu",
     "en": "development",
     "zh": "发达",
-    "level": "N3"
+    "level": "N3",
+    "ex": "技術が発達しました。",
+    "exr": "gijutsu ga hattatsu shimashita.",
+    "ex_en": "Technology has developed.",
+    "ex_zh": "技术发达了。"
   },
   {
     "w": "発展",
     "r": "hatten",
     "en": "expansion/growth",
     "zh": "发展",
-    "level": "N3"
+    "level": "N3",
+    "ex": "経済が発展します。",
+    "exr": "keizai ga hatten shimasu.",
+    "ex_en": "The economy develops.",
+    "ex_zh": "经济发展。"
   },
   {
     "w": "進歩",
     "r": "shinpo",
     "en": "progress",
     "zh": "进步",
-    "level": "N3"
+    "level": "N3",
+    "ex": "技術が進歩します。",
+    "exr": "gijutsu ga shinpo shimasu.",
+    "ex_en": "Technology progresses.",
+    "ex_zh": "技术进步。"
   },
   {
     "w": "増加",
     "r": "zōka",
     "en": "increase",
     "zh": "增加",
-    "level": "N3"
+    "level": "N3",
+    "ex": "人口が増加します。",
+    "exr": "jinkō ga zōka shimasu.",
+    "ex_en": "The population increases.",
+    "ex_zh": "人口增加。"
   },
   {
     "w": "減少",
     "r": "genshō",
     "en": "decrease",
     "zh": "减少",
-    "level": "N3"
+    "level": "N3",
+    "ex": "人口が減少します。",
+    "exr": "jinkō ga genshō shimasu.",
+    "ex_en": "The population decreases.",
+    "ex_zh": "人口减少。"
   },
   {
     "w": "変更",
     "r": "henkō",
     "en": "change/alteration",
     "zh": "变更",
-    "level": "N3"
+    "level": "N3",
+    "ex": "予定を変更します。",
+    "exr": "yotei o henkō shimasu.",
+    "ex_en": "I change the schedule.",
+    "ex_zh": "变更日程。"
   },
   {
     "w": "比較",
     "r": "hikaku",
     "en": "comparison",
     "zh": "比较",
-    "level": "N3"
+    "level": "N3",
+    "ex": "二つを比較します。",
+    "exr": "futatsu o hikaku shimasu.",
+    "ex_en": "I compare the two.",
+    "ex_zh": "比较两者。"
   },
   {
     "w": "区別",
     "r": "kubetsu",
     "en": "distinction",
     "zh": "区别",
-    "level": "N3"
+    "level": "N3",
+    "ex": "色で区別します。",
+    "exr": "iro de kubetsu shimasu.",
+    "ex_en": "I distinguish by color.",
+    "ex_zh": "用颜色区分。"
   },
   {
     "w": "平均",
     "r": "heikin",
     "en": "average",
     "zh": "平均",
-    "level": "N3"
+    "level": "N3",
+    "ex": "平均より高いです。",
+    "exr": "heikin yori takai desu.",
+    "ex_en": "It's higher than average.",
+    "ex_zh": "比平均高。"
   },
   {
     "w": "計画",
     "r": "keikaku",
     "en": "plan",
     "zh": "计划",
-    "level": "N3"
+    "level": "N3",
+    "ex": "旅行を計画します。",
+    "exr": "ryokō o keikaku shimasu.",
+    "ex_en": "I plan a trip.",
+    "ex_zh": "计划旅行。"
   },
   {
     "w": "目標",
     "r": "mokuhyō",
     "en": "goal/target",
     "zh": "目标",
-    "level": "N3"
+    "level": "N3",
+    "ex": "目標を立てます。",
+    "exr": "mokuhyō o tatemasu.",
+    "ex_en": "I set a goal.",
+    "ex_zh": "定目标。"
   },
   {
     "w": "予測",
     "r": "yosoku",
     "en": "prediction",
     "zh": "预测",
-    "level": "N3"
+    "level": "N3",
+    "ex": "天気を予測します。",
+    "exr": "tenki o yosoku shimasu.",
+    "ex_en": "I predict the weather.",
+    "ex_zh": "预测天气。"
   },
   {
     "w": "期待",
     "r": "kitai",
     "en": "expectation",
     "zh": "期待",
-    "level": "N3"
+    "level": "N3",
+    "ex": "結果を期待します。",
+    "exr": "kekka o kitai shimasu.",
+    "ex_en": "I look forward to the result.",
+    "ex_zh": "期待结果。"
   },
   {
     "w": "努力",
     "r": "doryoku",
     "en": "effort",
     "zh": "努力",
-    "level": "N3"
+    "level": "N3",
+    "ex": "毎日努力します。",
+    "exr": "mainichi doryoku shimasu.",
+    "ex_en": "I make an effort every day.",
+    "ex_zh": "每天努力。"
   },
   {
     "w": "責任",
     "r": "sekinin",
     "en": "responsibility",
     "zh": "责任",
-    "level": "N3"
+    "level": "N3",
+    "ex": "責任を持ちます。",
+    "exr": "sekinin o mochimasu.",
+    "ex_en": "I take responsibility.",
+    "ex_zh": "承担责任。"
   },
   {
     "w": "能力",
     "r": "nōryoku",
     "en": "ability",
     "zh": "能力",
-    "level": "N3"
+    "level": "N3",
+    "ex": "能力を伸ばします。",
+    "exr": "nōryoku o nobashimasu.",
+    "ex_en": "I develop my abilities.",
+    "ex_zh": "提高能力。"
   },
   {
     "w": "効果",
     "r": "kōka",
     "en": "effect",
     "zh": "效果",
-    "level": "N3"
+    "level": "N3",
+    "ex": "薬の効果があります。",
+    "exr": "kusuri no kōka ga arimasu.",
+    "ex_en": "The medicine is effective.",
+    "ex_zh": "药有效果。"
   },
   {
     "w": "効率",
     "r": "kōritsu",
     "en": "efficiency",
     "zh": "效率",
-    "level": "N3"
+    "level": "N3",
+    "ex": "効率を上げます。",
+    "exr": "kōritsu o agemasu.",
+    "ex_en": "I improve efficiency.",
+    "ex_zh": "提高效率。"
   },
   {
     "w": "利益",
     "r": "rieki",
     "en": "profit",
     "zh": "利益",
-    "level": "N3"
+    "level": "N3",
+    "ex": "会社の利益が増えました。",
+    "exr": "kaisha no rieki ga fuemashita.",
+    "ex_en": "The company's profit increased.",
+    "ex_zh": "公司利润增加了。"
   },
   {
     "w": "費用",
     "r": "hiyō",
     "en": "expense/cost",
     "zh": "费用",
-    "level": "N3"
+    "level": "N3",
+    "ex": "費用がかかります。",
+    "exr": "hiyō ga kakarimasu.",
+    "ex_en": "It costs money.",
+    "ex_zh": "需要费用。"
   },
   {
     "w": "予算",
     "r": "yosan",
     "en": "budget",
     "zh": "预算",
-    "level": "N3"
+    "level": "N3",
+    "ex": "予算を決めます。",
+    "exr": "yosan o kimemasu.",
+    "ex_en": "I decide the budget.",
+    "ex_zh": "决定预算。"
   },
   {
     "w": "収入",
     "r": "shūnyū",
     "en": "income",
     "zh": "收入",
-    "level": "N3"
+    "level": "N3",
+    "ex": "収入が増えました。",
+    "exr": "shūnyū ga fuemashita.",
+    "ex_en": "My income increased.",
+    "ex_zh": "收入增加了。"
   },
   {
     "w": "税金",
     "r": "zeikin",
     "en": "tax",
     "zh": "税",
-    "level": "N3"
+    "level": "N3",
+    "ex": "税金を払います。",
+    "exr": "zeikin o haraimasu.",
+    "ex_en": "I pay taxes.",
+    "ex_zh": "交税。"
   },
   {
     "w": "貿易",
     "r": "bōeki",
     "en": "trade",
     "zh": "贸易",
-    "level": "N3"
+    "level": "N3",
+    "ex": "二国は貿易をします。",
+    "exr": "nikoku wa bōeki o shimasu.",
+    "ex_en": "The two countries trade.",
+    "ex_zh": "两国进行贸易。"
   },
   {
     "w": "産業",
     "r": "sangyō",
     "en": "industry",
     "zh": "产业",
-    "level": "N3"
+    "level": "N3",
+    "ex": "産業が発達しています。",
+    "exr": "sangyō ga hattatsu shite imasu.",
+    "ex_en": "Industry is developed.",
+    "ex_zh": "产业发达。"
   },
   {
     "w": "企業",
     "r": "kigyō",
     "en": "enterprise/company",
     "zh": "企业",
-    "level": "N3"
+    "level": "N3",
+    "ex": "大きい企業で働きます。",
+    "exr": "ōkii kigyō de hatarakimasu.",
+    "ex_en": "I work at a large company.",
+    "ex_zh": "在大企业工作。"
   },
   {
     "w": "商品",
     "r": "shōhin",
     "en": "goods/merchandise",
     "zh": "商品",
-    "level": "N3"
+    "level": "N3",
+    "ex": "商品を並べます。",
+    "exr": "shōhin o narabemasu.",
+    "ex_en": "I arrange the goods.",
+    "ex_zh": "摆放商品。"
   },
   {
     "w": "製品",
     "r": "seihin",
     "en": "product",
     "zh": "产品",
-    "level": "N3"
+    "level": "N3",
+    "ex": "新しい製品を作ります。",
+    "exr": "atarashii seihin o tsukurimasu.",
+    "ex_en": "We make a new product.",
+    "ex_zh": "制造新产品。"
   },
   {
     "w": "資料",
     "r": "shiryō",
     "en": "materials/data",
     "zh": "资料",
-    "level": "N3"
+    "level": "N3",
+    "ex": "資料を集めます。",
+    "exr": "shiryō o atsumemasu.",
+    "ex_en": "I gather materials.",
+    "ex_zh": "收集资料。"
   },
   {
     "w": "記録",
     "r": "kiroku",
     "en": "record",
     "zh": "记录",
-    "level": "N3"
+    "level": "N3",
+    "ex": "記録を残します。",
+    "exr": "kiroku o nokoshimasu.",
+    "ex_en": "I keep a record.",
+    "ex_zh": "留下记录。"
   },
   {
     "w": "調査",
     "r": "chōsa",
     "en": "survey/investigation",
     "zh": "调查",
-    "level": "N3"
+    "level": "N3",
+    "ex": "市場を調査します。",
+    "exr": "shijō o chōsa shimasu.",
+    "ex_en": "I survey the market.",
+    "ex_zh": "调查市场。"
   },
   {
     "w": "研究",
     "r": "kenkyū",
     "en": "research",
     "zh": "研究",
-    "level": "N3"
+    "level": "N3",
+    "ex": "大学で研究します。",
+    "exr": "daigaku de kenkyū shimasu.",
+    "ex_en": "I do research at university.",
+    "ex_zh": "在大学做研究。"
   },
   {
     "w": "実験",
     "r": "jikken",
     "en": "experiment",
     "zh": "实验",
-    "level": "N3"
+    "level": "N3",
+    "ex": "実験を行います。",
+    "exr": "jikken o okonaimasu.",
+    "ex_en": "I conduct an experiment.",
+    "ex_zh": "进行实验。"
   },
   {
     "w": "発表",
     "r": "happyō",
     "en": "presentation/announcement",
     "zh": "发表",
-    "level": "N3"
+    "level": "N3",
+    "ex": "結果を発表します。",
+    "exr": "kekka o happyō shimasu.",
+    "ex_en": "I present the results.",
+    "ex_zh": "发表结果。"
   },
   {
     "w": "報告",
     "r": "hōkoku",
     "en": "report",
     "zh": "报告",
-    "level": "N3"
+    "level": "N3",
+    "ex": "上司に報告します。",
+    "exr": "jōshi ni hōkoku shimasu.",
+    "ex_en": "I report to my boss.",
+    "ex_zh": "向上司报告。"
   }
 ]

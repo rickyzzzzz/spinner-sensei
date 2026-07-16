@@ -139,12 +139,31 @@ def format_entry(entry, meaning_list, display_format):
                 break
     meaning_str = " · ".join(meanings)
 
+    if display_format == "with_example" and entry.get("ex"):
+        ex = entry["ex"]
+        exr = entry.get("exr", "")
+        ex_glosses = []
+        for lang in meaning_list:
+            key = MEANING_KEYS.get(lang)
+            if key and entry.get("ex_" + key):
+                ex_glosses.append(entry["ex_" + key])
+        if not ex_glosses:  # fall back to whatever example gloss exists
+            for key in ("en", "zh"):
+                if entry.get("ex_" + key):
+                    ex_glosses.append(entry["ex_" + key])
+                    break
+        sentence = f"{ex} ({exr})" if exr else ex
+        ex_gloss = " · ".join(ex_glosses)
+        if ex_gloss:
+            sentence = f"{sentence} {ex_gloss}"
+        return f"{head} · {sentence}"
+
     if display_format == "recognition":
         return head
     if display_format == "no_romaji":
         base = word if word else head
         return f"{base} — {meaning_str}" if meaning_str else base
-    # full
+    # full (and with_example fall-through when the entry has no example)
     return f"{head} — {meaning_str}" if meaning_str else head
 
 

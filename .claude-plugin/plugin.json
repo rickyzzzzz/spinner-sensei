@@ -1,7 +1,7 @@
 {
   "name": "spinner-sensei",
   "displayName": "Spinner Sensei",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Learn a language from your Claude Code spinner — rotating vocabulary flashcards while Claude works. Zero token cost for rotation.",
   "author": {
     "name": "rickyzzzzz",
